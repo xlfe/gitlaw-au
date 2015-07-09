@@ -77,6 +77,12 @@ class Legislation(object):
                 } for l,v,p in zip(links, volumes,pages)]
 
 
+
+#Don't need to use this - checkout details_current.json in this repo
+#And you can download the files referenced in details_current.json
+#   from https://s3.amazonaws.com/gitlaw-au/gitlaw-au-current-2015-07-05.tar.gz
+
+
 INPUT = './acts_current.txt'
 
 with open(INPUT,'r') as inp:
