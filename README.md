@@ -1,4 +1,4 @@
-# gitlaw
+# gitlaw-au
 
 Ever wondered what it would look like if Australian Legislation was available in git / Github?
 
@@ -11,11 +11,15 @@ I didn't quite make it for GovHack.... oh well!
 
 ### Status
 
-[x] Get a list of all current acts and their ComLawID [acts_current.txt](https://github.com/xlfe/gitlaw-au/blob/master/acts_current.txt)
-[x] Get a list of all the RTF/DOC/DOCx versions and volumes of those acts [details_current.json](https://github.com/xlfe/gitlaw-au/blob/master/details_current.txt)
-[x] Download all the relevant RTF/DOC/DOCx files [Amazon S3](https://s3.amazonaws.com/gitlaw-au/gitlaw-au-current-2015-07-05.tar.gz)
-[ ] Extract structure of documents and convert to Markdown (in progress)
-[ ] Access historical / series of act for history
+- [x] Get a list of all current acts and their ComLawID [acts_current.txt](https://github.com/xlfe/gitlaw-au/blob/master/acts_current.txt)
+- [x] Get a list of all the RTF/DOC/DOCx versions and volumes of those acts [details_current.json](https://github.com/xlfe/gitlaw-au/blob/master/details_current.txt)
+- [x] Download all the relevant RTF/DOC/DOCx files [Amazon S3](https://s3.amazonaws.com/gitlaw-au/gitlaw-au-current-2015-07-05.tar.gz)
+- [ ] Extract structure of documents and convert to Markdown (in progress)
+ - [x] Read DOCx format and extract indent and font sizes
+ - [ ] Convert these to markdown indents and heading size
+ - [ ] Extract table structures
+ - [ ] Write to markdown using historical git commit based on date legislation came into force
+- [ ] Access historical / series of act for history
 
 ### Howto print the text of some legislation
 
