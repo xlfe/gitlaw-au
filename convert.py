@@ -24,9 +24,25 @@ code_map = [
     (u'\u201d', '"'),   #Right double quotation mark
     (u'\u2013', ' '),   #
     (u'\u2014', '--'),   #Em dash
+    (u'\u2026', ' '),   #horizontal elipsis
     (u'\u2011', '-')    #Non-breaking hyphen
 ]
 STYLE = collections.namedtuple('STYLE', 'BOLD ITALIC')
+
+TEXT = collections.namedtuple('TEXT', 'bold italic indent heading new_para text')
+
+def whitespace_handler(match):
+    o = ''
+    for c in match.group(0):
+        if c == ' ':
+            o += ' '
+        elif c == '\t':
+            o += '    '
+
+    if o != '':
+        return o + ' * '
+    return o
+
 
 class StyleManager(object):
 
@@ -76,13 +92,12 @@ class TextUtil(object):
 
     def convert(self, input, output, type):
 
-        if type=='iconDOCX':
-            return ''
 
         if type == 'iconDOCX':
+            print 'Opening {}'.format(input)
             docx = Document(input)
         else:
-            print 'converting from {}'.format(type)
+            print 'converting from {} {}'.format(type, input)
             command = 'textutil -convert docx -stdout ./{} >| ./tmp'.format(input)
             subprocess.check_call(command, shell=True)
             docx = Document('./tmp')
@@ -104,7 +119,7 @@ class TextUtil(object):
             if not p.text.strip():
                 continue
 
-            indent = p.paragraph_format.left_indent / 635 if p.paragraph_format.left_indent is not None else 0
+            indent = p.paragraph_format.left_indent.pt if p.paragraph_format.left_indent is not None else 0
             indents[indent] += 1
 
             if p.style.font and p.style.font.size:
@@ -119,16 +134,10 @@ class TextUtil(object):
                 r_size = r.font.size.pt if r.font.size is not None else p_size
                 font_sizes[r_size] += 1
 
-        if len(indents) == 0:
-            raise Exception()
-
         font_sizes_ordered = sorted(font_sizes.iterkeys(), key=lambda k:int(k), reverse=True)
-        indent_levels_ordered = sorted(indents.iterkeys(), key=lambda k:int(k))
         font_sizes_usage = sorted(font_sizes.iteritems(), key=lambda k:k[1], reverse=True)
         most_common_size = font_sizes_usage[0][0]
         idx_most_common = font_sizes_ordered.index(most_common_size)
-        prev_indent = 0
-        indent = 0
         out = []
 
         for p in docx.paragraphs:
@@ -136,25 +145,6 @@ class TextUtil(object):
             if not p.text.strip():
                 continue
 
-            out.append('')
-
-            _indent = p.paragraph_format.left_indent / 635 if p.paragraph_format.left_indent is not None else 0
-            indent_idx = int(indent_levels_ordered.index(_indent))
-
-            if _indent > 0:
-
-                if indent_idx > prev_indent:
-                    indent += 1
-                elif indent_idx < prev_indent:
-                    indent -= 1
-            else:
-                indent = 0
-
-            if indent < 0:
-                indent = 0
-
-
-            prev_indent = indent_idx
 
             if p.style.font and p.style.font.size:
                 p_size = p.style.font.size.pt
@@ -163,10 +153,12 @@ class TextUtil(object):
             else:
                 p_size = normal_size
 
-            if indent > 0:
-                ind = ' ' * indent + '* '
+            _indent = p.paragraph_format.left_indent.pt if p.paragraph_format.left_indent is not None else 0
+
+            if _indent > 0:
+                indent = int(_indent / p_size)
             else:
-                ind = ''
+                indent = 0
 
             sizes = collections.defaultdict(int)
             for r in p.runs:
@@ -180,48 +172,104 @@ class TextUtil(object):
                 sizes[size_index] += 1
 
             size_index = sorted(sizes.iteritems(), key=lambda k:k[1], reverse=True)[0][0]
-            if size_index:
-                heading = '#' * size_index
-            else:
-                heading = ''
-            style = StyleManager()
-            run = ''
 
             for r in p.runs:
+
+                run_indent = 0
 
                 text = r.text
                 for frm, to in code_map:
                     text = text.replace(frm, to)
 
-                hasnl = '\n' in text
 
-                for line in text.split('\n'):
+                # while had_nl and text.startswith(' ') or text.startswith('\t'):
+                #     if text.startswith(' '):
+                #         run_indent += 1
+                #     elif text.startswith('\t'):
+                #         run_indent += 4
+                #     text = text[1:]
 
-
-                    #line = re.sub(r'^([\s]*)\(([0-9a-zA-Z\.]+)\)[\s]*',r'\1 * (\2) ', line, count=1)
-
-                    run += ind + style.this_style(r,line)
-
-                    if hasnl and heading != '':
-                        raise Exception()
-                    elif hasnl:
-                        run += '\n'
+                remove = r'(DOCPROPERTY ([a-zA-Z]+)|TOC \\o|PAGEREF _[a-zA-Z0-9]+ \\h [\d]+|STYLEREF [a-zA-Z0-9]+)'
 
 
+                text = re.sub(remove,'',text)
 
-            run += style.close()
-            if heading == '' and (run.startswith(' ') or run.startswith('\t')):
-                run = re.sub(r'^([\s]*)',r'\1 * ', run, count=1)
+                if text.replace(' ','') != '':
+                    out.append(TEXT(
+                        1 if r.bold == True else 0,
+                        1 if r.italic == True else 0,
+                        indent + run_indent,
+                        size_index,
+                        0,
+                        text
+                    ))
 
-            out.append(heading + run)
+                # if not text.endswith('\n'):
+                #     had_nl = False
 
 
 
 
+            #Paragraph
+            out.append(TEXT(0, 0, 0, 0, 1, None))
+
+            # run += style.close()
+            #
+            # for line in run.split('\n'):
+            #
+            #
+            #line = re.sub(r'^([\s]+)',whitespace_handler, line, count=1)
+            #     out.append(heading + line)
+            #     try:
+            #         test = u'{}'.format(line.encode('ascii'))
+            #     except:
+            #         print line
+            #         raise
+
+
+        joined = []
+        prev= {}
+        buffer = ''
+
+        for o in out:
+            style = o._asdict().copy()
+            text = style.pop('text')
+
+            if style == prev:
+                if text:
+                    buffer += text
+            else:
+                if buffer != '':
+                    prev['text'] = buffer
+                    joined.append(TEXT(**prev))
+                buffer = text
+                prev = style
 
 
 
-        return '\n'.join(out)
+        return joined
+
+
+def joined_to_md(joined):
+    """
+        Rules
+                Bold and Italic are ignored in headings
+                Headings are
+
+    """
+
+
+    for j in joined:
+        if j.text:
+            text = re.sub(r'^([\s]*)([a-z0-9\sA-Z]+:|\([0-9a-zA-Z\.]+\))([\s]*)', r'\1\3\2 ', j.text)
+            #j.text = ''
+            print j
+            print '{}'.format(text)
+
+
+    return ''
+    return '\n'.join(str(s) for s in joined)
+#
 
 
 
@@ -256,6 +304,9 @@ print 'Loaded {} documents'.format(len(details))
 
 for doc in details:
 
+    if int(doc['pages'].split(' ')[0]) > 20:
+        continue
+
     directory = os.path.join('acts',doc['status'].lower(), doc['title'][0].lower())
     filename = doc['title'].lower() + '.md'
     fullpath = os.path.join(directory, filename)
@@ -263,7 +314,7 @@ for doc in details:
     converter.check_dir(directory)
 
     if os.path.exists(fullpath):
-        print 'already converted {}'.format(filename)
+        print 'already converted {}'.format(fullpath)
         continue
 
     if doc['type'] not in ['iconDOC', 'iconDOCX', 'iconRTF']:
@@ -273,8 +324,10 @@ for doc in details:
         print message
         continue
 
-    result = converter.convert(input=os.path.join('comlaw',doc['uuid']), output=fullpath, type=doc['type'])
+    joined = converter.convert(input=os.path.join('comlaw',doc['uuid']), output=fullpath, type=doc['type'])
+    result = joined_to_md(joined)
     if WRITE:
+        print 'Converted {}'.format(fullpath)
         try:
             with open(fullpath, 'wb') as out:
                 out.write(result)
@@ -282,9 +335,9 @@ for doc in details:
             os.remove(fullpath)
             raise
     else:
-        print result
+        if result != '':
+            print result
 
-    print 'Converted {}'.format(fullpath)
 
 
 
