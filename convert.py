@@ -18,6 +18,7 @@ code_map = [
     ('\r', ''),     #Character return
     (u'\xa0', ' '),     #Non breaking space
     (u'\u00b0', ' (?degree?) '),     #degree sign
+    (u'\u00b4', "'"),     #acute accent
     (u'\u2018', "'"),   #Left single quotation mark
     (u'\u2019', "'"),   #Right single quotation mark
     (u'\u2022', ' '),   #Bullet
@@ -31,7 +32,8 @@ code_map = [
 STYLE = collections.namedtuple('STYLE', 'BOLD ITALIC')
 
 class NEWPARA(object):
-    pass
+    def __repr__(self):
+        return '\n'
 
 class TEXT(object):
     ARGS = ['bold', 'italic', 'indent', 'heading', 'text']
@@ -53,7 +55,10 @@ class TEXT(object):
     def _asdict(self):
         return {k:getattr(self, k) for k in self.ARGS}
 
-    def __add__(self, other):
+    def __repr__(self):
+        return str(tuple(getattr(self,k) for k in self.ARGS))
+
+    def join(self, other):
         """try to add two text objects together"""
 
 
@@ -67,19 +72,26 @@ class TEXT(object):
         added.text += other.text
         return added
 
+def para_indent(p):
+    indent = p.paragraph_format.left_indent.pt if p.paragraph_format.left_indent is not None else 0
+    if not indent:
+        indent = p.style.paragraph_format.left_indent.pt if p.style.paragraph_format.left_indent is not None else 0
+    return indent
 
-def whitespace_handler(match):
-    o = ''
-    for c in match.group(0):
-        if c == ' ':
-            o += ' '
-        elif c == '\t':
-            o += '    '
+def pts_to_header(pt):
+    if pt > 18:
+        return 1
 
-    if o != '':
-        return o + ' * '
-    return o
+    elif pt > 16:
+        return 2
 
+    elif pt > 14:
+        return 3
+
+    elif pt > 12:
+        return 4
+
+    return 0
 
 
 class TextUtil(object):
@@ -119,7 +131,7 @@ class TextUtil(object):
             if not p.text.strip():
                 continue
 
-            indent = p.paragraph_format.left_indent.pt if p.paragraph_format.left_indent is not None else 0
+            indent = para_indent(p)
             indents[indent] += 1
 
             if p.style.font and p.style.font.size:
@@ -153,7 +165,7 @@ class TextUtil(object):
             else:
                 p_size = normal_size
 
-            _indent = p.paragraph_format.left_indent.pt if p.paragraph_format.left_indent is not None else 0
+            _indent = para_indent(p)
 
             if _indent > 0:
                 indent = int(_indent / p_size)
@@ -167,7 +179,7 @@ class TextUtil(object):
 
                 size_index = font_sizes_ordered.index(r_size) + 1
 
-                if size_index > 6 or size_index > idx_most_common:
+                if size_index > 6 or size_index >= idx_most_common:
                     size_index = 0
                 sizes[size_index] += 1
 
@@ -259,16 +271,14 @@ def join_styles(input):
 
         if prev:
             try:
-                prev = prev + i
+                i = prev.join(i)
             except ValueError:
                 joined.append(prev)
-                prev = i
-        else:
-            prev = i
+
+        prev = i
 
     return joined
 
-# prev['text'] = re.sub(r'^([\s]*)([a-z0-9\sA-Z]+:|\([0-9a-zA-Z\.]+\))([\s]*)', r'\1\3\2 ', buffer, count=1)
 
 no_style = STYLE(False, False)
 def apply_bold_italic(joined):
@@ -277,59 +287,80 @@ def apply_bold_italic(joined):
     """
 
     style = StyleManager()
+    last = None
 
-    for j in join_styles(joined):
+    for j in joined:
 
         if isinstance(j, NEWPARA):
-            continue
-
-        if j.heading:
+            if isinstance(last, TEXT):
+                last.text += style.close()
+            last = j
             continue
 
         j.text = style.this_style(j.bold, j.italic, j.text)
         j.bold = False
         j.italic = False
+        last = j
+
+
+    if isinstance(last, TEXT):
+        last.text += style.close()
+    return joined
+
+
+def convert_indentation(joined):
+
+    for j in joined:
+        if isinstance(j, NEWPARA):
+            continue
+
+        #Move spaces to before (i) etc
+        j.text = re.sub(r'^([\s]*)([a-z0-9\sA-Z]+:|\([0-9a-zA-Z\.]+\))([\s]*)', r'\1\3\2 ', j.text, count=1)
+
+        while j.text.startswith('\t'):
+            # if j.text.startswith(' '):
+            #     j.indent += 1
+            # elif j.text.startswith('\t'):
+            j.indent += 4
+            j.text = j.text[1:]
 
     return joined
 
+
 def apply_indentation(joined):
 
-    joined = join_styles(joined)
     output = []
-    had_nl = True
 
     for j in joined:
 
         if isinstance(j,NEWPARA):
             output.append('\n')
             output.append('\n')
-            had_nl = True
             continue
 
-        heading = ''
-        indent = ''
+        has_nl = '\n' in j.text
 
-        # text = j.text
-        #Contents often has    1    Name   2
-        text = re.sub(r'^[\s]*([\d]+)\t([^\t]+)\t([\d]+)', r'\1 \2 ', j.text)
+        for text in j.text.split('\n'):
 
-        #only apply headings or indents after a newline...
-        if had_nl:
+            #Contents often has    1    Name   2
+            text = re.sub(r'^[\s]*([\d]+)\t([^\t]+)\t([\d]+)', r'\1 \2 ', text)
+
+
+            #only apply headings or indents after a newline...
 
             if j.heading > 0:
-                heading = '#' * j.heading
+                output.append('#' * j.heading)
 
                 # Remove spaces from the front of a heading...
                 text = re.sub(r'^[\s]*',' ',text, count=1)
 
             elif j.indent > 0:
-                indent = ' ' * j.indent + ' * '
+                output.append(' ' * j.indent + ' * ')
 
+            output.append(text)
+            if has_nl:
+                output.append('\n')
 
-        output.append(heading + indent + text)
-
-        if not '\n' in text:
-            had_nl = False
 
 
 
@@ -382,7 +413,7 @@ for doc in details:
     fullpath = "".join(c for c in fullpath if c.isalnum() or c in keepcharacters).rstrip()
     converter.check_dir(directory)
 
-    if os.path.exists(fullpath):
+    if WRITE and os.path.exists(fullpath):
         print 'already converted {}'.format(fullpath)
         continue
 
@@ -394,7 +425,10 @@ for doc in details:
         continue
 
     joined = converter.convert(input=os.path.join('comlaw',doc['uuid']), output=fullpath, type=doc['type'])
+    joined = join_styles(joined)
     joined = apply_bold_italic(joined)
+    joined = join_styles(joined)
+    joined = convert_indentation(joined)
     result = apply_indentation(joined)
     if WRITE:
         print 'Converted {}'.format(fullpath)
