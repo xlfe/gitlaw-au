@@ -1,0 +1,8376 @@
+Note: This is not the [authoritative source](https://www.comlaw.gov.au/Details/C2015C00033) for this act, and likely contains errors
+
+# Child Support (Assessment) Act 1989
+
+##### No. 124, 1989
+
+### Compilation No. 51
+
+##### Compilation date: 25 February 2015
+
+##### Includes amendments up to: Act No. 2, 2015
+
+##### Registered: 3 March 2015
+
+### About this compilation
+
+**This compilation**
+
+**This is a compilation of the _Child Support (Assessment) Act 1989_ that shows the text of the law as amended and in force on 25 February 2015 (the **_compilation date_**).
+
+This compilation was prepared on 3 March 2015.
+
+The notes at the end of this compilation (the **_endnotes_**) include information about amending laws and the amendment history of provisions of the compiled law.
+
+**Uncommenced amendments**
+
+**The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on ComLaw (www.comlaw.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the series page on ComLaw for the compiled law.
+
+**Application, saving and transitional provisions for provisions and amendments**
+
+**If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+
+**Modifications**
+
+**If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the series page on ComLaw for the compiled law.
+
+**Self-repealing provisions**
+
+**If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+
+## Contents
+
+  * Part 1 Preliminary 
+
+        * 1 Short title 
+
+        * 2 Commencement 
+
+        * 3 Duty of parents to maintain their children 
+
+        * 4 Objects of Act 
+
+        * 4A	Application of the _Criminal Code	_3
+
+        * 5 Interpretation--definitions 
+
+        * 5A	Definition of _annualised MTAWE figure	_14
+
+        * 5B	Definition of _target foreign income	_15
+
+        * 6 Interpretation--expressions used in Registration and Collection Act 
+
+        * 7 Interpretation--expressions used in Part VII of Family Law Act 
+
+        * 7A	Meaning of _child support period	_17
+
+        * 7B	Meaning of _eligible carer	_19
+
+        * 9	Interpretation--meaning of _separated	_20
+
+        * 10	Interpretation--meaning of _resident of Australia	_20
+
+        * 12 Interpretation--happening of child support terminating events 
+
+        * 12A	Use of computer programs to make decisions	24
+
+        * 13 Extension and application of Act in relation to maintenance of exnuptial children 
+
+        * 14 Additional application of Act in relation to maintenance of children of marriages 
+
+        * 15 Corresponding State laws 
+
+        * 16 Act to bind Crown 
+
+  * Part 2 Counselling 
+
+        * 17 Court counselling facilities to be made available 
+
+  * Part 3 Children who may be covered by Act 
+
+        * 18 Act applies only in relation to eligible children 
+
+        * 19 Children born on or after commencing day are eligible children 
+
+        * 20 Children of parents who separate on or after commencing day are eligible children 
+
+        * 21 Children with a brother or sister who is an eligible child are eligible children 
+
+        * 22 Exclusion of certain children from coverage of Act 
+
+  * Part 4 Applications to Registrar for administrative assessment of child support 
+
+     * Division 1--Application requirements	31
+
+        * 23 Application requirements generally 
+
+        * 24 Children in relation to whom applications may be made 
+
+        * 25 Persons who may apply--parents 
+
+        * 25A	Persons who may apply--nonparent carers	32
+
+        * 26 Requirements of applications where there are joint carers 
+
+        * 26A	Requirements of application if child is cared for under child welfare law	34
+
+        * 27 Application for administrative assessment 
+
+        * 28 Application for child support for 2 or more children made in same form 
+
+     * Division 2--Decision on application	35
+
+        * 29 How decision is to be made 
+
+        * 29A	Person by whom child support is payable must be Australian resident or resident of reciprocating jurisdiction	36
+
+        * 29B	Applications by residents of reciprocating jurisdictions	37
+
+        * 30 Decision on application 
+
+        * 30A	No administrative assessment or acceptance of agreement if contrary to international maintenance arrangement	38
+
+        * 30B	Registrar may refuse application for administrative assessment if overseas liability already registered	39
+
+        * 31 Requirement to assess child support on acceptance of application 
+
+        * 32 Withdrawal of application by applicant 
+
+     * Division 3--Notice of decision	41
+
+        * 33 Notice to be given to unsuccessful applicant 
+
+        * 34 Giving notice of successful application 
+
+  * Part 4A--Assessments of child support for later child support periods	43
+
+        * 34A	Registrar must make assessment when new tax figure is available	43
+
+        * 34B	Administrative assessment for child support period started by new agreement when support already payable	44
+
+        * 34C	Administrative assessments for child support periods not started by application or new agreement	46
+
+  * Part 5 Administrative assessment of child support 
+
+     * Division 1--Preliminary	47
+
+        * 35A	Simplified outline	47
+
+     * Division 2--The formulas	48
+
+       * Subdivision A--Preliminary	48
+
+        * 35B	Simplified outline	48
+
+        * 35C	Application of Part to determine annual rate of child support	49
+
+       * Subdivision B--Working out annual rates of child support using incomes of both parents in single child support case	49
+
+        * 35D	Application of Subdivision	49
+
+        * 35 Formula 1: Method statement using incomes of both parents in single child support case with no nonparent carer 
+
+        * 36 Formula 2: Working out annual rates of child support using incomes of both parents in single child support case with a nonparent carer 
+
+       * Subdivision C--Working out annual rates of child support using incomes of both parents in multiple child support cases	52
+
+        * 36A	Application of Subdivision	52
+
+        * 37 Formula 3: Method statement using incomes of both parents in multiple child support cases with no nonparent carer 
+
+        * 38 Formula 4: Working out annual rates of child support using incomes of both parents in multiple child support cases with a nonparent carer 
+
+       * Subdivision D--Working out annual rates of child support using income of one parent	56
+
+        * 38A	Application of Subdivision	56
+
+        * 39 Formula 5: Method statement using income of one parent where other parent not a resident of Australia or in special circumstances 
+
+        * 40 Formula 6: Method statement using income of one parent where other parent deceased 
+
+       * Subdivision E--General provisions	60
+
+        * 40A	Cases where there is more than one person entitled to child support	60
+
+        * 40B	Nonparent carer must have applied for child support	61
+
+        * 40C	Parents with more than 65% care	62
+
+        * 40D	Parents with nil child support percentage	62
+
+     * Division 3--Child support income	63
+
+       * Subdivision A--Preliminary	63
+
+        * 40E	Simplified outline	63
+
+       * Subdivision B--Child support income and combined child support income	64
+
+        * 41 Working out parent's child support income 
+
+        * 42 Working out parents' combined child support income 
+
+       * Subdivision C--Working out the components of child support income	66
+
+        * 43 Working out parent's adjusted taxable income 
+
+        * 44 Postseparation costs 
+
+        * 45 Working out the selfsupport amount 
+
+        * 46 Working out parent's relevant dependent child amount 
+
+        * 47 Working out multicase allowances 
+
+     * Division 4--Percentage of care	72
+
+       * Subdivision A--Preliminary	72
+
+        * 48 Simplified outline 
+
+       * Subdivision B--Determination of percentage of care	72
+
+        * 49 Determination of percentage of care--responsible person has had etc. no pattern of care for a child 
+
+        * 50 Determination of percentage of care--responsible person has had etc. a pattern of care for a child 
+
+        * 51 Percentage of care if action taken to ensure that a care arrangement in relation to a child is complied with 
+
+        * 52 Percentage of care if action taken to make a new care arrangement in relation to a child 
+
+        * 53 Sections 51 and 52 do not apply in certain circumstances 
+
+        * 54	When a person has _reduced care of a child	_78
+
+        * 54A	Working out actual care, and extent of care, of a child	78
+
+        * 54B	Days to which the percentage of care applies if sections 51 and 52 did not apply in relation to a responsible person	79
+
+        * 54C	Days to which the percentage of care applies if section 51 or 52 applied in relation to a responsible person	79
+
+        * 54D	Rounding of a percentage of care	81
+
+        * 54E	Registrar must have regard to guidelines about the making of determinations	82
+
+       * Subdivision C--Revocation of determination of percentage of care	82
+
+        * 54F	Determination must be revoked if there is a change to the responsible person's cost percentage	82
+
+        * 54G	Determination must be revoked if there is less than regular care etc.	83
+
+        * 54H	Registrar may revoke a determination of a responsible person's percentage of care	84
+
+        * 54J	Registrar must have regard to guidelines about the revocation of determinations	85
+
+       * Subdivision D--Percentages of care determined under the Family Assistance Act	86
+
+        * 54K	Percentages of care determined under the Family Assistance Act that apply for child support purposes	86
+
+        * 54L	Reviews of percentages of care under the Family Assistance Administration Act apply for child support purposes	87
+
+     * Division 5--Working out other elements for the formulas	89
+
+       * Subdivision A--Preliminary	89
+
+        * 55A	Simplified outline	89
+
+       * Subdivision B--Working out other elements for the formulas	89
+
+        * 55B	Working out income percentages	89
+
+        * 55C	Working out cost percentages	90
+
+        * 55D	Working out child support percentages	90
+
+        * 55E	Working out the multicase cap	91
+
+     * Division 6--The costs of the child	92
+
+       * Subdivision A--Preliminary	92
+
+        * 55F	Simplified outline	92
+
+       * Subdivision B--The costs of the child	92
+
+        * 55G	Working out the costs of the children	92
+
+        * 55H	Working out the costs of the child	93
+
+        * 55HA	Working out the costs of the child if parents have multiple child support cases	94
+
+     * Division 7--Assessments and estimates of adjusted taxable income	96
+
+       * Subdivision A--Preliminary	96
+
+        * 55J	Simplified outline	96
+
+       * Subdivision B--Adjusted taxable income determined by reference to taxable income etc.	96
+
+        * 56 Taxable income is as assessed under Income Tax Assessment Act 
+
+        * 57 Taxable income for child support purposes where taxable income determined to be nil under Income Tax Assessment Act 
+
+        * 58 Determination by the Registrar of a parent's adjusted taxable income 
+
+        * 58AA	_ATI indexation factor_ for determinations under section 58	103
+
+        * 58A	Subsequently ascertaining components of a parent's adjusted taxable income	104
+
+       * Subdivision BA--Overseas income	106
+
+        * 58B	Inclusion of overseas income in working out a parent's adjusted taxable income	106
+
+        * 58C	Determination of overseas income if information and documents in Registrar's possession are sufficient	106
+
+        * 58D	Determination of overseas income if information and documents in Registrar's possession are insufficient	106
+
+       * Subdivision C--Child support income determined by reference to parent's estimate of adjusted taxable income	107
+
+        * 60 Parent may elect to estimate his or her adjusted taxable income for a year of income 
+
+        * 61 Effect of election 
+
+        * 62 Revocation of income election 
+
+        * 62A	Parent must elect a new estimate of his or her adjusted taxable income for a year of income	111
+
+        * 63 Effect of later election 
+
+        * 63AA	Registrar may refuse to accept an income election	114
+
+        * 63AB	Notice to be given if Registrar refuses to accept an income election	116
+
+       * Subdivision D--Year to date income amounts	116
+
+        * 63AC	Parent may elect a new year to date income amount	116
+
+        * 63AD	Registrar may refuse to accept an election of a new year to date income amount	117
+
+        * 63AE	Registrar may determine a new year to date income amount	118
+
+        * 63AF	Parent's _applicable YTD income amount	_119
+
+       * Subdivision E--Amendment of assessments	120
+
+        * 63A	Amendment of assessment based on income election if event affecting accuracy of estimate occurs	120
+
+        * 63B	Amendment of assessment based on income election if Registrar asks for information supporting estimate	121
+
+        * 63C	Amendment of assessment in minimum rate cases	122
+
+     * Division 7A--Reconciliation of estimates of adjusted taxable income	124
+
+       * Subdivision A--Reconciliation using a parent's actual adjusted taxable income	124
+
+        * 64 Reconciliation using a parent's actual adjusted taxable income--single income election 
+
+        * 64A	Reconciliation using a parent's actual adjusted taxable income--more than one income election	125
+
+        * 64AA	Action by Registrar following reconciliation	129
+
+       * Subdivision B--Reconciliation using a parent's determined ATI	129
+
+        * 64AB	Registrar to determine a parent's adjusted taxable income for the purposes of reconciliation	129
+
+        * 64AC	Reconciliation using a parent's determined ATI--single income election	130
+
+        * 64AD	Reconciliation using a parent's determined ATI--more than one income election	131
+
+        * 64AE	Action by Registrar following reconciliation	134
+
+       * Subdivision C--Penalty	134
+
+        * 64AF	Penalty if a parent underestimates an income amount	134
+
+        * 64AG	Amount of penalty	135
+
+        * 64AH	Remission of penalty	136
+
+     * Division 8--Provisions relating to the making of assessments	137
+
+       * Subdivision A--Preliminary	137
+
+        * 64B	Simplified outline	137
+
+       * Subdivision B--Annual rates of child support for low income parents and minimum annual rates of child support	138
+
+        * 65A	Annual rate of child support for low income parents not on income support	138
+
+        * 65B	Application for section 65A not to apply	139
+
+        * 66 Minimum annual rate of child support 
+
+        * 66A	Registrar may reduce an assessment to nil in certain cases	143
+
+        * 66B	Amendment of assessment made under section 65B or 66A	145
+
+        * 66C	Notice to be given to unsuccessful applicant	145
+
+       * Subdivision C--Making administrative assessments	146
+
+        * 66D	How assessment is to be made	146
+
+        * 67 Assessment to relate to all children for whom child support is payable by parent 
+
+        * 67A	Offsetting of child support liabilities	147
+
+        * 68 Assessment to relate to whole or part of single child support period 
+
+        * 69 Conversion of annual rates into daily rates of payment 
+
+        * 70 Evidence relating to assessments 
+
+        * 71 Assessment for part of a child support period 
+
+        * 72 Validity of assessments 
+
+        * 73 Assumptions as to future events 
+
+        * 73A	Registrar becoming aware of relevant dependent child	149
+
+        * 74 Registrar to give effect to happening of child support terminating events etc. 
+
+        * 74A	Date of effect of change in care	150
+
+        * 75 Amendment of assessments 
+
+        * 76 Notice of assessment to be given 
+
+     * Division 9--Liability to pay child support as assessed	155
+
+        * 76A	Simplified outline	155
+
+        * 77 Effect of assessment 
+
+        * 78 When amounts of child support due and payable 
+
+        * 79 Recovery of amounts of child support 
+
+  * Part 6 Consent arrangements 
+
+     * Division 1--Preliminary	157
+
+        * 80A	Simplified outline	157
+
+        * 80B	Cases in relation to which Part applies	158
+
+     * Division 1A--Binding and limited child support agreements	159
+
+       * Subdivision A--Binding child support agreements	159
+
+        * 80C	Making binding child support agreements	159
+
+        * 80CA	No variation of binding child support agreements	160
+
+        * 80D	Terminating binding child support agreements	160
+
+       * Subdivision B--Limited child support agreements	161
+
+        * 80E	Making limited child support agreements	161
+
+        * 80F	No variation of limited child support agreements	163
+
+        * 80G	Terminating limited child support agreements	163
+
+     * Division 2--Child support agreement requirements	166
+
+        * 81 _Child support agreement _definition and general requirement 
+
+        * 82 Children in relation to whom agreements may be made 
+
+        * 83 Persons who may be parties to agreements 
+
+        * 84 Provisions that may be included in agreements 
+
+        * 87 Agreement may be made in relation to 2 or more children etc. 
+
+     * Division 3--Applications to Registrar for acceptance of child support agreements	171
+
+        * 88 Application requirements generally 
+
+        * 89 Formal requirement for applications 
+
+        * 90 Application for 2 or more separate agreements may be made in same form 
+
+     * Division 4--Decisions on applications	172
+
+        * 91 How decision is to be made 
+
+        * 92 Decision on application 
+
+        * 93 Liability to pay child support arises on acceptance of application where child support not already payable etc. 
+
+        * 94 Registrar to take action to give effect to accepted child support agreement or termination agreement etc. 
+
+        * 95 Effect of certain provisions of accepted child support agreements 
+
+     * Division 5--Notice of the decision	177
+
+        * 96 Notice of decision to be given 
+
+  * Part 6A--Departure from administrative assessment of child support (departure determinations)	178
+
+     * Division 1--Preliminary	178
+
+        * 98A	Simplified outline	178
+
+     * Division 2--Departures initiated by a liable parent or carer	179
+
+        * 98B	Application for determination under Part	179
+
+        * 98C	Matters as to which Registrar must be satisfied before making determination	179
+
+        * 98D	Formal requirements for application	180
+
+        * 98E	Registrar may refuse to make determination because issues too complex	180
+
+        * 98F	Application disclosing no grounds etc. for making determination--how dealt with	181
+
+        * 98G	Other party to be notified	181
+
+        * 98H	Procedure for dealing with application	181
+
+        * 98J	Subsequent applications	182
+
+        * 98JA	Notice of refusal to be served on parties	183
+
+     * Division 3--Departures initiated by the Registrar	185
+
+        * 98K	Registrar may initiate a determination under this Part	185
+
+        * 98L	Matters as to which Registrar must be satisfied before making determination	185
+
+        * 98M	Parties to be notified	186
+
+        * 98N	Replies	186
+
+        * 98P	Parties may jointly elect that Registrar discontinue proceedings	186
+
+        * 98Q	Procedure	187
+
+        * 98R	Registrar may refuse to make determination because issues too complex	188
+
+        * 98RA	Notice of refusal to be served on parties	188
+
+     * Division 4--Determinations that may be made under this Part	190
+
+        * 98S	Determinations that may be made under Part	190
+
+        * 98SA	Variation not to be below minimum annual rate of child support	191
+
+     * Division 5--Child support agreements	193
+
+        * 98T	Parties may enter into child support agreement	193
+
+        * 98U	Decision on child support agreement	193
+
+     * Division 6--Pending applications	195
+
+        * 98V	Pending application not to affect assessment	195
+
+  * Part 7 Court review of certain decisions 
+
+     * Division 1A--Preliminary	196
+
+        * 98W	Simplified outline	196
+
+     * Division 1--Jurisdiction of courts	198
+
+        * 98X	Simplified outline	198
+
+        * 99 Jurisdiction of courts under Act 
+
+        * 100 Application of Family Law Act 
+
+        * 101 Appellate jurisdiction of Family Court under Act 
+
+        * 102 Appeals to Full Court of Family Court from courts other than the Federal Circuit Court and the Magistrates Court of Western Australia 
+
+        * 102A	Appeals to Family Court from the Federal Circuit Court and the Magistrates Court of Western Australia	203
+
+        * 103 Cases stated 
+
+        * 104 Appeals to High Court 
+
+        * 105 Appeals from courts of summary jurisdiction 
+
+     * Division 2--Declarations relating to whether persons should be assessed in respect of the costs of the child	209
+
+        * 106 Simplified outline 
+
+        * 106A	Declaration that a person should be assessed in respect of the costs of the child	209
+
+        * 107 Declaration that a person should not be assessed in respect of the costs of the child 
+
+        * 107A	Implementation of declaration under section 107 if assessment relates to 2 or more children	212
+
+        * 108 Implementation of decisions 
+
+        * 109 Pending application not to affect assessment 
+
+     * Division 3--Application for amendment of administrative assessment that is more than 18 months old	214
+
+        * 110 Simplified outline 
+
+        * 111 Application for amendment of administrative assessment that is more than 18 months old 
+
+        * 112 Court may grant leave to amend administrative assessment that is more than 18 months old 
+
+        * 113 Implementation of decisions 
+
+        * 113A	Pending application not to affect assessment	217
+
+     * Division 4--Orders for departure from administrative assessment in special circumstances (departure orders)	218
+
+        * 113B	Simplified outline	218
+
+        * 114 Additional particular objects of Division 
+
+        * 116 Application for order under Division 
+
+        * 117 Matters as to which court must be satisfied before making order 
+
+        * 118 Orders that may be made under Division 
+
+        * 119 Implementation of orders 
+
+        * 120 Pending proceeding not to affect assessment 
+
+     * Division 5--Orders for provision of child support otherwise than in form of periodic amounts paid to carer	230
+
+        * 121 Additional particular objects of Division 
+
+        * 122 Cases in relation to which Division applies 
+
+        * 123 Application for order under Division 
+
+        * 123A	Orders for provision of child support in the form of lump sum payment to be credited against amounts payable under liability	231
+
+        * 124 Orders for provision of child support otherwise than in form of periodic amounts paid to carer entitled to child support 
+
+        * 125 Court to state relationship between order and assessed child support 
+
+        * 126 Court to give reasons for order 
+
+        * 127 Effect of orders on administrative assessment of child support 
+
+        * 129 Modification of orders under Division 
+
+        * 130 Court to give reasons for modifications 
+
+        * 131 Court may make orders consequential upon the discharge of orders etc. 
+
+     * Division 6--Setting aside accepted child support agreements	241
+
+        * 135 Simplified outline 
+
+        * 136 Power of court to set aside child support agreements or termination agreements 
+
+        * 137 Court may make orders consequential on setting aside of agreement 
+
+        * 138 Implementation of decisions 
+
+     * Division 7--Urgent maintenance orders	245
+
+        * 138A	Simplified outline	245
+
+        * 139 Urgent maintenance orders 
+
+     * Division 8--Provisions relating to court orders	247
+
+        * 140A	Simplified outline	247
+
+        * 141 General powers of court 
+
+        * 142 Cessation of orders under Act 
+
+        * 143 Amounts paid where no liability to pay exists etc. 
+
+     * Division 9--Miscellaneous	252
+
+        * 143A	Simplified outline	252
+
+        * 143B	Frivolous or vexatious proceedings	252
+
+        * 144 Determining when decision of a court becomes final 
+
+        * 145 Registrar may intervene in proceedings 
+
+        * 146 Copies of orders to be forwarded to Registrar 
+
+  * Part 7A--Notional assessments	254
+
+     * Division 1--Preliminary	254
+
+        * 146A	Simplified outline	254
+
+     * Division 2--Notional assessments	255
+
+        * 146B	Provisional notional assessments	255
+
+        * 146BA	Application of Part 5 to provisional notional assessments	256
+
+        * 146C	Variation of provisional notional assessments	256
+
+        * 146D	Departure determinations in respect of provisional notional assessments	259
+
+        * 146E	Notional assessments	259
+
+        * 146EA	Amendment of notional assessment	261
+
+        * 146F	Later provisional notional assessments	261
+
+     * Division 3--Estimating adjusted taxable income for notional assessments	262
+
+        * 146G	Estimating adjusted taxable income for purposes of notional assessments	262
+
+        * 146H	Registrar may refuse to accept election	263
+
+        * 146J	Effect of election	263
+
+        * 146K	Revocation of election	264
+
+        * 146L	Effect of revocation	264
+
+  * Part 8 Administration 
+
+        * 147 Secretary has general administration of Act 
+
+        * 148 Annual report 
+
+        * 149 Delegation 
+
+        * 150 Secrecy 
+
+        * 150AA	Offence of unauthorised use of information	274
+
+        * 150A	Applications, notices, elections and replies to be in the manner specified by the Registrar	275
+
+        * 150B	Registrar's power to request tax file numbers	276
+
+        * 150D	Registrar may require Commissioner to provide information	276
+
+        * 150DA	Registrar's jurisdiction to cease in certain circumstances	277
+
+  * Part 9 Miscellaneous 
+
+        * 150E	Suspension of liability to pay child support where parents reconcile	278
+
+        * 151 Election by carer entitled to child support to end administrative assessment 
+
+        * 151A	Procedure where person making election is receiving more than the base rate of family tax benefit Part A	280
+
+        * 151B	Application for assessment/agreement to continue beyond child's 18th birthday	281
+
+        * 151C	Application for assessment/agreement to continue--Registrar's decision	282
+
+        * 151D	Application under subsection 151B(1) for assessment/agreement to continue--consequences of acceptance	284
+
+        * 151E	Applications under subsection 151B(1A) in respect of administrative assessments--consequences of acceptance	285
+
+        * 152 Court order etc. to cease to have effect where child support becomes payable 
+
+        * 153 Evidentiary certificates by Registrar 
+
+        * 153A	Indexation of amounts	287
+
+        * 155 Publication of figures 
+
+        * 156 Rounding of amounts 
+
+        * 157 Appearance by Registrar in proceedings etc. 
+
+        * 158 Judicial notice of signature of Registrar etc. 
+
+        * 159 False or misleading statements 
+
+        * 159A	Statements made recklessly etc.	291
+
+        * 159B	Failure to notify required information	292
+
+        * 160 Notification requirements 
+
+        * 161 Obtaining of information and evidence 
+
+        * 162 Order to comply with requirement 
+
+        * 162A	Obtaining information in relation to residents of reciprocating jurisdictions	295
+
+        * 162B	Regulations may prescribe manner of giving notices or other communications	297
+
+        * 162C	Requesting information for the purposes of a care percentage determination under the family assistance law	297
+
+        * 163 Act not a taxation law 
+
+        * 163A	Certain instruments not liable to duty	297
+
+        * 163B	Regulations in relation to overseasrelated maintenance obligations etc.	299
+
+        * 164 Regulations 
+
+    * Schedule 1--The Costs of the Children Table	301
+
+        * 1 The Costs of the Children Table 
+
+        * 2 Child support income ranges--fraction of MTAWE row 
+
+        * 3 Costs of the children 
+
+  * Endnotes	304
+
+     * Endnote 1--About the endnotes	304
+
+     * Endnote 2--Abbreviation key	305
+
+     * Endnote 3--Legislation history	306
+
+     * Endnote 4--Amendment history	326
+
+### An Act to make provision for determining the financial support payable by parents for their children, and for other purposes
+
+### Part 1--Preliminary
+
+##### 1  Short title
+
+    * This Act may be cited as the _Child Support (Assessment) Act 1989_.
+
+##### 2  Commencement
+
+    * (1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
+
+    * (2) If this Act does not commence under subsection (1) within the period of 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period.
+
+##### 3  Duty of parents to maintain their children
+
+    * (1) The parents of a child have the primary duty to maintain the child.
+
+    * (2) Without limiting subsection (1), the duty of a parent to maintain a child:
+
+     * (a) is not of lower priority than the duty of the parent to maintain any other child or another person; and
+
+     * (b) has priority over all commitments of the parent other than commitments necessary to enable the parent to support:
+
+      * (i) himself or herself; and
+
+      * (ii) any other child or another person that the parent has a duty to maintain; and
+
+     * (c) is not affected by:
+
+      * (i) the duty of any other person to maintain the child; or
+
+      * (ii) any entitlement of the child or another person to an income tested pension, allowance or benefit.
+
+##### 4  Objects of Act
+
+    * (1) The principal object of this Act is to ensure that children receive a proper level of financial support from their parents.
+
+    * (2) Particular objects of this Act include ensuring:
+
+     * (a) that the level of financial support to be provided by parents for their children is determined according to their capacity to provide financial support and, in particular, that parents with a like capacity to provide financial support for their children should provide like amounts of financial support; and
+
+     * (b) that the level of financial support to be provided by parents for their children should be determined in accordance with the costs of the children; and
+
+     * (c) that persons who provide ongoing daily care for children should be able to have the level of financial support to be provided for the children readily determined without the need to resort to court proceedings; and
+
+     * (d) that children share in changes in the standard of living of both their parents, whether or not they are living with both or either of them; and
+
+     * (e) that  is in a position to give effect to its obligations under international agreements or arrangements relating to maintenance obligations arising from family relationship, parentage or marriage.
+
+    * (3) It is the intention of the Parliament that this Act should be construed, to the greatest extent consistent with the attainment of its objects:
+
+     * (a) to permit parents to make private arrangements for the financial support of their children; and
+
+     * (b) to limit interferences with the privacy of persons.
+
+##### 4A  Application of the Criminal Code
+
+    * Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+
+##### 5  Interpretation--definitions 
+
+    * (1) In this Act, unless the contrary intention appears:
+
+    * **_AAT_** means the Administrative Appeals Tribunal.
+
+    * **_adjusted taxable income _**has the meaning given by section 43 and subsections 61(1) and 63(1).
+
+    * **_administrative assessment_** means assessment (other than assessment for the purposes of a notional assessment) under Part 5.
+
+    * **_annualised MTAWE figure_** has the meaning given by section 5A.
+
+    * **_annual rate_** includes an annual rate of nil.
+
+    * **_applicable Rules of Court_** has the same meaning as in the _Family Law Act 1975_.
+
+    * **_applicable YTD income amount_** has the meaning given by subsections 63AF(1) and (2).
+
+    * **_application day_** has the meaning given by subsection 54B(2).
+
+    * **_application period_** has the meaning given by:
+
+     * (a) for an election made under subsection 60(1)--subsection 61(1A); and
+
+     * (b) for an election made under subsection 62A(1)--subsection 63(2).
+
+    * **_ATI indexation factor_** has the meaning given by subsection 58AA(1).
+
+    * **_binding child support agreement_** has the meaning given by section 80C.
+
+    * **_care arrangement_** has the same meaning as in the Family Assistance Act.
+
+    * **_care period_** has the meaning given by paragraph 49(1)(a), subparagraph 49(1)(b)(ii), paragraph 50(1)(a) or subparagraph 50(1)(b)(ii).
+
+    * **_carer entitled to child support_**, in relation to a child, means:
+
+     * (a) in the case of an administrative assessment--a parent, or nonparent carer, of the child who, under the administrative assessment, is entitled to be paid child support in relation to the child; and
+
+     * (b) in the case of a child support agreement--has the meaning given by subsection 93(1).
+
+    * **_change of care day_** for a responsible person for a child means:
+
+     * (a) if a determination of the responsible person's percentage of care for the child has been revoked under Subdivision C of Division 4 of Part 5--the first day on which the care of the child that was actually taking place ceased to correspond with the responsible person's percentage of care for the child under the determination; or
+
+     * (b) otherwise--the first day on which the care of the child that was actually taking place ceased to correspond with the responsible person's extent of care under a care arrangement that applies in relation to the child.
+
+    * **_child eligible for administrative assessment_** means a child in relation to whom an application may, under section 24, be made to the Registrar for administrative assessment of child support.
+
+    * **_child support_** means financial support under this Act, including financial support under this Act by way of lump sum payment or by way of transfer or settlement of property.
+
+    * **_child support agreement_** has the meaning given by section 81.
+
+    * **_child support case_**, in relation to a child, is the administrative assessments for child support for all children who are children of both of the parents of the child.
+
+    * **_child support income _**has the meaning given by section 41.
+
+    * **_child support percentage_** has the meaning given by section 55D.
+
+    * **_child support period_** has the meaning given by subsection 7A(1).
+
+    * **_child support terminating event_** has the meaning given by section 12.
+
+    * **_child support year_** means:
+
+     * (a) the period starting on the commencing day and ending on the next 30 June; or
+
+     * (b) a subsequent financial year.
+
+    * **_claimant_**, in relation to family tax benefit, means a person who has made a claim for the benefit, if the claim has not been determined.
+
+    * **_combined child support income_** has the meaning given by section 42.
+
+    * **_commencing day_** means the day on which this Act commences.
+
+    * **_cost percentage_** has the meaning given by section 55C.
+
+    * **_costs of a child_** has the meaning given by section 55H or 55HA (as the case requires).
+
+    * **_Costs of the Children Table _**means the table in clause 1 of Schedule 1 to this Act.
+
+    * **_court exercising jurisdiction under this Act_** does not include a court exercising jurisdiction in proceedings under paragraph 79(a).
+
+    * **_court having jurisdiction under this Act_** does not include a court that has jurisdiction under this Act only in relation to the recovery of amounts of child support.
+
+    * **_determined ATI_** has the meaning given by paragraph 64AB(2)(a).
+
+    * **_eligible carer_** has the meaning given by section 7B.
+
+    * **_eligible child_** has the meaning given by Part 3 (Children who may be covered by Act).
+
+    * **_estimated ATI amount_** has the meaning given by subsections 64A(3) and 64AD(3).
+
+    * **_Family Assistance Act_** means the _A New Tax System (Family Assistance) Act 1999_.
+
+    * **_Family Assistance Administration Act_** means the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+
+    * **_family assistance care determination _**has the meaning given by paragraph 54K(1)(b).
+
+    * **_Family Law Act 1975_** includes regulations under that Act.
+
+    * **_family tax benefit_** has the meaning given by the Family Assistance Act.
+
+    * **_final_**, in relation to a decision of a court, has the meaning given by section 144.
+
+    * **_fulltime secondary education_**, in relation to a child, means education that is determined by the secondary school at which the child is receiving the education to be fulltime secondary education.
+
+    * **_income amount order_** means:
+
+     * (a) a determination under Part 6A (departure determinations), or an order under Division 4 of Part 7 (departure orders), that:
+
+      * (i) varies the annual rate of child support payable by a parent for a child or for all the children in a child support case by setting that annual rate; or
+
+      * (ii) varies the adjusted taxable income, or the child support income, of a parent by setting that adjusted taxable income or child support income; or
+
+     * (b) provisions of a child support agreement that has been accepted by the Registrar that have effect, for the purposes of Part 5, as if they were such an order made by consent.
+
+    * **_income component amounts_** has the meaning given by subsection 60(2).
+
+    * **_income election_** means an election made under subsection 60(1) or 62A(1).
+
+    * **_income percentage_** has the meaning given by section 55B.
+
+    * **_income support payment_** has the meaning given by subsection 66(9).
+
+    * **_Income Tax Assessment Act _**means the _Income Tax Assessment Act 1936 _or the _Income Tax Assessment Act 1997_.
+
+    * **_income tested pension, allowance or benefit_** has the same meaning as in the _Family Law Act 1975_.
+
+    * **_index number_** for a quarter has the meaning given by subsection 153A(2).
+
+    * **_interim period_** has the meaning given by subsection 54C(2).
+
+    * **_last day_**, in relation to a child's secondary school year, means:
+
+     * (a) if the child is not required to sit an examination--the day determined by the secondary school to be the last day of classes for the school year; and
+
+     * (b) if the child is required to sit an examination--the later of:
+
+      * (i) the day determined by the secondary school to be the last day of the period of examinations for the child's year level; and
+
+      * (ii) the day determined by the secondary school to be the last day of classes for the school year.
+
+    * **_last relevant year of income _**in relation to a child support period means the last year of income that ended before the start of the period.
+
+        * Note: For example, in working out Philippe's last relevant year of income for the child support period that began on 1 January 2008, the last relevant year of income is 200607.
+
+    * **_liable parent_**, in relation to a child, means:
+
+     * (a) in the case of an administrative assessment--a parent by whom child support is payable for the child under the administrative assessment; and
+
+     * (b) in the case of a child support agreement--has the meaning given by subsection 93(1).
+
+    * **_limited child support agreement_** has the meaning given by section 80E.
+
+    * **_lump sum payment provisions_** has the meaning given by paragraph 84(1)(e).
+
+    * **_member of a couple_** means:
+
+     * (a) a person who is legally married to another person and is not living separately and apart from the other person on a permanent or indefinite basis; or
+
+     * (b) a person who is living with another person as the partner of the other person on a genuine domestic basis although not legally married to the other person; or
+
+     * (c) a person whose relationship with another person (whether of the same sex or a different sex) is registered under a law of a State or Territory prescribed for the purposes of section 2E of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section, and is not living separately and apart from the other person on a permanent or indefinite basis.
+
+    * **_minimum annual rate of child support_** in respect of a child support period has the meaning given by subsection 66(5).
+
+    * **_multicase allowance_** has the meaning given by section 47.
+
+    * **_multicase cap _**has the meaning given by section 55E.
+
+    * **_multicase child costs_** has the meaning given by step 3 of the method statement in section 47.
+
+    * **_nonparent carer_** of a child means an eligible carer of the child who is not a parent of the child.
+
+    * **_nonperiodic payment provisions_** has the meaning given by paragraph 84(1)(d).
+
+    * **_notional assessment_** has the meaning given by section 146E.
+
+    * **_otherwise than in the form of periodic amounts_**, in relation to child support, means child support that is not paid as periodic amounts, and includes child support paid in the form of:
+
+     * (a) a lump sum payment; and
+
+     * (b) a transfer or settlement of property.
+
+        * Note: **_Periodic amount_** is defined in section 4 of the Registration and Collection Act.
+
+    * **_overseas income_**, in relation to a parent, means income determined under Subdivision BA of Division 7 of Part 5 to be the overseas income of that parent.
+
+    * **_parent_**:
+
+     * (a) when used in relation to a child who has been adopted--means an adoptive parent of the child; and
+
+     * (b) when used in relation to a child born because of the carrying out of an artificial conception procedure--means a person who is a parent of the child under section 60H of the _Family Law Act 1975_; and
+
+     * (c) when used in relation to a child born because of a surrogacy arrangement--includes a person who is a parent of the child under section 60HB of the _Family Law Act 1975_.
+
+    * **_parenting plan_** has the meaning given by section 63C of the _Family Law Act 1975_.
+
+    * **_partial year income amount_** has the meaning given by:
+
+     * (a) for an election made under subsection 60(1) to which subsection 60(3) applies--step 2 of the method statement in subsection 60(4); and
+
+     * (b) for an election made under subsection 62A(1)--step 2 of the method statement in that subsection.
+
+    * **_partner_**, in relation to a person who is a member of a couple, means the other member of the couple.
+
+    * **_pension PP (single) maximum basic amount _**is the sum of:
+
+     * (a) the amount that would have been a person's maximum basic rate under Module B of the Pension PP (Single) Rate Calculator if the person was receiving parenting payment under the _Social Security Act 1991_; and
+
+     * (b) the amount that would have been the person's pension supplement under Module BA of the Pension PP (Single) Rate Calculator if the person was receiving parenting payment under that Act.
+
+    * **_percentage of care_**, in relation to a responsible person for a child, means the responsible person's percentage of care for the child that is determined by the Registrar under Subdivision B of Division 4 of Part 5.
+
+    * **_provisional notional assessment_** means a provisional notional assessment made under section 146B.
+
+    * **_reduced care of a child_** has the meaning given by section 54.
+
+    * **_Registrar_** means the Child Support Registrar.
+
+    * **_Registration and Collection Act_** means the _Child Support (Registration and Collection) Act 1988_.
+
+    * **_regular care_** has the meaning given by subsection (2).
+
+    * **_related Federal Circuit Court Rules_** has the same meaning as in the _Family Law Act 1975_.
+
+    * **_relative_** has a meaning affected by subsection (4).
+
+    * **_relevant dependent child_**, in relation to a parent, means a child or stepchild of the parent, but only if:
+
+     * (a) the parent has at least shared care of the child or stepchild during the relevant care period; and
+
+     * (b) either:
+
+      * (i) the child or stepchild is under 18; or
+
+      * (ii) if the child or stepchild is not under 18--a child support terminating event has not happened under subsection 151D(1) in relation to the child; and
+
+     * (c) the child or stepchild is not a member of a couple; and
+
+     * (d) in the case of a stepchild:
+
+      * (i) an order is in force under section 66M of the _Family Law Act 1975 _in relation to the parent and the stepchild; or
+
+      * (ii) the parent has the duty, under section 124 of the _Family Court Act 1997 _of , of maintaining the stepchild; and
+
+     * (e) in the case of a child--the parent is not assessed in respect of the costs of the child (except for the purposes of step 4 of the method statement in section 46).
+
+    * **_relevant dependent child amount _**has the meaning given by section 46.
+
+    * **_relevant June quarter_** has the meaning given by subsection 5A(2).
+
+    * **_remaining period_** has the meaning given by:
+
+     * (a) for an election made under subsection 60(1) to which subsection 60(3) applies--step 1 of the method statement in subsection 60(4); and
+
+     * (b) for an election made under subsection 62A(1)--step 1 of the method statement in that subsection.
+
+    * **_reportable fringe benefits total_** for a year of income for a person who is an employee (for the purposes of the _Fringe Benefits Tax Assessment Act 1986_, whether it applies of its own force or because of the _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_) means the employee's reportable fringe benefits total (as defined in the _Fringe Benefits Tax Assessment Act 1986_) for the year of income.
+
+    * **_resident of _** has the meaning given by section 10.
+
+    * **_responsible person_** for a child means a parent or nonparent carer of the child.
+
+    * **_secondary school_** means a school, technical and further education institution or any other educational institution at which fulltime secondary education is provided.
+
+    * **_selfsupport amount _**has the meaning given by section 45.
+
+    * **_separated_** has the meaning given by section 9.
+
+    * **_shared care_** has the meaning given by subsection (3).
+
+    * **_standard Rules of Court_** has the same meaning as in the _Family Law Act 1975_.
+
+    * **_start day_** for an income election means the day specified in the notice of the income election under subsection 60(8) or 62A(5) as the start day for the income election.
+
+    * **_target foreign income_** has the meaning given by section 5B.
+
+    * **_taxable income_** has the meaning given by sections 56 and 57.
+
+    * **_tax free pension or benefit _**means any of the following pensions or benefits:
+
+     * (a) a disability support pension under Part 2.3 of the _Social Security Act 1991_;
+
+     * (b) a wife pension under Part 2.4 of the _Social Security Act 1991_;
+
+     * (c) a carer payment under Part 2.5 of the _Social Security Act 1991_;
+
+     * (d) an invalidity service pension under Division 4 of Part III of the _Veterans' Entitlements Act 1986_;
+
+     * (e) a partner service pension under Division 5 of Part III of the _Veterans' Entitlements Act 1986_;
+
+     * (f) income support supplement under Part IIIA of the _Veterans' Entitlements Act 1986_;
+
+     * (g) Defence Force Income Support Allowance under Part VIIAB of the _Veterans' Entitlements Act 1986_;
+
+    * to the extent to which the payment: 
+
+     * (h) is exempt from income tax; and
+
+     * (i) is not a payment by way of bereavement payment, pharmaceutical allowance, rent assistance, language, literacy and numeracy supplement or remote area allowance; and
+
+     * (j) if the payment is a payment under the _Social Security Act 1991_--does not include taxexempt pension supplement (within the meaning of subsection 20A(6) of that Act); and
+
+     * (k) if the payment is a payment under the _Veterans' Entitlements Act 1986_--does not include taxexempt pension supplement (within the meaning of subsection 5GA(5) of that Act).
+
+    * **_termination agreement_** has the meaning given by section 80D.
+
+    * **_this Act_** includes the regulations.
+
+    * **_underestimated an income amount_** has the meaning given by subsections 64AF(2) and (3).
+
+    * **_year of income_**, in relation to a person, means:
+
+     * (a) a year of income (within the meaning of the _Income Tax Assessment Act 1936_); or
+
+     * (b) an income year (within the meaning of the _Income Tax Assessment Act 1997_).
+
+    * Definitions of **regular care** and **shared care**
+
+    * **	(2)	A person has **_regular care_** of a child if the person's percentage of care for the child during a care period is at least 14% but less than 35%.
+
+    * (3) A person has **_shared care_** of a child if the person's percentage of care for the child during a care period is at least 35% but not more than 65%.
+
+    * Relatives
+
+    * (4) For the purposes of section 26A and subparagraph 150(4E)(b)(ii), the relatives of a person are taken to include the following (without limitation):
+
+     * (a) a partner of the person;
+
+     * (b) someone who is a parent of the person, or someone of whom the person is a parent, because of the definition of **_parent_** in this section;
+
+     * (c) anyone else who would be a relative of the person if someone mentioned in paragraph (a) or (b) is taken to be a relative of the person.
+
+##### 5A  Definition of annualised MTAWE figure
+
+    * **_	_**(1)	The **_annualised MTAWE figure _**for a relevant June quarter means the figure that is 52 times the amount set out for the reference period in the quarter under the headings "Average Weekly Earnings--Trend--Males--All Employees Total Earnings" in a document published by the Australian Statistician entitled "Average Weekly Earnings, Australia".
+
+    * (2) The **_relevant June quarter_**, in relation to a child support period, means the quarter ending on 30 June of the last calendar year ending before the child support period begins.
+
+    * (3) If at any time (whether before or after the commencement of this section), the Australian Statistician publishes the amount referred to in subsection (1):
+
+     * (a) under differently described headings (the **_new headings_**); or
+
+     * (b) in a document entitled otherwise than as described in subsection (1) (the **_new document_**);
+
+    * then the annualised MTAWE figure is to be calculated in accordance with subsection (1) as if the references to:
+
+     * (c) "Average Weekly Earnings--Trend--Males--All Employees Total Earnings"; or
+
+     * (d) "Average Weekly Earnings, ";
+
+    * were references to the new headings and/or the new document, as the case requires.
+
+    * (4) For the purposes of this section, the **_reference period _**in a particular quarter is the period described by the Australian Statistician as the pay period ending on or before a specified day that is the third Friday of the middle month of that quarter.
+
+    * (5) If:
+
+     * (a) the Australian Statistician publishes the amount (the **_later amount_**) referred to in subsection (1) for a relevant June quarter; and
+
+     * (b) the later amount is published in substitution for such an amount for that quarter that was previously published by the Australian Statistician;
+
+    * the publication of the later amount is to be disregarded for the purposes of this Act.
+
+##### 5B  Definition of target foreign income
+
+    * (1) A parent's **_target foreign income _**for a year of income is:
+
+     * (a) the amount of the parent's foreign income (as defined in section 10A of the _Social Security Act 1991_) for the year of income that is neither:
+
+      * (i) taxable income; nor
+
+      * (ii) received in the form of a fringe benefit (as defined in the _Fringe Benefits Tax Assessment Act 1986_, as it applies of its own force or because of the _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_) in relation to the parent as an employee (as defined in the _Fringe Benefits Tax Assessment Act 1986_) and a year of tax; and
+
+     * (b) any amount of income that is not covered by paragraph (a) that is exempt from tax under section 23AF or 23AG of the _Income Tax Assessment Act 1936_, reduced (but not below nil) by the total amount of losses and outgoings (except capital losses and outgoings) incurred by the parent in deriving that exempt income.
+
+    * (1A) In working out a parent's target foreign income under subsection (1), exclude any overseas income that was determined for the purpose of working out the parent's adjusted taxable income.
+
+    * (2) If it is necessary, for the purposes of this Act, to work out an amount of foreign income expressed in a foreign currency received in a year of income, the amount in Australian currency is to be worked out using the market exchange rate for 1 July in that year of income.
+
+    * (3) If there is no market exchange rate for 1 July in the year of income (for example, because of a national public holiday), the market exchange rate to be used is the market exchange rate that applied on the last working day immediately before that 1 July.
+
+    * (4) For the purposes of this section, the appropriate market exchange rate on a particular day for a foreign currency is:
+
+     * (a) if there is an ondemand airmail buying rate for the currency available at the Commonwealth Bank of Australia at the start of business in Sydney on that day and the Secretary determines that it is appropriate to use that rate--that rate; or
+
+     * (b) in any other case:
+
+      * (i) if there is another rate of exchange for the currency, or there are other rates of exchange for the currency, available at the Commonwealth Bank of Australia at the start of business in Sydney on that day and the Secretary determines that it is appropriate to use the other rate or one of the other rates--the rate so determined; or
+
+      * (ii) otherwise--a rate of exchange for the currency available from another source at the start of business in  on that day that the Secretary determines it is appropriate to use.
+
+##### 6  Interpretation--expressions used in Registration and Collection Act
+
+    * Unless the contrary intention appears, expressions used in this Act, and in the Registration and Collection Act, have the same respective meanings as in that Act.
+
+##### 7  Interpretation--expressions used in Part VII of Family Law Act
+
+    * Unless the contrary intention appears, expressions used in this Act, and in Part VII of the _Family Law Act 1975_, have the same respective meanings as in that Part.
+
+##### 7A  Meaning of child support period
+
+    * What is a child support period?
+
+    * (1) A **_child support period_** is a period that:
+
+     * (a) starts at a time described in subsection (2); and
+
+     * (b) ends at the time described in subsection (3) that occurs soonest after the start of the period.
+
+        * Note: Subsections (5) to (8) provide some examples of child support periods. The examples are not exhaustive: see section 15AD of the _Acts Interpretation Act 1901_.
+
+    * When does a child support period start?
+
+    * (2) Each of the following times is the start of a child support period:
+
+     * (a) the beginning of the day on which an application for an administrative assessment of the child support payable for a child is properly made under Part 4;
+
+     * (b) the beginning of the day mentioned in paragraph 93(1)(g) (child support payable under a child support agreement accepted by Registrar);
+
+     * (c) the start of the first day for which a child support agreement described in section 34B is to affect the rate of child support payable for a child;
+
+     * (d) immediately after the end of the preceding child support period that relates to child support payable for the child (whether it was a period starting as described in paragraph (a), (b) or (c) or this paragraph).
+
+        * Note: Despite paragraph (2)(a), a child support period might not start if a nonparent carer applies for an administrative assessment of child support during a child support period (see section 40B).
+
+    * End of the child support period
+
+    * (3) The child support period ends at whichever of the following times occurs soonest after the start of the period:
+
+     * (a) the time 15 months after the period started;
+
+     * (b) the end of the calendar month during which the Registrar makes an assessment relating to the annual rate of child support payable for the child as required by section 34A (assessment when new tax figure is available);
+
+     * (c) the time immediately before the day mentioned in paragraph 93(1)(g) (child support payable under a child support agreement accepted by Registrar);
+
+     * (d) the end of the day immediately before the first day for which a child support agreement described in section 34B is to affect the rate of child support payable for the child.
+
+    * Examples
+
+    * (4) Subsections (5), (6), (7) and (8) merely give a series of examples of the operation of the rules in subsections (1), (2) and (3). The examples involve Mary and Peter. Mary cares for their child and, on 8 June 2000, makes an application under Part 4 and receives a child support assessment for Peter to pay her child support for the child.
+
+    * Example--initial child support period resulting from application under Part 4
+
+    * (5) On 20 October 2000, the Registrar makes a new administrative assessment based on an assessment under the income tax law of Peter's taxable income for the 19992000 year of income (as required by section 34A). The first child support period starts on 8 June 2000 and ends at the end of 31 October 2000, and the second starts on 1 November 2000.
+
+    * Example--end of child support period if new taxable income not available within 15 months
+
+    * (6) If no assessment of the taxable income of Mary or Peter for the 19992000 or the 20002001 year of income had been made under the income tax law before the end of 7 September 2001, the first child support period would start on 8 June 2000 and end at the end of 7 September 2001 (15 months after it started).
+
+    * Example--child support agreement ends existing child support period and starts a new one
+
+    * (7) If Mary and Peter make a child support agreement to influence the annual rate of child support on and after 15 September 2000:
+
+     * (a) the child support period that started on 8 June 2000 ends at the end of 14 September 2000; and
+
+     * (b) a new child support period starts on 15 September 2000.
+
+    * Example--child support period for child support agreement setting child support rate lasts 15 months
+
+    * (8) If the child support agreement set the rate of child support payable for the next 2 years (so section 34A did not require the Registrar to make an administrative assessment on 20 October 2000 as described in subsection (5)), the child support period that started on 15 September 2000 would end 15 months later at the end of 14 December 2001 (unless Mary and Peter made another child support agreement to affect the rate of child support payable for a day before 15 December 2001).
+
+##### 7B  Meaning of eligible carer
+
+    * (1) In this Act, **_eligible carer_**, in relation to a child, means a person who has at least shared care of the child.
+
+    * (2) Despite subsection (1), if:
+
+     * (a) a person cares for a child; and
+
+     * (b) the person is neither a parent nor a legal guardian of the child; and
+
+     * (c) a parent or legal guardian of the child has indicated that he or she does not consent to the person caring for the child;
+
+    * then the person is not an eligible carer in relation to the child unless it would be unreasonable in the circumstances for a parent or legal guardian of the child to care for the child.
+
+    * (3) For the purposes of subsection (2), it is unreasonable for a parent or legal guardian to care for a child if:
+
+     * (a) the Registrar is satisfied that there has been extreme family breakdown; or
+
+     * (b) the Registrar is satisfied that there is a serious risk to the child's physical or mental wellbeing from violence or sexual abuse in the home of the parent or legal guardian concerned.
+
+##### 9  Interpretation--meaning of separated 
+
+    * For the purposes of this Act, the parents of a child are to be taken to have separated in circumstances in which the parties to a marriage are, under the _Family Law Act 1975_, taken to have separated.
+
+##### 10  Interpretation--meaning of resident of  
+
+    * For the purposes of this Act, a person is a resident of Australia on a day if on that day the person is a resident of Australia for the purposes of the _Income Tax Assessment Act 1936 _(other than a person who is a resident of Australia solely because the definition of **_Australia_** in that Act includes the external Territories).
+
+##### 12  Interpretation--happening of child support terminating events
+
+    * (1) A child support terminating event happens in relation to a child if:
+
+     * (a) the child dies; or
+
+     * (b) the child ceases to be an eligible child under regulations made under subsection 22(1); or
+
+     * (c) the child turns 18; or
+
+     * (d) the child is adopted; or
+
+     * (e) the child becomes a member of a couple; or
+
+     * (f) none of the following subparagraphs applies any longer in relation to the child:
+
+      * (i) the child is present in ;
+
+      * (ii) the child is an Australian citizen;
+
+      * (iii) the child is ordinarily resident in ; or
+
+     * (g) the circumstances described in subsection 30AA(1) of the Registration and Collection Act apply in relation to the child.
+
+        * Note: Paragraph (1)(c) may be affected by section 151C (which deals with continuing administrative assessments and child support agreements beyond a child's 18th birthday in certain situations).
+
+    * (2) A child support terminating event happens in relation to a person who is a carer entitled to child support in relation to a child if the person dies.
+
+    * (2AA) A child support terminating event happens in relation to a child if:
+
+     * (a) both of the parents of the child are not eligible carers of the child; and
+
+     * (b) there are no nonparent carers entitled to be paid child support in relation to the child.
+
+    * (2A) A child support terminating event happens in relation to a person who is a carer entitled to child support in relation to a child if:
+
+     * (a) an international maintenance arrangement applies in respect of the person and the child; and
+
+     * (b) the person is a resident of a reciprocating jurisdiction; and
+
+     * (c) the person ceases to be a resident of the reciprocating jurisdiction; and
+
+     * (d) the person does not, immediately after so ceasing, become a resident of another reciprocating jurisdiction or of .
+
+    * (3) A child support terminating event happens in relation to a person who is a liable parent in relation to a child if:
+
+     * (a) the person dies; or
+
+     * (b) the person ceases to be a resident of .
+
+    * (3A) A child support terminating event happens in relation to a person who is a liable parent in relation to a child if:
+
+     * (a) an international maintenance arrangement applies in respect of the person and the child; and
+
+     * (b) the person is a resident of a reciprocating jurisdiction; and
+
+     * (c) the person ceases to be a resident of the reciprocating jurisdiction; and
+
+     * (d) the person does not, immediately after so ceasing, become a resident of another reciprocating jurisdiction or of .
+
+    * (3B) A child support terminating event happens in relation to a person who is a liable parent in relation to a child if:
+
+     * (a) an international maintenance arrangement applies in respect of the person and the child; and
+
+     * (b) the person is a resident of a reciprocating jurisdiction; and
+
+     * (c) the reciprocating jurisdiction becomes specified in regulations made for the purposes of section 30A as a reciprocating jurisdiction for a resident of which an application for:
+
+      * (i) an administrative assessment of child support for a child; or
+
+      * (ii) acceptance of a child support agreement;
+
+     * may not be accepted.
+
+    * (4) A child support terminating event happens in relation to a child and the persons who are respectively a carer entitled to child support and a liable parent in relation to the child if:
+
+     * (a) either of the following subparagraphs applies in relation to the child and those persons:
+
+      * (i) the carer entitled to child support elects by a notice that complies with section 151 (Election by carer entitled to child support to end administrative assessment) that the liability of the liable parent to pay or provide child support for the child to the carer entitled to child support is to end from a specified day;
+
+      * (ii) the Registrar accepts a child support agreement made in relation to the child between the carer entitled to child support and the liable parent, and the agreement includes provisions under which the liability of the liable parent to pay or provide child support for the child to the carer entitled to child support is to end from a specified day; and
+
+     * (b) the specified day arrives.
+
+    * (4A) Subject to subsection (4B):
+
+     * (a) if an international maintenance arrangement applies in respect of a child--a circumstance set out in paragraph (1)(f) is not a child support terminating event in relation to the child; and
+
+     * (b) if an international maintenance arrangement applies in respect of a person who is a liable parent in respect of a child--a circumstance set out in paragraph (3)(b) is not a child support terminating event in relation to the person.
+
+    * (4B) Subsection (4A) does not apply if:
+
+     * (a) where one only of the carer entitled to child support in relation to a child and the liable parent in relation to the child is a resident of Australia--that carer or that liable parent ceases to be a resident of Australia; or
+
+     * (b) where both the carer entitled to child support in relation to a child and the liable parent in relation to the child are residents of --that carer and that liable parent both cease to be residents of .
+
+    * (5) A child support terminating event happens in relation to a child and the child's parents if the parents become members of the same couple for a period of 6 months or more.
+
+##### 12A  Use of computer programs to make decisions
+
+    * (1) The Human Services Secretary may arrange for the use, under the Registrar's control, of computer programs for any purposes for which the Registrar may make decisions under this Act.
+
+    * (2) A decision made by the operation of a computer program under an arrangement made under subsection (1) is taken to be a decision made by the Registrar.
+
+##### 13  Extension and application of Act in relation to maintenance of exnuptial children
+
+    * Extension of Act to States (except )
+
+    * (1) Subject to subsections (4) and (5), this Act so far as it relates to the maintenance of exnuptial children extends to , ,  and .
+
+    * Extension of Act to 
+
+    * (2) If:
+
+     * (a) the Parliament of  refers to the Parliament of the Commonwealth the matter of the maintenance of exnuptial children or matters that include that matter; or
+
+     *  (b) adopts this Act in so far as it relates to the maintenance of exnuptial children;
+
+    * then, subject to subsections (4), (5), (5A) and (5B), this Act in so far as it relates to the maintenance of exnuptial children also extends to .
+
+    * Application of Act to Territories
+
+    * (3) This Act so far as it relates to the maintenance of exnuptial children applies in and in relation to the Territories.
+
+    * Limitations on extension of Act to States
+
+    * (4) This Act extends to a State because of subsection (1) or (2) only for so long as there is in force:
+
+     * (a) an Act of the Parliament of the State by which there is referred to the Parliament of the Commonwealth:
+
+      * (i) the matter of the maintenance of exnuptial children; or
+
+      * (ii) matters that include that matter; or
+
+     * (b) a law of the State adopting this Act so far as it applies in relation to the maintenance of exnuptial children.
+
+        * Note: See subsections (5A) and (5B) for the extension of this Act to  if the Act is amended in relation to the maintenance of exnuptial children.
+
+    * (5) This Act extends to a State at any time because of subsection (1) or paragraph (2)(a) only so far as it makes provision with respect to:
+
+     * (a) the matters that are at that time referred to the Parliament of the Commonwealth by the Parliament of the State; or
+
+     * (b) matters incidental to the execution of any power vested by the Constitution in the Parliament of the Commonwealth in relation to those matters.
+
+    * (5A) The Parliament of the Commonwealth intends that this Act, so far as it is amended by one or more other Acts in relation to the maintenance of exnuptial children, not extend to Western Australia, unless and until one of the following events occurs:
+
+     * (a) the Parliament of  refers to the Parliament of the Commonwealth the matter of the maintenance of exnuptial children or matters that include that matter;
+
+     *  (b) adopts this Act, as so amended.
+
+    * (5B) The Parliament of the Commonwealth also intends that, unless and until one of those events occurs, this Act continue to extend to  in relation to the maintenance of exnuptial children as if those amendments had not been made.
+
+        * Note: If this Act is amended by one or more other Acts in relation to the maintenance of exnuptial children, unless and until one of the events mentioned in subsection (5A) occurs, there are effectively 2 versions of this Act that apply in . This Act, as amended, applies:
+
+          * (a) in all States and Territories in relation to children of marriages; and
+
+          * (b) in all States and Territories, except , in relation to exnuptial children.
+
+        * This Act continues to apply in  in relation to exnuptial children as if those amendments had not been made.
+
+    * (6) Nothing in this section affects the operation of the provisions of this Act to the extent that they give effect to an international maintenance arrangement.
+
+##### 14  Additional application of Act in relation to maintenance of children of marriages
+
+    * (1) Without prejudice to its effect apart from this section, this Act so far as it relates to the maintenance of children also has effect as provided by this section.
+
+    * (2) This Act so far as it relates to the maintenance of children has, because of this section, the effect that it would have if:
+
+     * (a) each reference to a child were, by express provision, confined to a child of a marriage; and
+
+     * (b) each reference to the parents of the child were, by express provision, confined to the parties to the marriage;
+
+    * and has that effect only so far as it makes provision with respect to the rights and duties of the parties to the marriage in relation to the child, including, for example, provision with respect to the rights and duties of the parties in relation to the maintenance of the child.
+
+    * (3) Nothing in this section affects the operation of the provisions of this Act to the extent that they give effect to an international maintenance arrangement.
+
+##### 15  Corresponding State laws
+
+    * (1) If the Minister is satisfied that a law of a State makes adequate and appropriate provision for determining the financial support payable for children, the Minister may, by _Gazette _notice, declare the law to be a corresponding State law.
+
+    * (2) If the Minister becomes satisfied that the State law no longer makes adequate and appropriate provision for determining the financial support payable for children, the Minister may, by _Gazette _notice, revoke the declaration of the law as a corresponding State law.
+
+    * (3) It is the intention of the Parliament that the Registrar should have and be subject to the powers, functions, rights, liabilities and duties conferred or imposed on the Registrar by a corresponding State law that are additional to those conferred or imposed by this Act.
+
+##### 16  Act to bind Crown
+
+    * (1) This Act binds the Crown in right of the Commonwealth, of each of the States, of the , of the  and of .
+
+    * (2) Nothing in this Act permits the Crown to be prosecuted for an offence.
+
+### Part 2--Counselling
+
+##### 17  Court counselling facilities to be made available
+
+    * (1) A parent of an eligible child, or an eligible carer of an eligible child who is not a parent of the child, may seek the assistance of the counselling facilities of the Family Court or a Family Court of a State.
+
+    * (2) The Principal Director of Court Counselling of the Family Court or an appropriate officer of the Family Court of the State must, as far as practicable, make the counselling facilities available.
+
+### Part 3--Children who may be covered by Act
+
+##### 18  Act applies only in relation to eligible children
+
+    * This Act applies only in relation to children who are eligible children.
+
+##### 19  Children born on or after commencing day are eligible children
+
+    * A child born on or after the commencing day is an eligible child.
+
+##### 20  Children of parents who separate on or after commencing day are eligible children
+
+    * (1) Where:
+
+     * (a) the parents of a child born before the commencing day have cohabited; and
+
+     * (b) the parents separate on or after the commencing day;
+
+    * the child is an eligible child.
+
+    * (2) Subsection (1) applies in relation to the child whether or not the parents:
+
+     * (a) are or were at any time legally married; or
+
+     * (b) have separated on an earlier occasion; or
+
+     * (c) have resumed cohabitation.
+
+##### 21  Children with a brother or sister who is an eligible child are eligible children
+
+    * Where: 
+
+     * (a) a child would, apart from this section, not be an eligible child; and
+
+     * (b) another child is born to the parents of the firstmentioned child on or after the commencing day;
+
+    * the firstmentioned child is an eligible child.
+
+##### 22  Exclusion of certain children from coverage of Act
+
+    * (1) The regulations may provide that children who are under the care (however described) of a person under a child welfare law are not eligible children.
+
+    * (2) Sections 19, 20 and 21 have effect subject to any regulations made under subsection (1).
+
+### Part 4--Applications to Registrar for administrative assessment of child support
+
+#### Division 1--Application requirements
+
+##### 23  Application requirements generally
+
+    * An application for administrative assessment of child support is properly made if it complies with the following provisions: 
+
+     * (a) section 24 (Children in relation to whom applications may be made);
+
+     * (b) section 25 (Persons who may apply--parents);
+
+     * (c) section 25A (Persons who may apply--nonparent carers);
+
+     * (d) Section 27 (Formal requirements for applications).
+
+##### 24  Children in relation to whom applications may be made
+
+    * (1) Application may be made to the Registrar for administrative assessment of child support for a child only if:
+
+     * (a) the child is:
+
+      * (i) an eligible child; and
+
+      * (ii) under 18 years of age; and
+
+      * (iii) not a member of a couple; and
+
+     * (b) except in a circumstance referred to in subsection (2), either or both of the following subparagraphs applies or apply in relation to the child:
+
+      * (i) the child is present in  on the day on which the application is made;
+
+      * (ii) the child is an Australian citizen, or ordinarily resident in , on that day.
+
+    * (2) Paragraph (1)(b) does not apply to an application for administrative assessment of child support if:
+
+     * (a) all of the following apply:
+
+      * (i) the application is made under section 25 for a parent to be assessed in respect of the costs of the child;
+
+      * (ii) the parent of the child is a resident of a reciprocating jurisdiction;
+
+      * (iii) the Registrar has not determined under section 29A that child support is reasonably likely to be payable by the parent; or
+
+     * (b) both of the following apply:
+
+      * (i) the application is made under section 25A by a nonparent carer;
+
+      * (ii) the nonparent carer is a resident of a reciprocating jurisdiction.
+
+##### 25  Persons who may apply--parents
+
+    * A parent (the **_applicant_**) of a child may apply to the Registrar under this section for administrative assessment of child support for the child if:
+
+     * (a) the applicant applies for both parents to be assessed in respect of the costs of the child; and
+
+     * (b) the applicant is not living with the other parent as his or her partner on a genuine domestic basis (whether or not legally married to the other parent); and
+
+     * (c) the applicant complies with any applicable requirements of section 26 (dealing with joint care situations) and section 26A (dealing with children cared for under child welfare laws); and
+
+     * (d) if either parent of the child is not a resident of  on the day on which the application is made--the application meets the requirements of sections 29A and 29B.
+
+##### 25A  Persons who may apply--nonparent carers
+
+    * A person who is not a parent of a child (the **_applicant_**) may apply to the Registrar under this section for administrative assessment of child support for the child if:
+
+     * (a) the applicant is an eligible carer of the child; and
+
+     * (b) one of the following also applies:
+
+      * (i) the applicant applies for both parents to be assessed in respect of the costs of the child;
+
+      * (ii) if one parent of the child is neither a resident of  nor a resident of a reciprocating jurisdiction--the applicant applies for the other parent to be assessed in respect of the costs of the child;
+
+      * (iii) if the Registrar is satisfied that there are special circumstances--the applicant applies for the other parent to be assessed in respect of the costs of the child;
+
+      * (iv) if one parent of the child is dead--the applicant applies for the other parent to be assessed in respect of the costs of the child; and
+
+     * (c) the applicant is not living with either parent as the partner of that parent on a genuine domestic basis (whether or not legally married to that parent); and
+
+     * (d) the applicant complies with any applicable requirements of section 26 (dealing with joint care situations) and section 26A (dealing with children cared for under child welfare laws); and
+
+     * (e) if a parent of the child who is to be assessed in respect of the costs of the child is not a resident of  on the day on which the application is made--the application meets the requirements of sections 29A and 29B.
+
+##### 26  Requirements of applications where there are joint carers
+
+    * If 2 or more persons (**_joint carers_**) jointly have care of a child, then only one of the joint carers may apply for administrative assessment of child support for the child. If one of those joint carers is a parent of the child, the joint carer who applies must be that parent.
+
+##### 26A  Requirements of application if child is cared for under child welfare law
+
+    * If a nonparent carer has care (however described) of a child under a child welfare law, the nonparent carer may apply for child support for the child only if the nonparent carer is a relative of the child.
+
+##### 27  Application for administrative assessment
+
+    * An application for administrative assessment of child support must be made to the Registrar in the manner specified by the Registrar.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in which an application may be made.
+
+##### 28  Application for child support for 2 or more children made in same form
+
+    * If application is made in the same form for administrative assessment of child support for 2 or more children, the form may be treated as if it contained separate applications made for administrative assessment for each of the children.
+
+        * Note: This provision applies even if the children are in different child support cases.
+
+#### Division 2--Decision on application
+
+##### 29  How decision is to be made
+
+    * (1) Subject to this section, in determining whether an application for administrative assessment of child support complies with sections 24, 25 and 25A, the Registrar may act on the basis of the application and the documents accompanying the application, and is not required to conduct any inquiries or investigations into the matter.
+
+    * (2) The Registrar is to be satisfied that a person is a parent of a child only if the Registrar is satisfied:
+
+     * (a) that the person is or was a party to a marriage and the child was born to the person, or the other party to the marriage, during the marriage; or
+
+     * (b) that the person's name is entered in a register of births or parentage information, kept under the law of the Commonwealth or of a State, Territory or prescribed overseas jurisdiction, as a parent of the child; or
+
+     * (c) that, whether before or after the commencement of this Act, a federal court, a court of a State or Territory or a court of a prescribed overseas jurisdiction has:
+
+      * (i) found expressly that the person is a parent of the child; or
+
+      * (ii) made a finding that it could not have made unless the person was a parent of the child;
+
+     * and the finding has not been altered, set aside or reversed; or
+
+     * (d) that, whether before or after the commencement of this Act, the person has, under the law of the Commonwealth or of a State, Territory or prescribed overseas jurisdiction, executed an instrument acknowledging that the person is a parent of the child, and the instrument has not been annulled or otherwise set aside; or
+
+     * (e) that the child has been adopted by the person; or
+
+     * (f) that the person is a man and the child was born to a woman within 44 weeks after a purported marriage to which the man and the woman were parties was annulled; or
+
+     * (g) that the person is a man who was a party to a marriage to a woman and:
+
+      * (i) the parties to the marriage separated; and
+
+      * (ii) after the parties to the marriage separated, they resumed cohabitation on one occasion; and
+
+      * (iii) within 3 months after the resumption of cohabitation, they again separated and afterwards lived separately and apart; and
+
+      * (iv) the child was born to the woman within 44 weeks after the period of cohabitation but after the dissolution of the marriage; or
+
+     * (h) that the person is a man and:
+
+      * (i) the child was born to a woman who cohabited with the man at any time during the period beginning 44 weeks and ending 20 weeks before the birth; and
+
+      * (ii) no marriage between the man and the woman subsisted during any part of the period of cohabitation; or
+
+     * (i) that the person is a parent of the child under section 60H or section 60HB of the _Family Law Act 1975_.
+
+    * (3) If:
+
+     * (a) 2 or more paragraphs of subsection (2) are relevant to a particular application; and
+
+     * (b) those paragraphs, or some of them, conflict with each other;
+
+    * the paragraph that appears to the Registrar to be the more or most likely to be the correct presumption prevails.
+
+##### 29A  Person by whom child support is payable must be Australian resident or resident of reciprocating jurisdiction
+
+    * (1) This section applies if:
+
+     * (a) an application is made under section 25 or 25A for a parent to be assessed in respect of the costs of the child; and
+
+     * (b) the parent is not a resident of  on the day on which the application is made.
+
+    * (2) The Registrar must determine whether child support is reasonably likely to be payable by the parent.
+
+    * (3) If the Registrar determines that child support is reasonably likely to be payable by the parent, the application is taken to have been properly made only if:
+
+     * (a) subsection 24(2) does not apply in relation to the child (payee of child support resident in reciprocating jurisdiction); and
+
+     * (b) the parent is a resident of a reciprocating jurisdiction on the day on which the application is made.
+
+        * Note: If an application is not properly made, the Registrar must refuse the application under section 30.
+
+##### 29B  Applications by residents of reciprocating jurisdictions
+
+    * (1) If a person applying under section 25 or 25A is a resident of a reciprocating jurisdiction, the application must be made:
+
+     * (a) by the person and given to the Registrar by an overseas authority of the reciprocating jurisdiction; or
+
+     * (b) if an overseas authority of the reciprocating jurisdiction believes that child support is reasonably likely to be payable to the person in respect of a child--by the overseas authority on behalf of the person; or
+
+     * (c) if the person believes that child support is reasonably likely to be payable by him or her to another person in respect of a child--directly to the Registrar by the person.
+
+    * (2) If an application is made by an overseas authority of a reciprocating jurisdiction on behalf of a person, the regulations may prescribe actions the overseas authority may take for the person.
+
+    * (3) If an application is made by a person and given to the Registrar by an overseas authority of a reciprocating jurisdiction, the regulations may prescribe actions the overseas authority may take for the person with the person's consent.
+
+##### 30  Decision on application
+
+    * (1) If the Registrar is satisfied that an application has been properly made for administrative assessment of child support for a child, the Registrar must accept the application.
+
+    * (2) If the Registrar is not so satisfied, the Registrar may refuse to accept the application.
+
+    * (3) This section is subject to sections 30A and 30B.
+
+##### 30A  No administrative assessment or acceptance of agreement if contrary to international maintenance arrangement
+
+    * (1) An application for:
+
+     * (a) an administrative assessment of child support for a child; or
+
+     * (b) acceptance of a child support agreement;
+
+    * is taken not to have been properly made by a parent by whom, under a determination made under section 29A, child support is reasonably likely to be payable and who is a resident of a reciprocating jurisdiction specified in regulations made for the purposes of this section.
+
+    * (2) A reciprocating jurisdiction may be specified in regulations made for the purposes of this section if the acceptance of an application for:
+
+     * (a) an administrative assessment of child support for a child; or
+
+     * (b) a child support agreement;
+
+    * in relation to a parent by whom, under a determination made under section 29A, child support is reasonably likely to be payable who is a resident of the jurisdiction would not be permitted by the law of the jurisdiction.
+
+    * (3) This section has effect despite subsection 29A(3).
+
+##### 30B  Registrar may refuse application for administrative assessment if overseas liability already registered
+
+    * If: 
+
+     * (a) a registered maintenance liability of a kind mentioned in section 18A of the Registration and Collection Act relates to a particular child, a liable parent and a carer entitled to child support; and
+
+     * (b) after the registration of the liability, an application is made for an administrative assessment of child support in relation to the child, the liable parent and the carer entitled to child support; and
+
+     * (c) either the liable parent or the carer entitled to child support is a resident of a reciprocating jurisdiction;
+
+    * then the Registrar may determine that the application is taken not to have been properly made.
+
+##### 31  Requirement to assess child support on acceptance of application
+
+    * (1) If the Registrar accepts an application for administrative assessment of child support for a child, the Registrar must, as quickly as possible:
+
+     * (a) either:
+
+      * (i) if the application is made under section 25--assess both parents in respect of the costs of the child under Part 5; or
+
+      * (ii) if the application is made under section 25A (nonparent carer applications)--assess both parents, or the relevant parent, (as the case requires) in respect of the costs of the child under Part 5; and
+
+     * (b) assess under Part 5 the annual rate of child support payable by a parent for the child for the days in the child support period that starts:
+
+      * (i) if child support is payable by a parent who is a resident of a reciprocating jurisdiction--on the first day on which all prior requirements (if any) under the applicable international maintenance arrangement, and under the laws of the reciprocating jurisdiction, have been complied with; and
+
+      * (ii) otherwise--on the day on which the application is made.
+
+        * Example: Some reciprocating jurisdictions require that notice be given about the making and substance of the application for administrative assessment of child support and how the person may object to the application, or require that a person have an opportunity to be heard before making a decision on an application.
+
+        * Note: Part 4A deals with assessments for later child support periods.
+
+    * (2) Child support is payable until the day immediately before the day on which a child support terminating event happens in relation to the child, the carer entitled to child support, the liable parent or all 3 of them.
+
+##### 32  Withdrawal of application by applicant
+
+    * (1) Where:
+
+     * (a) a person has made an application to the Registrar for administrative assessment of child support for a child; and
+
+     * (b) the Registrar has not accepted, or refused to accept, the application;
+
+    * the person may, by notice given to the Registrar, withdraw the application.
+
+    * (2) The notice must be given in the manner specified by the Registrar.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in which a notice may be given.
+
+    * (4) Where a notice that complies with subsections (2) is given to the Registrar in relation to an application for administrative assessment, the application is to be taken not to have been made.
+
+#### Division 3--Notice of decision
+
+##### 33  Notice to be given to unsuccessful applicant
+
+    * (1) If the Registrar refuses to accept an application for administrative assessment of child support for a child, the Registrar must immediately notify the applicant in writing.
+
+    * Refusals on ground that Registrar not satisfied that person a parent
+
+    * (3) If one of the reasons the Registrar refused to accept the application was because the Registrar was not satisfied under section 29 that a person who was to be assessed in respect of the costs of the child is a parent of the child, the notice must include, or be accompanied by:
+
+     * (a) a statement that the Registrar was not satisfied under section 29 that the person is a parent of the child; and
+
+     * (b) a statement to the effect that an application may be made to a court having jurisdiction under this Act for a declaration under section 106A that the person should be assessed in respect of the costs of a child because the person is a parent of the child.
+
+    * Refusals on other grounds
+
+    * (4) If subsection (3) does not apply, the notice must include, or be accompanied by, a statement to the effect that:
+
+     * (a) the applicant may, subject to the Registration and Collection Act, object to the decision (the **_original decision_**); and
+
+     * (b) the applicant may, if aggrieved by a later decision on an objection to the original decision (no matter who lodges the objection), subject to that Act, apply to the SSAT for review of the later decision.
+
+    * Validity of decisions
+
+    * (5) A contravention of subsection (3) or (4) in relation to a decision does not affect the validity of the decision.
+
+##### 34  Giving notice of successful application
+
+    * (1) If the Registrar accepts an application for administrative assessment of child support for a child, the Registrar must notify the applicant and any parent who is to be assessed in respect of the costs of the child.
+
+    * (2) The notice must include, or be accompanied by, a statement to the effect that:
+
+     * (a) an application may be made to a court having jurisdiction under this Act for a declaration under section 107 that a person should not be assessed in respect of the costs of the child because the person is not a parent of the child; and
+
+     * (b) in any case:
+
+      * (i) the applicant or a parent who is to be assessed in respect of the costs of the child, may, subject to the Registration and Collection Act, object to the decision (the **_original decision_**) (other than because a person is not a parent of the child); and
+
+      * (ii) the applicant or a parent who is to be assessed in respect of the costs of the child, if aggrieved by a later decision on an objection in relation to the original decision (no matter who lodges the objection), may, subject to that Act, apply to the SSAT for review of the later decision.
+
+### Part 4A--Assessments of child support for later child support periods
+
+##### 34A  Registrar must make assessment when new tax figure is available
+
+    * Application of section
+
+    * (1) This section requires the Registrar to assess the annual rate of child support payable in some cases if:
+
+     * (a) child support is payable by a liable parent for a child for a day in a child support period (the **_earlier period_**); and
+
+     * (b) during the earlier period, an assessment (the **_tax assessment_**) is made under an Income Tax Assessment Act of the taxable income, or any other component of the adjusted taxable income, of the liable parent or the other parent, for the latest year of income (the **_last year_**) that ended after the start of the earlier period.
+
+    * Registrar must make assessment using new tax figures
+
+    * (2) As soon as practicable after the tax assessment is made, the Registrar must assess the annual rate of child support payable for the child for days in a child support period starting on the first day of the next calendar month (after the calendar month in which the Registrar makes the assessment).
+
+    * When new assessment is not required
+
+    * (3) This section does not require the Registrar to make an assessment if:
+
+     * (a) the Registrar calculates that the tax assessment for the last year could not affect the annual rate of child support payable for the child for a day in a child support period; or
+
+     * (b) the annual rate of child support payable for the child for the first day of the next calendar month is to be worked out without reference to the actual taxable income of the parent mentioned in paragraph (1)(b) because of:
+
+      * (i) a child support agreement between the parents of the child; or
+
+      * (ii) a determination under Part 6A (departure determination); or
+
+      * (iii) an order made by a court under this Act or the Registration and Collection Act; or
+
+     * (c) the earlier period will end before the end of the earliest calendar month in which it is practicable for the Registrar to make the assessment mentioned in subsection (2).
+
+        * Note: In the case of paragraph (3)(c), the Registrar must use the information from the tax assessment to make an assessment for the period starting immediately after the end of the earlier period (unless the information is not relevant to an assessment, because of an agreement, determination or order) (see section 34C).
+
+##### 34B  Administrative assessment for child support period started by new agreement when support already payable
+
+    * (1) The Registrar must assess the annual rate of child support payable for a child for a day in a child support period if:
+
+     * (a) the Registrar accepts a child support agreement made in relation to the child; and
+
+     * (b) child support is already payable by a parent for the child under an administrative assessment; and
+
+     * (c) the agreement is to affect the annual rate of child support payable for the child.
+
+    * The Registrar must assess the annual rate immediately after accepting the agreement.
+
+        * Note 1: Section 95 explains how the provisions of the agreement affect the assessment.
+
+        * Note 2: If the Registrar makes an assessment under this section, the Registrar must make a provisional notional assessment under section 146B.
+
+    * (2) The child support period starts:
+
+     * (a) if:
+
+      * (i) the application for acceptance of the agreement was made to the Registrar within 28 days after the day on which the agreement was signed; and
+
+      * (ii) the agreement states that child support is to be payable from a specified day; and
+
+      * (iii) the day specified is not earlier than the day on which child support first became payable under the administrative assessment;
+
+     * on the specified day; or
+
+     * (b) if:
+
+      * (i) the application for acceptance of the agreement was made to the Registrar within 28 days after the day on which the agreement was signed; and
+
+      * (ii) the agreement states that child support is to be payable from a specified day; and
+
+      * (iii) the day specified is earlier than the day on which child support first became payable under the administrative assessment;
+
+     * on the day on which child support first became payable under the administrative assessment; or
+
+     * (c) if:
+
+      * (i) the application for acceptance of the agreement was made to the Registrar within 28 days after the day on which the agreement was signed; and
+
+      * (ii) the agreement does not specify a day from which child support is to be payable;
+
+     * on the day on which the agreement was signed; or
+
+     * (d) otherwise--on the day on which the application was made to the Registrar for acceptance of the agreement.
+
+    * (3) However, if the applicant for acceptance of the agreement is a resident of a reciprocating jurisdiction, subsection (2) applies as if the references in subparagraphs (2)(a)(i), (b)(i) and (c)(i) were references to 90 days instead of 28 days.
+
+##### 34C  Administrative assessments for child support periods not started by application or new agreement
+
+    * The Registrar must assess under this Act the annual rate of child support payable for a child for days in a child support period either before, or as soon as practicable after, the start of the period unless:
+
+     * (a) the period starts when the application is made under Part 4; or
+
+     * (b) the period starts on a day mentioned in paragraph 93(1)(g); or
+
+     * (c) an assessment of the child support payable for the child for days in the period has already been made as required by section 34A; or
+
+     * (d) the period starts on the first day for which a child support agreement described in subsection 34B(1) is to affect the annual rate of child support payable for the child.
+
+        * Note 1: Section 31 requires the Registrar to make an assessment of child support payable as quickly as possible after accepting an application under Part 4.
+
+        * Note 2: Subsection 93(2) requires the Registrar to make an assessment of child support payable as soon as practicable after accepting certain child support agreements.
+
+        * Note 3: If a child support agreement has effect for the purposes of the child support period, it will affect the assessment (see section 95).
+
+### Part 5--Administrative assessment of child support
+
+#### Division 1--Preliminary
+
+##### 35A  Simplified outline
+
+    * The following is a simplified outline of this Part: 
+
+     *  	This Part includes the formulas used for assessing the annual rate of child support payable by a parent for a child for a day in a child support period (other than in cases where that rate is worked out in accordance with a child support agreement, a Registrar's determination under Part 6A or a court order).
+
+     *  	The Costs of the Children Table published by the Secretary each year (based on the table in Schedule 1 to this Act) sets out the costs to parents of raising children in various age ranges.
+
+     *  	Those costs are to be met by both parents (by paying child support or by caring for their children) according to each parent's capacity to meet the costs.
+
+     *  	To determine each parent's capacity to meet those costs, the parents are assessed in respect of the costs of the child.
+
+     *  	Generally, both parents' income is taken into account in determining each parent's capacity to meet the costs of their children.
+
+     *  	The formulas also allow child support payable to nonparent carers of children to be worked out.
+
+#### Division 2--The formulas
+
+##### Subdivision A--Preliminary
+
+##### 35B  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	The Costs of the Children Table published by the Secretary each year (based on the table in Schedule 1 to this Act) sets out the costs to parents of raising children in various age ranges.
+
+     *  	These costs are to be met by both parents (by paying child support or by caring for their children) according to each parent's capacity to meet the costs.
+
+     *  	To determine each parent's capacity to meet the costs, the parents are assessed in respect of the costs of the child.
+
+     *  	Formulas 1 and 2 apply if both parents' incomes are taken into account in determining each parent's capacity to meet the costs of their children, and each parent only has one child support case.
+
+     *  	Formulas 3 and 4 apply if both parents' incomes are taken into account in determining each parent's capacity to meet the costs of their children, and at least one of the parents has multiple child support cases.
+
+     *  	Formulas 5 and 6 apply if only one parent's income is taken into account in determining the parent's capacity to meet the costs of his or her children (such as because the other parent is not a resident of ).
+
+     *  	Formulas 2, 4, 5 and 6 also allow child support payable to nonparent carers of children to be worked out.
+
+     *  	In some cases, the annual rate of child support payable by a parent is assessed under Subdivision B of Division 8 (low income parents and minimum annual rates of child support).
+
+##### 35C  Application of Part to determine annual rate of child support
+
+    * This Part applies in relation to the assessment of child support payable by a parent for a child, subject to:
+
+     * (a) any determination made by the Registrar under Part 6A (departure determinations); and
+
+     * (b) any order made by a court under Division 4 of Part 7 (departure orders); and
+
+     * (c) any provisions of a child support agreement that have effect, for the purposes of this Part, as if they were such an order made by consent.
+
+##### Subdivision B--Working out annual rates of child support using incomes of both parents in single child support case
+
+##### 35D  Application of Subdivision
+
+    * (1) The annual rate of child support payable for a child for a day in a child support period is assessed under this Subdivision if:
+
+     * (a) both parents of the child are to be assessed in respect of the costs of the child; and
+
+     * (b) both parents are to be assessed only in respect of the costs of:
+
+      * (i) that child; and
+
+      * (ii) any other child in the child support case that relates to that child.
+
+    * (2) Subsection (1) does not apply if at least one of the parents is liable to pay child support for a child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+##### 35  Formula 1: Method statement using incomes of both parents in single child support case with no nonparent carer
+
+    * This is how to work out the annual rate of child support payable for a child for a day in a child support period if no nonparent carer has a percentage of care for the child for the day.
+
+    * _Method statement_
+
+      * _Step 1.	Work out each parent's child support income for the child for the day (see section 41).
+
+      * Step 2.	Work out the parents' combined child support income for the child for the day (see section 42).
+
+      * Step 3.	Work out each parent's income percentage for the child for the day (see section 55B).
+
+      * Step 4.	Work out each parent's percentage of care for the child for the day (see Subdivision B of Division 4 of Part 5).
+
+      * Step 5.	Work out each parent's cost percentage for the child for the day (see section 55C).
+
+      * Step 6.	Work out each parent's child support percentage for the child for the day (see section 55D).
+
+      * Step 7.	Work out the costs of the child for the day under sections 55G and 55H.
+
+      * Step 8.	If a parent has a positive child support percentage under step 6, the **_annual rate of child support _**payable by the parent for the child for the day is worked out using the formula:
+
+        * Note: If a parent's percentage of care for a child is more than 65%, the parent's annual rate of child support for the child is nil (see section 40C).
+
+##### 36  Formula 2: Working out annual rates of child support using incomes of both parents in single child support case with a nonparent carer
+
+    * (1) This is how to work out the annual rate of child support payable for a child for a day in a child support period if one or more nonparent carers have a percentage of care for the child for the day.
+
+    * (2) Follow steps 1 to 8 of the method statement in section 35 for each parent (disregarding subsection 55D(2) (negative child support percentages)).
+
+    * Annual rate payable by parent
+
+    * (3) If a parent's (the **_first parent's_**) child support percentage under step 6 of the method statement in section 35 is positive, then the **_annual rate of child support _**payable by the first parent for the child for the day is the annual rate of child support for the child worked out under step 8 of the method statement.
+
+    * Annual rate payable only to nonparent carers
+
+    * (4) If:
+
+     * (a) the second parent's child support percentage is also positive; or
+
+     * (b) the second parent's child support percentage is nil or negative, and the second parent does not have at least shared care of the child during the relevant care period;
+
+    * then, subject to section 40B, the first parent must pay the annual rate of child support that is payable by the first parent for the child under subsection (3) to the nonparent carer or carers in accordance with section 40A.
+
+        * Note 1: If both parents have a positive child support percentage, then the nonparent carer or carers are entitled to be paid the total of the 2 annual rates of child support that are payable by the parents for the child.
+
+        * Note 2: Under section 40B, a nonparent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
+
+    * Annual rate payable to parent and nonparent carer
+
+    * (5) If the second parent's child support percentage is negative, and the second parent has at least shared care of the child during the relevant care period, then:
+
+     * (a) the first parent must pay to the second parent the annual rate of child support for the child worked out under step 8 of the method statement using the second parent's negative child support percentage (expressed as a positive); and
+
+     * (b) subject to section 40B, the first parent must pay to the nonparent carer an annual rate of child support for the child that is the difference between:
+
+      * (i) the annual rate of child support payable by the first parent for the child under subsection (3); and
+
+      * (ii) the rate referred to in paragraph (a) of this subsection.
+
+##### Subdivision C--Working out annual rates of child support using incomes of both parents in multiple child support cases
+
+##### 36A  Application of Subdivision
+
+    * (1) The annual rate of child support payable for a child for a day in a child support period is assessed under this Subdivision if:
+
+     * (a) both parents of the child are to be assessed in respect of the costs of that child; and
+
+     * (b) at least one of the parents of the child is to be assessed in respect of the costs of another child in another child support case.
+
+    * (2) For the purposes of paragraph (1)(b), a parent is taken to be assessed in respect of the costs of another child in another child support case if the parent is liable to pay child support for that child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+##### 37  Formula 3: Method statement using incomes of both parents in multiple child support cases with no nonparent carer
+
+    * This is how to work out the annual rate of child support payable for a child for a day in a child support period if no nonparent carer has a percentage of care for the child for the day.
+
+Method statement
+
+      * Step 1.	Follow steps 1 to 6 in the method statement in section 35 for each parent.
+
+      * Step 1A.	Work out the costs of the child for the day under section 55HA.
+
+      * Step 1B.	If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
+
+      * Step 2.	Work out each parent's multicase cap (if any) for the child for the day (see section 55E).
+
+      * Step 3.	If a parent has a positive child support percentage under step 6 of the method statement in section 35, the **_annual rate of child support_** payable by the parent for the child for the day is the lower of:
+
+        * _	_(a)	the rate worked out under step 1B of the method statement in this section; and
+
+        * (b) the parent's multicase cap (if any) for the child for the day.
+
+        * Note: If a parent's percentage of care for a child is more than 65%, the parent's annual rate of child support for the child is nil (see section 40C).
+
+##### 38  Formula 4: Working out annual rates of child support using incomes of both parents in multiple child support cases with a nonparent carer
+
+    * (1) This is how to work out the annual rate of child support payable for a child for a day in a child support period if one or more nonparent carers have a percentage of care for the child for the day.
+
+    * (2) Follow steps 1 to 6 of the method statement in section 35 for each parent (disregarding subsection 55D(2) (negative child support percentages)).
+
+    * (2A) Work out the costs of the child for the day under section 55HA.
+
+    * (2B) If a parent has a positive child support percentage under step 6 of the method statement in section 35, work out the following rate:
+
+    * (3) Work out each parent's multicase cap (if any) for the child for the day (see section 55E).
+
+    * Annual rate payable by parent
+
+    * (4) If a parent's (the **_first parent's_**) child support percentage under step 6 of the method statement in section 35 is positive, then the **_annual rate of child support _**payable by the first parent for the child for the day is the lower of:
+
+     * _	_(a)	the rate worked out under subsection (2B); and
+
+     * (b) the first parent's multicase cap (if any) for the child for the day.
+
+    * Annual rate payable only to nonparent carers
+
+    * (5) If:
+
+     * (a) the second parent's child support percentage is also positive; or
+
+     * (b) the second parent's child support percentage is nil or negative, and the second parent does not have at least shared care of the child during the relevant care period;
+
+    * then, subject to section 40B, the first parent must pay the annual rate of child support that is payable by the first parent for the child under subsection (4) to the nonparent carer or carers in accordance with section 40A.
+
+        * Note 1: If both parents have a positive child support percentage, then the nonparent carer or carers are entitled to be paid the total of the 2 annual rates of child support that are payable by the parents for the child.
+
+        * Note 2: Under section 40B, a nonparent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
+
+    * Annual rate payable to parent and nonparent carer
+
+    * (6) If:
+
+     * (a) the second parent's child support percentage is negative; and
+
+     * (b) the second parent has at least shared care of the child during the relevant care period;
+
+    * then, subject to section 40B, the first parent must pay the annual rate of child support that is payable by the first parent for the child under subsection (4) to the second parent and the nonparent carer in accordance with section 40A.
+
+##### Subdivision D--Working out annual rates of child support using income of one parent
+
+##### 38A  Application of Subdivision
+
+    * The annual rate of child support payable for a child for a day in a child support period is assessed under this Subdivision if only one parent of the child is to be assessed in respect of the costs of the child.
+
+##### 39  Formula 5: Method statement using income of one parent where other parent not a resident of  or in special circumstances
+
+    * (1) This is how to work out the annual rate of child support payable for a child for a day in a child support period if a nonparent carer of the child has applied for a parent of the child to be assessed in respect of the costs of the child because of subparagraph 25A(b)(ii) or (iii) (nonresident of Australia or special circumstances).
+
+    * _Method statement_
+
+      * _Step 1.	Work out the parent's child support income for the day (see section 41) and double that income.
+
+      * Step 2.	Work out the parent's percentage of care for the child for the day (see Subdivision B of Division 4 of Part 5).
+
+      * Step 3.	Work out the parent's cost percentage for the child for the day (see section 55C).
+
+      * Step 4.	If the parent is assessed in respect of the costs of another child who is in another child support case, work out the costs of the child for the day under section 55HA. Otherwise, work out the costs of the child for the day under sections 55G and 55H. Assume, in applying section 55G or 55HA and Schedule 1, that the reference to the child support income of the parent in the Costs of the Children Table is a reference to the amount worked out under step 1.
+
+      * Step 5.	Work out the following rate:
+
+      * Step 6.	If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support _**payable by the parent for the child for the day is the rate worked out under step 5.
+
+      * Step 7.	If the parent is assessed in respect of the costs of another child who is in another child support case, work out the parent's multicase cap for the child for the day (see section 55E).
+
+      * Step 8.	The **_annual rate of child support_** payable by the parent for the child for the day is the lower of:
+
+        * (a) the rate worked out under step 5; and
+
+        * (b) the parent's multicase cap for the child for the day.
+
+      * Step 9.	If there is only one nonparent carer who has a percentage of care for the child for the day, the parent must pay the annual rate of child support that is payable for the child under step 5 or 8 to the nonparent carer. If there are 2 nonparent carers who have a percentage of care for the child for the day, then, subject to section 40B, the parent must pay the annual rate of child support that is payable for the child under step 5 or 8 to the nonparent carers in accordance with section 40A.
+
+        * Note: Under section 40B, a nonparent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
+
+    * (2) For the purposes of steps 4, 6 and 7 of the method statement in subsection (1), a parent is taken to be assessed in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+##### 40  Formula 6: Method statement using income of one parent where other parent deceased
+
+    * (1) This is how to work out the annual rate of child support payable for a child for a day in a child support period if a nonparent carer of the child has applied for a parent of the child to be assessed in respect of the costs of the child because of subparagraph 25A(b)(iv) (deceased parent).
+
+    * _Method statement_
+
+      * _Step 1.	Work out the parent's child support income for the day (see section 41).
+
+      * Step 2.	Work out the parent's percentage of care for the child for the day (see Subdivision B of Division 4 of Part 5).
+
+      * Step 3.	Work out the parent's cost percentage for the child for the day (see section 55C).
+
+      * Step 4.	If the parent is assessed in respect of the costs of another child who is in another child support case, work out the costs of the child for the day under section 55HA. Otherwise, work out the costs of the child for the day under sections 55G and 55H.
+
+      * Step 5.	Work out the following rate:
+
+      * Step 6.	If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support _**payable by the parent for the child for the day is the rate worked out under step 5.
+
+      * Step 7.	If the parent is assessed in respect of the costs of another child who is in another child support case, work out the parent's multicase cap for the child for the day (see section 55E).
+
+      * Step 8.	The **_annual rate of child support_** payable by the parent for the child for the day is the lower of:
+
+        * (a) the rate worked out under step 5; and
+
+        * (b) the parent's multicase cap for the child for the day.
+
+      * Step 9.	If there is only one nonparent carer who has a percentage of care for the child for the day, the parent must pay the annual rate of child support that is payable for the child under step 5 or 8 to the nonparent carer. If there are 2 nonparent carers who have a percentage of care for the child for the day, then, subject to section 40B, the parent must pay the annual rate of child support that is payable for the child under step 5 or 8 to the nonparent carers in accordance with section 40A.
+
+        * Note: Under section 40B, a nonparent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
+
+    * (2) For the purposes of steps 4, 6 and 7 of the method statement in subsection (1), a parent is taken to be assessed in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+##### Subdivision E--General provisions
+
+##### 40A  Cases where there is more than one person entitled to child support
+
+    * (1) If, in applying:
+
+     * (a) subsection 36(4) or 38(5) or (6); or
+
+     * (b) step 9 in the method statement in subsection 39(1) or 40(1); or
+
+     * (c) subsection 65A(5);
+
+    * child support is payable to: 
+
+     * (d) a parent and a nonparent carer of a child; or
+
+     * (e) 2 nonparent carers of a child;
+
+    * then, the annual rate of child support for the child for a day in the child support period that each parent or nonparent carer (as the case requires) is, subject to section 40B, entitled to be paid is:
+
+        * Note: Under section 40B, a nonparent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
+
+    * (2) In applying subsection (1), even if a nonparent carer is not entitled to be paid an annual rate of child support because of section 40B, the nonparent carer's cost percentage is taken into account.
+
+##### 40B  Nonparent carer must have applied for child support
+
+    * (1) A nonparent carer of a child is not, under section 36, 38, 39, 40, 65A or 66, entitled to be paid an annual rate of child support for the child for a day in a child support period unless the nonparent carer has made an application under section 25A in relation to the child.
+
+    * (2) If a nonparent carer is not entitled to be paid child support for a child for a day in a child support period under subsection (1), the **_annual rate of child support _**payable by the parent for the child for the day is reduced by the amount that is not payable because of subsection (1).
+
+    * (3) If:
+
+     * (a) a nonparent carer of a child has not so applied at the time the administrative assessment of child support for the child for the child support period is made; but
+
+     * (b) the nonparent carer does so during the child support period;
+
+    * then: 
+
+     * (c) the nonparent carer is entitled to be paid an annual rate of child support for the child worked out under this Part from the day on which the nonparent carer makes the application under section 25A; and
+
+     * (d) despite paragraph 7A(2)(a), a new child support period is not started by that application.
+
+##### 40C  Parents with more than 65% care
+
+    * The **_annual rate of child support _**payable by a parent for a child for a day in a child support period is nil if:
+
+     * (a) the parent's annual rate of child support for the child is worked out under section 35 or 37 (income of both parents, no nonparent carer); and
+
+     * (b) the parent's percentage of care determined for the purposes of the administrative assessment of child support for the child is more than 65%.
+
+##### 40D  Parents with nil child support percentage
+
+    * The **_annual rate of child support _**payable by a parent for a child for a day in a child support period is nil if the parent's child support percentage for the child for the day is nil.
+
+#### Division 3--Child support income
+
+##### Subdivision A--Preliminary
+
+##### 40E  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	The income used in determining a parent's capacity to meet the costs of his or her children might be reduced by the following amounts:
+
+        * (a) the selfsupport amount (to take account of the parent's need to support himself or herself);
+
+        * (b) a relevant dependent child amount (if the parent cares for a relevant dependent child or stepchild of the parent);
+
+        * (c) a multicase allowance (if the parent has multiple child support cases).
+
+     *  	The relevant dependent child amount and the multicase allowance take account of the costs of relevant dependent children, and children in other child support cases, in a similar way to the way in which the costs of the children are worked out for children in a child support case.
+
+     *  	A parent's adjusted taxable income for a year of income can be reduced under section 44 in respect of a particular child if the parent earns additional income during the first 3 years after separating from the other parent of the child.
+
+##### Subdivision B--Child support income and combined child support income
+
+##### 41  Working out parent's child support income
+
+    * Single child support case--no relevant dependent children
+
+    * (1) If:
+
+     * (a) a parent is to be assessed in respect of the costs of a child in only one child support case; and
+
+     * (b) the parent does not have a relevant dependent child;
+
+    * the parent's **_child support income _**for the child for a day in a child support period is the amount worked out using the formula:
+
+    * Single child support case--relevant dependent children
+
+    * (2) If:
+
+     * (a) a parent is to be assessed in respect of the costs of a child (the **_particular child_**) in only one child support case; and
+
+     * (b) the parent has at least one relevant dependent child;
+
+    * the parent's **_child support income _**for the particular child for a day in a child support period is the amount worked out using the formula:
+
+    * Multiple child support cases--no relevant dependent children
+
+    * (3) If:
+
+     * (a) a parent is to be assessed in respect of the costs of a child (the **_particular child_**); and
+
+     * (b) the parent is also to be assessed in respect of the costs of another child in another child support case; and
+
+     * (c) the parent does not have a relevant dependent child;
+
+    * the parent's **_child support income _**for the particular child for a day in a child support period is the amount worked out using the formula:
+
+    * Multiple child support cases--relevant dependent children
+
+    * (4) If:
+
+     * (a) a parent is to be assessed in respect of the costs of a child (the **_particular child_**); and
+
+     * (b) the parent is also to be assessed in respect of the costs of another child in another child support case; and
+
+     * (c) the parent has at least one relevant dependent child;
+
+    * the parent's **_child support income _**for the particular child for a day in a child support period is the amount worked out using the formula:
+
+    * Negative result taken to be nil
+
+    * (5) A parent's **_child support income_** for a day in a child support period is taken to be nil if the amount worked out using a formula in this section is negative.
+
+    * Administrative assessments under laws of reciprocating jurisdictions
+
+    * (6) Subsection (1) or (2) does not apply if the parent is liable to pay child support for a child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+    * (7) For the purposes of paragraphs (3)(b) and (4)(b), a parent is taken to be assessed in respect of the costs of another child in another child support case if the parent is liable to pay child support for that child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+##### 42  Working out parents' combined child support income
+
+    * Work out the parents' **_combined child support income _**for a child for a day in a child support period by adding together each parent's child support income for the child for the day.
+
+##### Subdivision C--Working out the components of child support income
+
+##### 43  Working out parent's adjusted taxable income
+
+    * (1) Subject to this Part, a parent's **_adjusted taxable income_** for a child for a day in a child support period is the total of the following components:
+
+     * (a) the parent's taxable income for the last relevant year of income in relation to the child support period;
+
+     * (b) the parent's reportable fringe benefits total for that year of income;
+
+     * (c) the parent's target foreign income for that year of income;
+
+     * (d) the parent's total net investment loss (within the meaning of the _Income Tax Assessment Act 1997_) for that year of income;
+
+     * (e) the total of the tax free pensions or benefits received by that parent in that year of income; 
+
+     * (f) the parent's reportable superannuation contributions (within the meaning of the _Income Tax Assessment Act 1997_) for that year of income.
+
+        * Note 1: Other provisions that relate to a person's adjusted taxable income are section 34A and Subdivisions B and C of Division 7.
+
+        * Note 2: The components of the definition of **_adjusted taxable income _**are defined in section 5.
+
+    * (2) If the Registrar amends an assessment under section 44, then for the purposes of the assessment, the person's **_adjusted taxable income _**for a child to whom the assessment relates, for a day in the child support period, is the amount determined by the Registrar.
+
+##### 44  Postseparation costs
+
+    * Application for postseparation income to be excluded
+
+    * (1) A parent (the **_applicant_**) of a child may apply to the Registrar to amend an administrative assessment of child support payable by or to the parent for the child for part of a child support period if:
+
+     * (a) the applicant and the other parent of the child lived together on a genuine domestic basis for at least 6 months; and
+
+     * (b) the separation, following that 6 month period, of the applicant from the other parent occurred:
+
+      * (i) within the last 3 years; and
+
+      * (ii) before the application for administrative assessment of child support for the child was made under section 25 or 25A; and
+
+     * (c) at the time of the application under this section, the applicant and the other parent remain separated; and
+
+     * (d) in the last relevant year of income, or in the application period for an income election (if such an election has been made by the parent), the applicant earns, derives or receives income:
+
+      * (i) in accordance with a pattern of earnings, derivation or receipt that is established after the applicant and the other parent first separate; and
+
+      * (ii) that is of a kind that it is reasonable to expect would not have been earned, derived or received in the ordinary course of events.
+
+    * (2) If the applicant makes an application under this section, the Registrar may determine that the applicant's adjusted taxable income for the child for a day in the child support period is a specified amount that excludes the income referred to in paragraph (1)(d).
+
+    * (3) However, the Registrar may make a determination under subsection (2) only if the determination:
+
+     * (a) reduces the applicant's adjusted taxable income for the child for a day in the child support period by 30% or less; and
+
+     * (b) applies in respect of a day in the child support period, being a day that is less than 3 years after the last separation referred to in paragraph (1)(b).
+
+    * Registrar to implement determinations
+
+    * (4) The Registrar is to take such action as is necessary to give effect to the determination by amending any administrative assessment that has been made in relation to the child support period.
+
+    * Notice to be served if Registrar refuses application
+
+    * (5) If the Registrar refuses to make a determination under subsection (2), the Registrar must serve written notice of the decision on the applicant.
+
+    * (6) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the applicant may, subject to the Registration and Collection Act, object to the particulars of the assessment in relation to which the applicant sought to make the application; and
+
+     * (b) that if the applicant is aggrieved by the decision on the objection, he or she may, subject to that Act, apply to the SSAT for review of the decision.
+
+    * (7) This section does not prevent the Registrar from making a new assessment for part of the child support period.
+
+        * Note: This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
+
+##### 45  Working out the selfsupport amount
+
+    * A parent's **_selfsupport amount_** for a day in a child support period is:
+
+        * Note: A parent's selfsupport amount can be varied by a determination or order under section 98S or 118.
+
+##### 46  Working out parent's relevant dependent child amount
+
+    * A parent's **_relevant dependent child amount_** for a day in a child support period is the total of the amounts worked out for each relevant dependent child of the parent using this method statement.
+
+Method statement
+
+      * Step 1.	Work out the difference between the parent's adjusted taxable income for the child for the day and the parent's selfsupport amount for the day (see sections 43 and 45).
+
+      * Step 2.	Work out the parent's percentage of care for the child for the day (see Subdivision B of Division 4 of Part 5).
+
+      * Step 3.	Work out the parent's cost percentage for the child for the day (see section 55C).
+
+      * Step 4.	Work out the costs of the child for the day under sections 55G and 55H as if:
+
+        * (a) the parent's annual rate of child support were assessed under Subdivision D of Division 2; and
+
+        * (b) the reference in subsection 55G(2) to the parent's child support income were a reference to the amount worked out under step 1; and
+
+        * (c) references in sections 55G and 55H to children in the child support case that relates to the child were references to all of the parent's relevant dependent children.
+
+      * Step 5.	Work out the following amount for the child for a day in the child support period:
+
+        * Note: Section 73A deals with the Registrar discovering, after making an administrative assessment, that a parent has a relevant dependent child.
+
+##### 47  Working out multicase allowances
+
+    * (1) A parent's **_multicase allowance _**for a child (the **_particular child_**) for a day in a child support period is worked out using this method statement.
+
+Method statement
+
+      * Step 1.	Work out the following amount:
+
+      * Step 2.	If the parent has a relevant dependent child, take the parent's relevant dependent child amount (see section 46) for the day from the amount worked out under step 1.
+
+      * Step 3.	For each of the children (the **_multicase children_**) for whom the parent is assessed in respect of the costs of the child for the day, work out the **_multicase child costs _**for the particular child for the day under section 55HA, as if:
+
+        * (a) the parent's annual rate of child support were assessed under Subdivision D of Division 2; and
+
+        * (b) the reference in subsection 55HA(2) to the parent's child support income were a reference to the amount worked out under step 1 or 2 (as the case requires); and
+
+        * (c) references in section 55HA to children in the child support case that relates to the child were references to all of the parent's multicase children.
+
+      * Step 4.	The parent's **_multicase allowance _**for the particular child for the day is the sum of the multicase child costs for each of the other multicase children (excluding the particular child and any other children in the child support case that relates to the particular child).
+
+    * (2) For the purposes of step 3 of the method statement, a parent is taken to be assessed in respect of the costs of a child if the parent is liable to pay child support for the child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+#### Division 4--Percentage of care
+
+##### Subdivision A--Preliminary
+
+##### 48  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	A responsible person's percentage of care for a child during a care period is the percentage of care determined by the Registrar under Subdivision B of this Division.
+
+     *  	A responsible person's percentage of care for a child is used in section 55C to work out the responsible person's cost percentage for the child.
+
+##### Subdivision B--Determination of percentage of care
+
+##### 49  Determination of percentage of care--responsible person has had etc. no pattern of care for a child
+
+    * (1) This section applies if:
+
+     * (a) either of the following applies:
+
+      * (i) an application is made under section 25 or 25A for a parent to be assessed in respect of the costs of the child;
+
+      * (ii) a parent is taken under section 73A to have had a relevant dependent child from a day specified in that section;
+
+     * and the Registrar is satisfied that a responsible person for the child has had, or is likely to have, no pattern of care for the child during such period (the **_care period_**) as the Registrar considers to be appropriate having regard to all the circumstances; or
+
+     * (b) the Registrar:
+
+      * (i) revokes, under Subdivision C of this Division, a determination of a responsible person's percentage of care for a child that was made under this section or section 50; and
+
+      * (ii) is satisfied that the responsible person has had, or is likely to have, no pattern of care for the child during such period (the **_care period_**) as the Registrar considers to be appropriate having regard to all the circumstances.
+
+    * (2) The Registrar must determine the responsible person's percentage of care for the child during the care period.
+
+    * (3) The percentage of care determined under subsection (2) must be 0%, unless section 51 or 52 applies in relation to the responsible person.
+
+##### 50  Determination of percentage of care--responsible person has had etc. a pattern of care for a child
+
+    * (1) This section applies if:
+
+     * (a) either of the following applies:
+
+      * (i) an application is made under section 25 or 25A for a parent to be assessed in respect of the costs of the child;
+
+      * (ii) a parent is taken under section 73A to have had a relevant dependent child from a day specified in that section;
+
+     * and the Registrar is satisfied that a responsible person for the child has had, or is likely to have, a pattern of care for the child during such period (the **_care period_**) as the Registrar considers to be appropriate having regard to all the circumstances; or
+
+     * (b) the Registrar:
+
+      * (i) revokes, under Subdivision C of this Division, a determination of a responsible person's percentage of a care for a child that was made under section 49 or this section; and
+
+      * (ii) is satisfied that the responsible person has had, or is likely to have, a pattern of care for the child during such period (the **_care period_**) as the Registrar considers to be appropriate having regard to all the circumstances.
+
+    * (2) The Registrar must determine the responsible person's percentage of care for the child during the care period.
+
+    * (3) The percentage determined under subsection (2) must be a percentage that corresponds with the actual care of the child that the Registrar is satisfied that the responsible person has had, or is likely to have, during the care period.
+
+    * (4) Subsection (3) does not apply if section 51 or 52 applies in relation to the responsible person.
+
+##### 51  Percentage of care if action taken to ensure that a care arrangement in relation to a child is complied with
+
+    * (1) This section applies if:
+
+     * (a) the Registrar is required by section 49 or 50 to determine a responsible person's percentage of care for a child during a care period; and
+
+     * (b) a care arrangement applies in relation to the child; and
+
+     * (c) the Registrar is satisfied that the actual care of the child that the responsible person has had, or is likely to have, during the care period does not comply with the extent of care of the child that the person should have had, or is to have, under the care arrangement during that period (which may be nil); and
+
+     * (d) a person who has reduced care of the child has taken reasonable action to ensure that the care arrangement is complied with.
+
+        * Note: This section does not apply in certain circumstances: see section 53.
+
+    * 2 percentages of care in relation to the responsible person
+
+    * (2) Subject to subsection (5), the Registrar must determine, under section 49 or 50, 2 percentages of care in relation to the responsible person.
+
+    * (3) The first percentage of care is to be a percentage that corresponds with the extent of care of the child that the responsible person should have had, or is to have, under the care arrangement during the care period (which may be nil).
+
+    * (4) The second percentage of care is to be:
+
+     * (a) for a determination under section 49--0%; or
+
+     * (b) for a determination under section 50--a percentage that corresponds with the actual care of the child that the Registrar is satisfied that the responsible person would be likely to have during the care period if the action referred to in paragraph (1)(d) were not to succeed.
+
+    * Single percentage of care in relation to the responsible person
+
+    * (5) If the Registrar is satisfied that special circumstances exist in relation to the child, the Registrar may determine, under section 49 or 50, a single percentage of care in relation to the responsible person.
+
+    * (6) The single percentage of care is to be:
+
+     * (a) for a determination under section 49--0%; or
+
+     * (b) for a determination under section 50--a percentage that corresponds with the actual care of the child that the Registrar is satisfied that the responsible person would be likely to have during the care period if the action referred to in paragraph (1)(d) were not to succeed.
+
+##### 52  Percentage of care if action taken to make a new care arrangement in relation to a child
+
+    * (1) This section applies if:
+
+     * (a) the Registrar is required by section 49 or 50 to determine a responsible person's percentage of care for a child during a care period; and
+
+     * (b) a care arrangement (the **_current care arrangement_**) applies in relation to the child; and
+
+     * (c) the Registrar is satisfied that the actual care of the child that the responsible person has had, or is likely to have, during the care period does not comply with the extent of care of the child that the person should have had, or is to have, under the current care arrangement during that period (which may be nil); and
+
+     * (d) a person who has reduced care of the child:
+
+      * (i) has not taken reasonable action to ensure that the current care arrangement is complied with; but
+
+      * (ii) has taken reasonable action to make another care arrangement (the **_new care arrangement_**) in relation to the child; and
+
+     * (e) the Registrar is satisfied that, if the new care arrangement were to be made, the extent of care that the person who has reduced care of the child would have under that arrangement during the care period would be:
+
+      * (i) more than the actual care of the child that the Registrar is satisfied that that person has had, or is likely to have, during that period; but
+
+      * (ii) less than the extent of care of the child that that person should have had, or is to have, under the current care arrangement during that period; and
+
+     * (f) the Registrar is satisfied that special circumstances exist in relation to the person who has reduced care of the child.
+
+        * Note: This section does not apply in certain circumstances: see section 53.
+
+    * (2) The Registrar must determine, under section 49 or 50, 2 percentages of care in relation to the responsible person.
+
+    * (3) The first percentage of care is to be a percentage that corresponds with the extent of care of the child that the responsible person would have under the new care arrangement during the care period if it were to be made.
+
+    * (4) The second percentage of care is to be:
+
+     * (a) for a determination under section 49--0%; or
+
+     * (b) for a determination under section 50--a percentage that corresponds with the actual care of the child that the Registrar is satisfied that the responsible person would be likely to have during the care period if the new care arrangement were not to be made.
+
+##### 53  Sections 51 and 52 do not apply in certain circumstances
+
+    * Initial determination
+
+    * (1) Sections 51 and 52 do not apply in relation to a responsible person for a child if:
+
+     * (a) in a case where subparagraph 49(1)(a)(i) or 50(1)(a)(i) applies--the day on which the application referred to in that subparagraph is made is 14 weeks or more after the change of care day for the responsible person; or
+
+     * (b) in a case where subparagraph 49(1)(a)(ii) or 50(1)(a)(ii) applies--the day referred to in that subparagraph is 14 weeks or more after the change of care day for the responsible person.
+
+    * Later determination
+
+    * (2) Sections 51 and 52 do not apply in relation to a responsible person for a child if:
+
+     * (a) the Registrar has revoked, under section 54F or 54H, a determination of the responsible person's percentage of care for the child; and
+
+     * (b) the revocation of the determination takes effect at the end of the day referred to in paragraph 54F(2)(c) or 54H(2)(c); and
+
+     * (c) the day after that day is 14 weeks or more after the change of care day for the responsible person.
+
+    * Extension of 14 week period
+
+    * (3) If the Registrar is satisfied that special circumstances exist in relation to the person who has reduced care of the child, the Registrar may determine that subsection (1) or (2) applies as if the reference to 14 weeks in paragraph (1)(a) or (b) or (2)(c) were a reference to such longer period as the Registrar determines to be appropriate.
+
+    * (4) The period determined under subsection (3) must not be more than 26 weeks.
+
+##### 54  When a person has reduced care of a child
+
+    * A person has**_ reduced care of a child_** if:
+
+     * (a) a care arrangement applies in relation to the child; and
+
+     * (b) the person should have had, or is to have, an extent of care of the child under the care arrangement during a care period; and
+
+     * (c) the Registrar is satisfied that the actual care of the child that the person has had, or is likely to have, during the care period is less than that extent of care.
+
+##### 54A  Working out actual care, and extent of care, of a child
+
+    * (1) The actual care of a child that a person has had, or is likely to have, during a care period may be worked out based on the number of nights that the Registrar is satisfied that the child was, or is likely to be, in the care of the person during the care period.
+
+    * (2) The extent of care of a child that a person should have had, or is to have, under a care arrangement during a care period may be worked out based on the number of nights that the child should have been, or is to be, in the care of the person during the care period under the care arrangement.
+
+    * (3) For the purposes of this section, a child cannot be in the care of more than one person at the same time.
+
+    * (4) This section does not limit section 50, 51, 52 or 54.
+
+##### 54B  Days to which the percentage of care applies if sections 51 and 52 did not apply in relation to a responsible person
+
+    * (1) If:
+
+     * (a) a determination of a responsible person's percentage of care for a child is made under section 49 or 50; and
+
+     * (b) sections 51 and 52 did not apply in relation to the responsible person;
+
+    * the percentage of care applies to each day in a child support period on and from the application day unless a revocation of the determination under Subdivision C of this Division takes effect.
+
+    * (2) The **_application day_** is:
+
+     * (a) if subparagraph 49(1)(a)(i) or 50(1)(a)(i) applies in relation to the determination--the day on which the application referred to in that subparagraph is made; or
+
+     * (b) if subparagraph 49(1)(a)(ii) or 50(1)(a)(ii) applies in relation to the determination--the day referred to in that subparagraph; or
+
+     * (c) if paragraph 49(1)(b) or 50(1)(b) applies in relation to the determination:
+
+      * (i) in a case where the revocation of the determination referred to in subparagraph 49(1)(b)(i) or 50(1)(b)(i) takes effect at the beginning of the day referred to in paragraph 54G(2)(a)--that day; or
+
+      * (ii) otherwise--the day that begins immediately after the revocation of the determination referred to in that subparagraph takes effect.
+
+##### 54C  Days to which the percentage of care applies if section 51 or 52 applied in relation to a responsible person
+
+    * 2 percentages of care
+
+    * (1) If:
+
+     * (a) a determination of a responsible person's percentage of care for a child is made under section 49 or 50; and
+
+     * (b) section 51 or 52 applied in relation to the responsible person; and
+
+     * (ba) in accordance with subsection 51(2) or 52(2), 2 percentages of care are determined in relation to the responsible person;
+
+    * then: 
+
+     * (c) the percentage of care referred to in subsection 51(3) or 52(3) applies to each day in a child support period that occurs in the interim period for the determination unless a revocation of the determination under Subdivision C of this Division takes effect; and
+
+     * (d) the percentage of care referred to in subsection 51(4) or 52(4) applies to each day in a child support period that occurs after the interim period for the determination unless a revocation of the determination under Subdivision C of this Division takes effect.
+
+    * (2) The **_interim period_** for the determination:
+
+     * (a) starts on the application day for the determination; and
+
+     * (b) ends at the end of the earliest of the following days:
+
+      * (i) the day specified by the Registrar;
+
+      * (ii) if section 51 applied in relation to the responsible person--the day before the day on which the action referred to in paragraph 51(1)(d) ends;
+
+      * (iii) if section 52 applied in relation to the responsible person--the day before the day on which the action referred to in subparagraph 52(1)(d)(ii) ends;
+
+      * (iv) if a care arrangement in relation to the child begins to apply on a day after the application day for the determination--the day before the day on which the care arrangement begins to apply.
+
+    * (3) Subject to subsection (5), the day specified by the Registrar under subparagraph (2)(b)(i) must be the last day in the 14 week period, or such other longer period as is specified under subsection (4), that starts on the change of care day for the responsible person.
+
+    * (4) If the Registrar is satisfied that special circumstances exist in relation to the person who has reduced care of the child, the Registrar may specify a period of up to 26 weeks for the purposes of subsection (3).
+
+    * (5) If the Registrar is satisfied that special circumstances exist in relation to the child, the day specified by the Registrar under subparagraph (2)(b)(i) may be a day that is earlier than the last day referred to in subsection (3).
+
+    * Single percentage of care
+
+    * (6) If:
+
+     * (a) a determination of a responsible person's percentage of care for a child is made under section 49 or 50; and
+
+     * (b) section 51 applied in relation to the responsible person; and
+
+     * (c) in accordance with subsection 51(5), a single percentage of care is determined in relation to the responsible person;
+
+    * the percentage of care applies to each day in a child support period on and from the application day unless a revocation of the determination under Subdivision C of this Division takes effect.
+
+##### 54D  Rounding of a percentage of care
+
+    * If a responsible person's percentage of care determined under this Subdivision is not a whole percentage:
+
+     * (a) if the percentage is greater than 50%--the percentage is rounded up to the nearest whole percentage; and
+
+     * (b) if the percentage is less than 50%--the percentage is rounded down to the nearest whole percentage.
+
+##### 54E  Registrar must have regard to guidelines about the making of determinations
+
+    * In making a determination under this Subdivision, the Registrar must have regard to any guidelines in force under subsection 35N(1) of the Family Assistance Act.
+
+##### Subdivision C--Revocation of determination of percentage of care
+
+##### 54F  Determination must be revoked if there is a change to the responsible person's cost percentage
+
+    * (1) If:
+
+     * (a) a determination of a responsible person's percentage of care (the **_existing percentage of care_**) for a child has been made under section 49 or 50; and
+
+     * (b) if section 51 or 52 applied in relation to the responsible person--the interim period for the determination has ended; and
+
+     * (c) the Registrar or the Secretary is notified, or otherwise becomes aware, that the care of the child that is actually taking place does not correspond with the responsible person's existing percentage of care for the child; and
+
+     * (d) the Registrar is satisfied that the responsible person's cost percentage for the child would change if the Registrar were to determine, under section 49 or 50, another percentage to be the person's percentage of care for the child; and
+
+     * (e) section 54G does not apply;
+
+    * the Registrar must revoke the determination.
+
+        * Note: The Registrar must make a new determination under section 49 or 50 to replace the revoked determination: see paragraph 49(1)(b) or 50(1)(b).
+
+    * (2) The revocation of the determination takes effect at the end of:
+
+     * (a) if the Registrar or the Secretary is notified, or otherwise becomes aware, of the matter referred to in paragraph (1)(c) within 28 days after the change of care day for the responsible person:
+
+      * (i) in a case where that change of care day occurs during the interim period for the determination--the day on which the interim period ends; or
+
+      * (ii) otherwise--the day before that change of care day; or
+
+     * (b) if the Registrar or the Secretary is notified, or otherwise becomes aware, of that matter more than 28 days after the change of care day for the responsible person but before the interim period for the determination has ended--the day on which the interim period ends; or
+
+     * (c) otherwise--the day before the day on which the Registrar or the Secretary is notified, or otherwise becomes aware, of that matter.
+
+##### 54G  Determination must be revoked if there is less than regular care etc.
+
+    * (1) If:
+
+     * (a) a responsible person (the **_first responsible person_**) for a child was to have at least regular care of the child during a care period under a determination (the **_first care determination_**) made under section 50; and
+
+     * (b) the first responsible person has had no care of the child, or has had a pattern of care that is less than regular care of the child, despite another responsible person for the child making the child available to the first responsible person; and
+
+     * (c) a determination of the other responsible person's percentage of care for the child has been made under section 50; and
+
+     * (d) the other responsible person notifies the Registrar or the Secretary of the matter referred to in paragraph (b) of this subsection within a period that the Registrar considers is reasonable in the circumstances;
+
+    * the Registrar must revoke both determinations.
+
+        * Note: The Registrar must make new determinations under section 49 or 50 to replace the revoked determinations: see paragraph 49(1)(b) or 50(1)(b).
+
+    * (2) The revocation of each determination takes effect:
+
+     * (a) if the first responsible person never established a pattern of care in accordance with the first care determination--at the beginning of the application day for that determination; or
+
+     * (b) if the first responsible person established a pattern of care in accordance with the first care determination but later ceased the established pattern of care--at the end of the day before the day on which the person ceased the previously established pattern of care.
+
+    * (3) To avoid doubt, a responsible person never establishes a pattern of care if:
+
+     * (a) the responsible person could not have established the pattern of care until a particular period that occurs later in a child support period; and
+
+     * (b) the responsible person does not establish that pattern during that particular period.
+
+##### 54H  Registrar may revoke a determination of a responsible person's percentage of care
+
+    * (1) If:
+
+     * (a) a determination of a responsible person's percentage of care (the **_existing percentage of care_**) for a child has been made under section 49 or 50; and
+
+     * (b) if section 51 or 52 applied in relation to the responsible person--the interim period for the determination has ended; and
+
+     * (c) the Registrar or the Secretary is notified, or otherwise becomes aware, that the care of the child that is actually taking place does not correspond with the responsible person's existing percentage of care for the child; and
+
+     * (d) the Registrar is satisfied that, if the Registrar were to determine, under section 49 or 50, another percentage to be the responsible person's percentage of care for the child, the other percentage would not be the same as the person's existing percentage of care for the child; and
+
+     * (e) sections 54F and 54G do not apply;
+
+    * the Registrar may revoke the determination.
+
+        * Note: If the Registrar revokes the determination, the Registrar must make a new determination under section 49 or 50 to replace the revoked determination: see paragraph 49(1)(b) or 50(1)(b).
+
+    * (2) If the Registrar revokes the determination, the revocation takes effect at the end of:
+
+     * (a) if the Registrar or the Secretary is notified, or otherwise becomes aware, of the matter referred to in paragraph (1)(c) within 28 days after the change of care day for the responsible person:
+
+      * (i) in a case where that change of care day occurs during the interim period for the determination--the day on which the interim period ends; or
+
+      * (ii) otherwise--the day before that change of care day; or
+
+     * (b) if the Registrar or the Secretary is notified, or otherwise becomes aware, of that matter more than 28 days after the change of care day for the responsible person but before the interim period for the determination has ended--the day on which the interim period ends; or
+
+     * (c) otherwise--the day before the day on which the Registrar or the Secretary is notified, or otherwise becomes aware, of that matter.
+
+##### 54J  Registrar must have regard to guidelines about the revocation of determinations
+
+    * In revoking a determination under this Subdivision, the Registrar must have regard to any guidelines in force under subsection 35S(1) of the Family Assistance Act.
+
+##### Subdivision D--Percentages of care determined under the Family Assistance Act
+
+##### 54K  Percentages of care determined under the Family Assistance Act that apply for child support purposes
+
+    * (1) If:
+
+     * (a) the Registrar is required by a provision of Subdivision B of this Division to determine a responsible person's percentage of care for a child; and
+
+     * (b) the Secretary has determined the responsible person's percentage of care for the child (the **_family assistance care determination_**) under a provision of Subdivision D of Division 1 of Part 3 of the Family Assistance Act; and
+
+     * (c) the family assistance care determination was made in relation to a claim for payment of family tax benefit; and
+
+     * (d) the family assistance care determination has not ceased to apply or been revoked;
+
+    * then: 
+
+     * (e) the family assistance care determination has effect, for the purposes of this Act, as if it were a determination of the responsible person's percentage of care for the child that has been made by the Registrar under a corresponding provision of Subdivision B of this Division; and
+
+     * (f) the responsible person's percentage of care for the child applies, for the purposes of this Act, in the same way, and in the same circumstances, in which it would apply if it had been determined by the Registrar under such a provision; and
+
+     * (g) the family assistance care determination may cease to apply, or be revoked, under Subdivision B or C of this Division in the same way, and in the same circumstances, in which a determination made under Subdivision B of this Division may cease to apply, or be revoked.
+
+    * (2) This section ceases to apply to the family assistance care determination if the determination ceases to apply, or is revoked, under Subdivision D or E of Division 1 of Part 3 of the Family Assistance Act.
+
+##### 54L  Reviews of percentages of care under the Family Assistance Administration Act apply for child support purposes
+
+    * (1) Subject to subsections (2) and (3), if:
+
+     * (a) the Secretary reviews a decision under section 105 or 109A of the Family Assistance Administration Act; and
+
+     * (b) reviewing the decision involves (wholly or partly) a review of a determination that:
+
+      * (i) was made under a provision of Subdivision D of Division 1 of Part 3 of the Family Assistance Act; or
+
+      * (ii) has effect, under section 35T of that Act, as if it were a determination made under such a provision; and
+
+     * (c) the Secretary's decision on the review has the effect of varying the determination or substituting a new determination;
+
+    * section 54K of this Act applies as if the determination as varied or substituted were the family assistance care determination referred to in that section.
+
+    * (2) Subject to subsection (3), if:
+
+     * (a) the SSAT reviews a decision under section 113 of the Family Assistance Administration Act; and
+
+     * (b) reviewing the decision involves (wholly or partly) a review of a determination that:
+
+      * (i) was made under a provision of Subdivision D of Division 1 of Part 3 of the Family Assistance Act; or
+
+      * (ii) has effect, under section 35T of that Act, as if it were a determination made under such a provision; and
+
+     * (c) the SSAT's decision on the review has the effect of varying the determination or substituting a new determination;
+
+    * section 54K of this Act applies as if the determination as varied or substituted were the family assistance care determination referred to in that section.
+
+    * (3) If:
+
+     * (a) the AAT reviews a decision under the _Administrative Appeals Tribunal Act 1975_; and
+
+     * (b) reviewing the decision involves (wholly or partly) a review of a determination that:
+
+      * (i) was made under a provision of Subdivision D of Division 1 of Part 3 of the Family Assistance Act; or
+
+      * (ii) has effect, under section 35T of that Act, as if it were a determination made under such a provision; and
+
+     * (c) the AAT's decision on the review has the effect of varying the determination or substituting a new determination;
+
+    * section 54K of this Act applies as if the determination as varied or substituted were the family assistance care determination referred to in that section.
+
+#### Division 5--Working out other elements for the formulas
+
+##### Subdivision A--Preliminary
+
+##### 55A  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	A parent's income percentage represents the parent's capacity to meet the costs of the child.
+
+     *  	A parent's cost percentage represents the extent to which the parent is taken to have met the costs of the child through care.
+
+     *  	A parent's child support percentage is the difference between the parent's income percentage and his or her cost percentage. Generally, if the parent has a positive child support percentage, the annual rate of child support payable by the parent is that percentage of the costs of the child.
+
+     *  	If a parent has multiple child support cases, the annual rate of child support payable by the parent for a child is capped by the parent's multicase cap for the child.
+
+##### Subdivision B--Working out other elements for the formulas
+
+##### 55B  Working out income percentages
+
+    * Work out each parent's **_income percentage _**for a child for a day in a child support period using the formula (worked out to 2 decimal places, rounding up if the third decimal place is 5 or more):
+
+##### 55C  Working out cost percentages
+
+    * A parent's or nonparent carer's **_cost percentage _**for a child for a day in a child support period is the percentage worked out using the table based on the parent's or nonparent carer's (as the case requires) percentage of care for the child for the day.
+
+##### 55D  Working out child support percentages
+
+    * (1) Work out each parent's **_child support percentage_** for a child for a day in the child support period using the formula:
+
+    * (2) A parent's **_child support percentage _**for a day in a child support period is taken to be nil if the amount worked out using the formula is negative.
+
+##### 55E  Working out the multicase cap
+
+    * (1) Work out a parent's multicase cap for a child (the **_particular child_**) for a day in a child support period in accordance with subsection (2) if:
+
+     * (a) the parent's annual rate of child support for the particular child is assessed for the day under section 37, 38, 39 or 40; and
+
+     * (b) if section 37 or 38 applies--the parent has a positive child support percentage for the particular child under step 6 of the method statement in section 35; and
+
+     * (c) in any case--the parent is assessed for the day in respect of the costs of another child who is in another child support case.
+
+    * (2) The parent's **_multicase cap_** for the particular child for the day is worked out using the formula:
+
+    * (3) For the purposes of paragraph (1)(c), a parent is taken to be assessed for a day in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child for the day under an administrative assessment under the law of a reciprocating jurisdiction.
+
+#### Division 6--The costs of the child
+
+##### Subdivision A--Preliminary
+
+##### 55F  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	The costs of the children are worked out using the rules in this Division and the Costs of the Children Table in Schedule 1.
+
+     *  	The costs of the children are based on the number of children in a child support case and the ages of those children.
+
+     *  	The costs of the child are the costs of the children divided by the number of children in the child support case.
+
+     *  	The Costs of the Children Table is updated every year to reflect changes to the annualised MTAWE figure.
+
+##### Subdivision B--The costs of the child
+
+##### 55G  Working out the costs of the children
+
+    * (1) If an annual rate of child support for a day in a child support period is assessed for a child under section 35 or 36 (Formulas 1 and 2), identify the column in the Costs of the Children Table for that child support period that covers the combined child support income of the parents of the child.
+
+        * Note: The Secretary publishes the updated Costs of the Children Table in the _Gazette_ each year for child support periods that begin in the next year (see section 155).
+
+    * (2) If:
+
+     * (a) an annual rate of child support for a day in a child support period is assessed for a child under Subdivision D of Division 2 (Formulas 5 and 6); and
+
+     * (b) the parent of the child is not assessed in respect of the costs of another child who is in another child support case;
+
+    * identify the column in the Costs of the Children Table for that child support period that covers the child support income of the parent of the child.
+
+        * Note: This subsection also applies in working out the relevant dependent child amount (see step 4 of the method statement in section 46).
+
+    * (3) Identify the number of children (the **_child support children_**) in the child support case that relates to the child.
+
+    * (4) Identify the ages of the child support children on the day. If there are more than 3 child support children, use the ages of the 3 oldest children.
+
+    * (5) Identify the item in the relevant column in the Costs of the Children Table that covers that number of child support children of those ages.
+
+    * (6) The amount worked out for the item in accordance with Schedule 1 to this Act is the **_costs of the children_**.
+
+    * (7) For the purposes of paragraph (2)(b), a parent is taken to be assessed in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+##### 55H  Working out the costs of the child
+
+    * For the purposes of section 55G, the **_costs of a child _**for a day in a child support period is:
+
+     * (a) if there is only one child support child--the costs of the children; and
+
+     * (b) otherwise--the costs of the children divided by the number of child support children.
+
+##### 55HA  Working out the costs of the child if parents have multiple child support cases
+
+    * (1) If an annual rate of child support for a day in a child support period is assessed for a child under section 37 or 38 (Formulas 3 and 4), identify the column in the Costs of the Children Table for that child support period that covers the combined child support income of the parents of the child.
+
+        * Note: The Secretary publishes the updated Costs of the Children Table in the _Gazette_ each year for child support periods that begin in the next year (see section 155).
+
+    * (2) If:
+
+     * (a) an annual rate of child support for a day in a child support period is assessed for a child under Subdivision D of Division 2 (Formulas 5 and 6); and
+
+     * (b) the parent of the child is assessed in respect of the costs of another child who is in another child support case;
+
+    * identify the column in the Costs of the Children Table for that child support period that covers the child support income of the parent of the child.
+
+        * Note: This subsection also applies in working out the multicase allowance (step 3 of the method statement in section 47).
+
+    * (3) Identify the number of children (the **_child support children_**) in the child support case that relates to the child.
+
+    * (4) Identify the ages of the child support children on the day.
+
+    * (5) In respect of each of the child support children:
+
+     * (a) assume that all of the child support children are the same age as that child; and
+
+     * (b) identify the item in the relevant column in the Costs of the Children Table that covers that number of child support children of that age.
+
+    * (If there are more than 3 child support children, use the row for 3 children.)
+
+    * (6) For the purposes of this section, the **_costs of the child _**for a day in a child support period, in respect of each child, is the amount worked out, in accordance with Schedule 1 to this Act, for the item identified for that child divided by the number of child support children.
+
+    * (7) For the purposes of paragraph (2)(b), a parent is taken to be assessed in respect of the costs of another child who is in another child support case if the parent is liable to pay child support for that child under an administrative assessment under the law of a reciprocating jurisdiction.
+
+#### Division 7--Assessments and estimates of adjusted taxable income
+
+##### Subdivision A--Preliminary
+
+##### 55J  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	A parent's taxable income is generally the amount of taxable income that is assessed under an Income Tax Assessment Act.
+
+     *  	The Registrar may determine a parent's adjusted taxable income in certain circumstances.
+
+     *  	There are limits on the Registrar's ability to amend an assessment for past periods if the parent later lodges his or her tax return.
+
+     *  	A parent can estimate the amount of his or her adjusted taxable income for a year of income.
+
+##### Subdivision B--Adjusted taxable income determined by reference to taxable income etc.
+
+##### 56  Taxable income is as assessed under Income Tax Assessment Act
+
+    * Meaning of **taxable income**
+
+    * **	(1)	For the purposes of assessing a parent in respect of the costs of a child in relation to a child support period, if the parent's taxable income has been assessed under an Income Tax Assessment Act for the last relevant year of income in relation to the child support period, the parent's **_taxable income _**for that year is the amount as so assessed.
+
+        * Note: Sections 34A and 57 are also relevant to a person's taxable income.
+
+    * When amended tax assessment may be taken into account
+
+    * (2) If, after an administrative assessment of child support is made, the assessment (the **_tax assessment_**) of a parent's taxable income is amended (whether or not because of an objection, appeal or review), the Registrar must not amend the administrative assessment to take account of the amendment to the tax assessment unless one of the following applies:
+
+     * (a) the amendment to the tax assessment is made under item 5 of the table in subsection 170(1) of the_ Income Tax Assessment Act 1936_ (amendment due to fraud or evasion);
+
+     * (b) the amendment to the tax assessment is made under provisions of an Income Tax Assessment Act that are prescribed by the regulations for the purposes of this paragraph;
+
+     * (c) the amendment is made in circumstances prescribed for the purposes of this paragraph;
+
+     * (d) the amendment is made solely for the purposes of working out the parent's adjusted taxable income for the last relevant year of income for the purposes of paragraph 60(1)(b) of this Act (first estimate must be lower than adjusted taxable income).
+
+    * Date of assessment of a parent's taxable income taken to be date of notice of the assessment
+
+    * (3) For the purposes of this section, if:
+
+     * (a) notice of an assessment (including an amended assessment) of a parent's taxable income under an Income Tax Assessment Act has been served on the parent under the _Income Tax Assessment Act 1936_; and
+
+     * (b) the notice is dated;
+
+    * then the assessment is taken to have been made on the date of the notice.
+
+    * Section not to affect determinations, court orders or consent orders
+
+    * (4) This section does not prevent:
+
+     * (a) the Registrar from making any determination under Part 6A (departure determinations); or
+
+     * (b) a court from making any order under Division 4 of Part 7 (departure orders); or
+
+     * (c) the making, and acceptance by the Registrar, of a child support agreement that includes provisions that have effect for the purposes of this Part as if they were such an order made by consent.
+
+##### 57  Taxable income for child support purposes where taxable income determined to be nil under Income Tax Assessment Act
+
+    * (1) This section does not apply to a parent for a year of income if the parent has a component of adjusted taxable income mentioned in paragraphs 43(1)(b) to (e) for the year of income.
+
+    * Determinations that taxable income nil or no tax payable
+
+    * (2) A parent's **_taxable income _**for a year of income is nil if the parent's taxable income for that year has been determined to be nil under an Income Tax Assessment Act.
+
+    * (3) A parent's **_taxable income _**for a year of income is also nil if:
+
+     * (a) the Commissioner has determined under an Income Tax Assessment Act that no tax was payable (before the allowance of any rebate or credit) under that Act on the parent's taxable income for the year of income; and
+
+     * (b) either of the following subparagraphs applies in relation to the person:
+
+      * (i) Part 1 of Schedule 7 to the _Income Tax Rates Act 1986 _(or any other law prescribed by the regulations for the purposes of this paragraph in relation to the year of income) applied in relation to the parent for the year of income;
+
+      * (ii) no tax would have been payable (before the allowance of any rebate or credit) under that Act by the person on his or her taxable income if Part 1 of Schedule 7 to the _Income Tax Rates Act 1986 _(or any other law prescribed by the regulations for the purposes of this paragraph in relation to the year of income) had applied in relation to the parent for the year of income.
+
+    * (4) Subsections (2) and (3) do not apply in relation to an administrative assessment made in relation to a parent if:
+
+     * (a) before the administrative assessment is made; but
+
+     * (b) after the most relevant notice mentioned in subsection (5) or (6) is made;
+
+    * an assessment is issued under the _Income Tax Assessment Act 1936_ of the person's taxable income for the year of income under an Income Tax Assessment Act.
+
+    * Notices issued under the Income Tax Assessment Act 1936
+
+    * (5) If a parent has been served a notice under the _Income Tax Assessment Act 1936 _to the effect that the taxable income of the parent under an Income Tax Assessment Act for a year of income is nil, then:
+
+     * (a) the parent's taxable income for that year is taken to have been determined to be nil under an Income Tax Assessment Act; and
+
+     * (b) if the notice was dated--the determination is taken to have been made on the date of the notice.
+
+    * (6) If a parent has been served a notice under the _Income Tax Assessment Act 1936 _to the effect that no tax is payable (before the allowance of any rebate or credit) under an Income Tax Assessment Act on the taxable income of the parent for a year of income, then:
+
+     * (a) the Commissioner is taken to have determined under the Income Tax Assessment Act that no tax was payable (before the allowance of any rebate or credit) under that Act on the parent's taxable income for the year of income; and
+
+     * (b) if the notice was dated--the determination is taken to have been made on the date of the notice.
+
+    * When amended tax assessment may be taken into account
+
+    * (7) If, after an administrative assessment of child support is made, the assessment (the **_tax assessment_**) of the parent's taxable income is amended (whether or not because of an objection, appeal or review), the Registrar must not amend the administrative assessment to take account of the amendment to the tax assessment unless either of the following applies:
+
+     * (a) the subsequent assessment was made because the parent had not made to the Commissioner a full and true disclosure of all the material facts necessary for the Commissioner's assessment, or in other circumstances prescribed for the purposes of this subsection;
+
+     * (b) the amendment is made solely for the purposes of working out the parent's adjusted taxable income for the last relevant year of income for the purposes of paragraph 60(1)(b) (first estimate must be lower than adjusted taxable income).
+
+    * Date of assessment of a parent's taxable income taken to be date of notice of the assessment
+
+    * (8) For the purposes of this section, if:
+
+     * (a) notice of an assessment (including an amended assessment) of a parent's taxable income under an Income Tax Assessment Act has been served on the parent under the _Income Tax Assessment Act 1936_; and
+
+     * (b) the notice is dated;
+
+    * then the assessment is taken to have been made on the date of the notice.
+
+    * Section not to affect determinations, court orders or consent orders
+
+    * (9) This section does not prevent:
+
+     * (a) the Registrar from making any determination under Part 6A (departure determinations); or
+
+     * (b) a court from making any order under Division 4 of Part 7 (departure orders); or
+
+     * (c) the making, and acceptance by the Registrar, of a child support agreement that includes provisions that have effect for the purposes of this Part as if they were such an order made by consent.
+
+##### 58  Determination by the Registrar of a parent's adjusted taxable income
+
+    * (1) This section applies if a parent is to be assessed in respect of the costs of a child in relation to a child support period and either of the following apply:
+
+     * (a) the parent's taxable income for the last relevant year of income in relation to the period has not been assessed under an Income Tax Assessment Act;
+
+     * (b) the Registrar is unable to ascertain whether or not the parent's taxable income for that year has been so assessed.
+
+    * Information or document in the possession of the Registrar etc.
+
+    * (2) If:
+
+     * (a) the Registrar or the Commissioner of Taxation has information (whether oral or written) or a document in his or her possession; and
+
+     * (b) either:
+
+      * (i) an amount is specified in that information or document as the parent's adjusted taxable income for the last relevant year of income; or
+
+      * (ii) that information or document allows the amount of the parent's adjusted taxable income for the last relevant year of income to be worked out; and
+
+     * (c) the Registrar is satisfied that the specified amount, or the amount so worked out, is a reasonable approximation of the parent's adjusted taxable income for that year;
+
+    * the Registrar may determine that the specified amount, or the amount so worked out, is the parent's adjusted taxable income for that year.
+
+    * Parent's taxable income assessed for the previous year of income
+
+    * (3) If:
+
+     * (a) the parent's taxable income for a year of income has been assessed under an Income Tax Assessment Act; and
+
+     * (b) that year (the **_previous year_**) is the year of income before the last relevant year of income;
+
+    * the Registrar may determine that the parent's adjusted taxable income for the last relevant year of income is the amount worked out by multiplying the parent's adjusted taxable income for the previous year by the ATI indexation factor.
+
+    * Parent's taxable income assessed for an earlier year of income
+
+    * (4) If:
+
+     * (a) the parent's taxable income for the previous year has not been assessed under an Income Tax Assessment Act; but
+
+     * (b) the parent's taxable income for an earlier year of income has been so assessed;
+
+    * the Registrar may determine that the parent's adjusted taxable income for the last relevant year of income is the greater of the following amounts:
+
+     * (c) the amount worked out by multiplying the parent's adjusted taxable income for the earlier year of income (or, if the parent's taxable income has been so assessed for more than one earlier year of income, the most recent of those years) by the ATI indexation factor;
+
+     * (d) the amount that is equal to twothirds of the annualised MTAWE figure for the relevant June quarter in relation to the child support period.
+
+    * Other circumstances
+
+    * (5) If:
+
+     * (a) subsections (2), (3) and (4) do not apply in relation to the parent; or
+
+     * (b) the Registrar decides not to make a determination in relation to the parent under one of those subsections;
+
+    * the Registrar may determine that the parent's adjusted taxable income for the last relevant year of income is an amount that is at least twothirds of the annualised MTAWE figure for the relevant June quarter in relation to the child support period.
+
+##### 58AA  ATI indexation factor for determinations under section 58
+
+    * (1) The **_ATI indexation factor_** is:
+
+    * where: 
+
+    * **_AWE amount_** for a December quarter of a year of income means the amount published for the reference period in the quarter by the Australian Statistician in a document titled "Average Weekly Earnings, Australia" (or, if that title changes, in a replacement document) under the headings "Average Weekly Earnings--Trend--Persons--All employees total earnings" (or, if any of those headings change, under any replacement headings).
+
+    * **_December quarter_** of a year of income means the quarter ending on 31 December of that year.
+
+    * **_reference period_** in a December quarter of a year of income means the period described by the Australian Statistician as the last pay period ending on or before the third Friday of the middle month of the quarter.
+
+    * **_tax return year_** means:
+
+     * (a) if subsection 58(3) applies--the year of income before the last relevant year of income in relation to a child support period; or
+
+     * (b) if subsection 58(4) applies--the earlier year of income that applies under paragraph 58(4)(c).
+
+    * (2) The ATI indexation factor is to be calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
+
+    * (3) If:
+
+     * (a) the Australian Statistician publishes an AWE amount (the **_later amount_**) for a December quarter of a year of income; and
+
+     * (b) the later amount is published in substitution for an AWE amount for that quarter that was previously published by the Australian Statistician;
+
+    * the publication of the later amount is to be disregarded for the purposes of this section.
+
+##### 58A  Subsequently ascertaining components of a parent's adjusted taxable income
+
+    * (1) The Registrar must immediately amend an administrative assessment of child support payable by or to a parent in relation to a child support period if:
+
+     * (a) the assessment was made on the basis of a determination under section 58; and
+
+     * (b) either:
+
+      * (i) the Registrar subsequently ascertains the amount of the parent's adjusted taxable income for the last relevant year of income; or
+
+      * (ii) the Registrar makes a later determination under section 58; and
+
+     * (c) either:
+
+      * (i) if subparagraph (b)(i) applies--the amount that was subsequently ascertained is different from the amount that was determined under section 58; or
+
+      * (ii) if subparagraph (b)(ii) applies--the later amount that the Registrar determines is different from the earlier amount determined under section 58.
+
+    * Retrospective determinations
+
+    * (2) If:
+
+     * (a) at the time the Registrar is to amend the administrative assessment under this section, the parent could lodge his or her tax return by the date required under Part IV of the _Income Tax Assessment Act 1936 _(taking into account any deferral under section 38855 in Schedule 1 to the _Taxation Administration Act 1953_); or
+
+     * (b) paragraph (a) of this subsection does not apply and:
+
+      * (i) the amount subsequently ascertained, as mentioned in subparagraph (1)(b)(i), is higher than the amount that was determined under section 58; or
+
+      * (ii) the later amount that the Registrar determines, as mentioned in subparagraph (1)(b)(ii), is higher than the earlier amount determined under section 58; or
+
+     * (c) neither paragraph (a) nor (b) applies, but circumstances prescribed by the regulations for the purposes of this section apply in relation to the parent;
+
+    * then the Registrar must immediately amend the administrative assessment for the child support period on the basis that the parent's adjusted taxable income for that year of income is, and has always been, the amount that was subsequently ascertained or later determined (as the case requires).
+
+    * Prospective determinations
+
+    * (3) If subsection (2) does not apply, then the Registrar must immediately amend the administrative assessment for the child support period on the basis that for each later day in the period the parent's adjusted taxable income for that year of income is the amount that was subsequently ascertained or later determined (as the case requires).
+
+    * No taxation assessment required
+
+    * (4) This section applies whether or not the Commissioner of Taxation has made an assessment under an Income Tax Assessment Act of the parent's taxable income for that year of income.
+
+##### Subdivision BA--Overseas income
+
+##### 58B  Inclusion of overseas income in working out a parent's adjusted taxable income
+
+    * For the purposes of working out a parent's adjusted taxable income for a child for a day in a child support period if the parent is a resident of a reciprocating jurisdiction, a reference in this Division to the parent's taxable income includes a reference to the parent's overseas income as determined under this Subdivision.
+
+##### 58C  Determination of overseas income if information and documents in Registrar's possession are sufficient
+
+    * (1) This section applies if the Registrar possesses sufficient information and documents to determine a parent's overseas income (whether as a result of seeking information or documents under section 162A or not).
+
+    * (2) In making an administrative assessment in relation to the parent and a child support period, the Registrar may determine, from the information and documents in the Registrar's possession, an amount to be the parent's overseas income for the year of income for the purpose of working out the person's adjusted taxable income.
+
+##### 58D  Determination of overseas income if information and documents in Registrar's possession are insufficient
+
+    * (1) This section applies if:
+
+     * (a) the Registrar does not possess sufficient information and documents to determine a parent's overseas income; and
+
+     * (b) despite requesting, under section 162A, information or documents from the parent or from an overseas authority that are necessary to determine the parent's overseas income, the information or documents requested have not been supplied.
+
+    * (2) In making an administrative assessment of the child support in relation to the parent and a child support period, the Registrar may determine that the parent's overseas income for the year of income, for the purpose of working out the parent's adjusted taxable income, is an amount that the Registrar considers appropriate of at least twothirds of the annualised MTAWE figure for the relevant June quarter.
+
+##### Subdivision C--Child support income determined by reference to parent's estimate of adjusted taxable income
+
+##### 60  Parent may elect to estimate his or her adjusted taxable income for a year of income
+
+    * (1) A parent may, before a year of income starts or during a year of income, elect that the parent's adjusted taxable income for the year of income is to be the amount that applies under subsection (2) or (3) if:
+
+     * (a) the parent is to be assessed in respect of the costs of a child of the parent for a day in a child support period; and
+
+     * (b) the amount that would apply under that subsection is not more than 85% of:
+
+      * (i) the total of the parent's adjusted taxable income determined in accordance with section 43 for the last relevant year of income for the child support period; or
+
+      * (ii) an amount that the parent declares is the total of the parent's adjusted taxable income for the last relevant year of income for the child support period, and the Registrar is satisfied that the declared amount is correct.
+
+    * Estimate for a whole year of income
+
+    * (2) If the parent makes the election under subsection (1) before the year of income starts or on the first day of the year of income, the amount is the total of the following amounts (the **_income component amounts_**) as estimated by the parent:
+
+     * (a) the parent's taxable income for the year;
+
+     * (b) the parent's reportable fringe benefits total for the year;
+
+     * (c) the parent's target foreign income for the year;
+
+     * (d) the parent's total net investment loss (within the meaning of the _Income Tax Assessment Act 1997_) for the year;
+
+     * (e) the total of the tax free pensions or benefits received by the parent in the year;
+
+     * (f) the parent's reportable superannuation contributions (within the meaning of the _Income Tax Assessment Act 1997_) for the year.
+
+    * Estimate for a part of a year of income etc.
+
+    * (3) If the parent makes the election under subsection (1) during the year of income but not on the first day of the year of income:
+
+     * (a) the parent is to use the method in subsection (4) to work out the amount; and
+
+     * (b) the parent is to estimate each income component amount for the parent for the period that:
+
+      * (i) started on the first day of the year of income; and
+
+      * (ii) ended at the end of the day before the start day for the election.
+
+    * (4) For the purposes of paragraph (3)(a), the method is as follows:
+
+Method statement
+
+      * Step 1.	Estimate each income component amount for the parent for the period (the **_remaining period_**):
+
+        * (a) starting on the start day for the election; and
+
+        * (b) ending at the end of the last day of the year of income.
+
+      * Step 2.	Add up those amounts. The result is the **_partial year income amount_**.
+
+      * Step 3.	Divide the partial year income amount by the number of days in the remaining period.
+
+      * Step 4.	Multiply the quotient by 365.
+
+    * (5) The start day for the election must be:
+
+     * (a) the day on which the parent makes the election; or
+
+     * (b) the first day of a child support period, so long as that day is not before the day referred to in paragraph (a).
+
+    * No election if an income amount order is in force
+
+    * (6) Despite subsection (1), a parent may not make an election if an income amount order is in force in relation to:
+
+     * (a) the parent; and
+
+     * (b) if the parent were to make such an election--any part of the period that would be the application period for the election.
+
+    * How election is made
+
+    * (7) The parent makes the election under subsection (1) by giving notice of it to the Registrar in the manner specified by the Registrar.
+
+    * (8) The notice must specify:
+
+     * (a) the amount that applies under subsection (2) or (3); and
+
+     * (b) if subsection (2) applies--each of the income component amounts estimated by the parent under that subsection; or
+
+     * (c) if subsection (3) applies:
+
+      * (i) the day that is the start day for the election; and
+
+      * (ii) each of the income component amounts estimated by the parent under paragraph (3)(b) and under step 1 of the method statement in subsection (4).
+
+##### 61  Effect of election
+
+    * (1) If:
+
+     * (a) a parent makes an election under subsection 60(1) relating to a year of income; and
+
+     * (b) the parent is to be assessed in respect of the costs of a child of the parent for a day in a child support period; and
+
+     * (c) the day occurs in the application period for the election;
+
+    * then, for the purposes of so assessing the parent, the parent's **_adjusted taxable income_** is the amount that applies under subsection 60(2) or 60(3).
+
+    * (1A) The **_application period_** for an election under subsection 60(1) relating to a year of income is the period that:
+
+     * (a) starts:
+
+      * (i) if the parent made the election before the year of income started or on the first day of the year of income--on the first day of that year of income; or
+
+      * (ii) otherwise--on the start day for the election;
+
+     * unless the election is revoked before that day; and
+
+     * (b) ends:
+
+      * (i) at the end of the last day of that year of income; or
+
+      * (ii) if the parent revokes the election before that day and makes another election (the **_later election_**) under subsection 62A(1) relating to the year of income--at the end of the day before the start day for the later election.
+
+    * (2) Subsection (1) has effect subject to an income amount order that is made after the making of the election that applies in relation to the parent and any part of the application period for the election.
+
+    * (3) The Registrar must immediately take such action as is necessary to give effect to subsection (1) in relation to any administrative assessment that has been made in relation to the parent (whether by amending the assessment or otherwise).
+
+    * (4) Subject to section 63, in subsequently making any administrative assessment in relation to the parent, the Registrar must act in accordance with this section.
+
+    * (5) This section does not prevent:
+
+     * (a) the Registrar making any determination under Part 6A (departure determinations); or
+
+     * (b) a court making any order under Division 4 of Part 7 (departure orders); or
+
+     * (c) the making, and acceptance by the Registrar, of a child support agreement that includes provisions that have effect for the purposes of this Part as if they were such an order made by consent.
+
+##### 62  Revocation of income election
+
+    * (1) A parent who has made an income election relating to a year of income may, by notice given to the Registrar, revoke the income election.
+
+        * Note: If the application period for the income election has started, the parent must make a new election under subsection 62A(1).
+
+    * (2) The notice must be given in the manner specified by the Registrar.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in which a notice may be given.
+
+##### 62A  Parent must elect a new estimate of his or her adjusted taxable income for a year of income
+
+    * (1) If:
+
+     * (a) under subsection 62(1), a parent revokes an income election (the **_earlier election_**) relating to a year of income; and
+
+     * (b) at the time of the revocation, the application period for the earlier election has started;
+
+    * the parent must elect that the parent's adjusted taxable income for the year of income is to be the amount the parent works out as follows:
+
+Method statement
+
+      * Step 1.	Estimate each income component amount for the parent for the period (the **_remaining period_**):
+
+        * (a) starting on the start day for the election made under this subsection; and
+
+        * (b) ending at the end of the last day of the year of income.
+
+      * Step 2.	Add up those amounts. The result is the **_partial year income amount_**.
+
+      * Step 3.	Divide the partial year income amount by the number of days in the remaining period.
+
+      * Step 4.	Multiply the quotient by 365.
+
+    * Start day
+
+    * (2) Subject to subsection (3), the start day for the election under subsection (1) must be the day on which the parent makes that election.
+
+    * (3) If:
+
+     * (a) an event affecting the accuracy of an estimate on which the earlier election is based has occurred; and
+
+     * (b) the amount that would be worked out under subsection (1) for an election under that subsection if the start day for that election was the day on which the event occurred is more than:
+
+      * (i) if subsection 60(2) or (3) applied to the earlier election--the amount that applied under that subsection; or
+
+      * (ii) if the earlier election was made under subsection (1) of this section--the amount worked out under that subsection;
+
+    * the start day for the election under subsection (1) of this section must be the day on which the event occurred.
+
+    * How election is made
+
+    * (4) The parent makes the election under subsection (1) by giving notice of it to the Registrar in the manner specified by the Registrar.
+
+    * (5) The notice must specify:
+
+     * (a) the amount worked out under subsection (1); and
+
+     * (b) the day that is the start day for the election under that subsection; and
+
+     * (c) each of the income component amounts estimated by the parent under step 1 of the method statement in that subsection.
+
+##### 63  Effect of later election
+
+    * (1) If:
+
+     * (a) a parent makes an election under subsection 62A(1) relating to the year of income; and
+
+     * (b) the parent is to be assessed in respect of the costs of a child of the parent for a day in a child support period; and
+
+     * (c) the day occurs in the application period for the election;
+
+    * then, for the purposes of so assessing the parent, the parent's **_adjusted taxable income_** is the amount worked out under that subsection.
+
+    * (2) The **_application period_** for an election under subsection 62A(1) relating to a year of income is the period that:
+
+     * (a) starts on the start day for the election unless the election is revoked before that day; and
+
+     * (b) ends:
+
+      * (i) at the end of the last day of the year of income; or
+
+      * (ii) if the parent revokes the election before that day and makes another election (the **_later election_**) under subsection 62A(1) relating to the year of income--at the end of the day before the start day for the later election.
+
+    * (2A) Subsection (1) has effect subject to an income amount order that applies in relation to the parent and any part of the application period for the later election.
+
+    * (3) The Registrar must immediately take such action as is necessary to give effect to subsection (1) in relation to any administrative assessment that has been made in relation to the parent (whether by amending the assessment or otherwise).
+
+    * (4) Subject to any further election made under subsection 62A(1), in subsequently making any administrative assessment in relation to the parent, the Registrar must act in accordance with subsection (1).
+
+    * (5) This section does not prevent:
+
+     * (a) the Registrar making any determination under Part 6A (departure determinations); or
+
+     * (b) a court making any order under Division 4 of Part 7 (departure orders); or
+
+     * (c) the making, and acceptance by the Registrar, of a child support agreement that includes provisions that have effect for the purposes of this Part as if they were such an order made by consent.
+
+##### 63AA  Registrar may refuse to accept an income election
+
+    * (1) If:
+
+     * (a) a parent makes an income election to which subsection 60(2) applies; and
+
+     * (b) the Registrar is satisfied that the amount worked out under that subsection is less than the amount that the Registrar considers is likely to be the parent's actual adjusted taxable income for the year of income to which the income election relates;
+
+    * the Registrar may refuse to accept the income election.
+
+    * (2) The Registrar may refuse to accept a parent's income election to which subsection 60(3) applies if the Registrar is satisfied that:
+
+     * (a) the partial year income amount for the income election is less than the amount that the Registrar considers is likely to be the parent's actual adjusted taxable income for the remaining period in relation to the income election; or
+
+     * (b) the total of the income component amounts estimated by the parent under paragraph 60(3)(b) for the period referred to in that paragraph is more than the amount that the Registrar considers is likely to be the total of the actual income component amounts for the parent for that period.
+
+    * (3) If:
+
+     * (a) a parent makes an election under subsection 62A(1); and
+
+     * (b) the Registrar is satisfied that the partial year income amount for the income election is less than the amount that the Registrar considers is likely to be the parent's actual adjusted taxable income for the remaining period in relation to the income election;
+
+    * the Registrar may refuse to accept the income election.
+
+    * (4) In making the decision as to whether to refuse to accept the income election, the Registrar:
+
+     * (a) may act on the basis of information that the Registrar has received or obtained as to the financial circumstances of the parent; and
+
+     * (b) may, but is not required to, conduct an inquiry into the matter.
+
+    * (5) Except for the purposes of Parts VII, VIIA and VIII of the Registration and Collection Act (dealing with objections and appeals), if the Registrar refuses to accept the income election, the election is taken never to have been made.
+
+##### 63AB  Notice to be given if Registrar refuses to accept an income election
+
+    * (1) If the Registrar refuses under section 63AA to accept an income election, the Registrar must give written notice of the decision to the parent who sought to make the income election.
+
+    * (2) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the parent may, subject to the Registration and Collection Act, object to the particulars of the assessment in relation to which the parent sought to make the income election; and
+
+     * (b) that if the parent is aggrieved by the decision on the objection, he or she may, subject to that Act, apply to the SSAT for review of the decision.
+
+    * (3) A contravention of subsection (2) in relation to a decision does not affect the validity of the decision.
+
+##### Subdivision D--Year to date income amounts
+
+##### 63AC  Parent may elect a new year to date income amount
+
+    * (1) If:
+
+     * (a) either of the following apply:
+
+      * (i) a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies;
+
+      * (ii) a parent has made an election in relation to a year of income under this subsection; and
+
+     * (b) the parent becomes satisfied that the following amount (the **_year to date income amount_**) is incorrect:
+
+      * (i) if subparagraph (a)(i) applies--the total of the income component amounts estimated by the parent under paragraph 60(3)(b);
+
+      * (ii) if subparagraph (a)(ii) applies--the amount specified under paragraph (3)(a) of this section in the notice of the election; and
+
+     * (c) sections 64, 64A, 64AC and 64AD do not apply in relation to the parent;
+
+    * the parent may elect another amount (the **_new amount_**) to replace the year to date income amount for the year of income.
+
+    * (2) The parent makes the election under subsection (1) by giving notice of it to the Registrar in the manner specified by the Registrar.
+
+    * (3) The notice must specify:
+
+     * (a) the new amount; and
+
+     * (b) the parent's estimate of each income component amount for the period referred to in paragraph 60(3)(b).
+
+##### 63AD  Registrar may refuse to accept an election of a new year to date income amount
+
+    * Refusal to accept election
+
+    * (1) The Registrar may refuse to accept an election made by a parent under subsection 63AC(1) if the Registrar is satisfied that the amount specified under paragraph 63AC(3)(a) in the notice of the election is more than the amount that the Registrar considers is likely to be the total of the actual income component amounts for the parent for the period referred to in paragraph 60(3)(b).
+
+    * (2) In making the decision as to whether to refuse to accept the election, the Registrar:
+
+     * (a) may act on the basis of information that the Registrar has received or obtained as to the financial circumstances of the parent; and
+
+     * (b) may, but is not required to, conduct an inquiry into the matter.
+
+    * (3) Except for the purposes of Parts VII, VIIA and VIII of the Registration and Collection Act (dealing with objections and appeals), if the Registrar refuses to accept the election, the election is taken never to have been made.
+
+    * Notice of refusal
+
+    * (4) If the Registrar refuses under subsection (1) to accept a parent's election made under subsection 63AC(1), the Registrar must give written notice of the decision to the parent.
+
+    * (5) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the parent may, subject to the Registration and Collection Act, object to the decision (the **_original decision_**); and
+
+     * (b) that if the parent is aggrieved by a later decision on the objection to the original decision, he or she may, subject to that Act, apply to the SSAT for review of the later decision.
+
+    * (6) A contravention of subsection (5) in relation to a decision does not affect the validity of the decision.
+
+##### 63AE  Registrar may determine a new year to date income amount
+
+    * (1) If:
+
+     * (a) any of the following apply:
+
+      * (i) a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies;
+
+      * (ii) a parent has made an election in relation to a year of income under subsection 63AC(1);
+
+      * (iii) the Registrar has made a determination under this subsection in relation to a parent and a year of income; and
+
+     * (b) the Registrar becomes satisfied that the following amount (the **_year to date income amount_**) is incorrect:
+
+      * (i) if subparagraph (a)(i) applies--the total of the income component amounts estimated by the parent under paragraph 60(3)(b);
+
+      * (ii) if subparagraph (a)(ii) applies--the amount specified under paragraph 63AC(3)(a) in the notice of the election;
+
+      * (iii) is subparagraph (a)(iii) applies--the amount specified in the determination;
+
+    * the Registrar may determine another amount to replace the year to date income amount for the year of income.
+
+    * (2) If the Registrar makes a determination in relation to a parent under subsection (1), the Registrar must give written notice of the determination to the parent.
+
+    * (3) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the parent may, subject to the Registration and Collection Act, object to the determination; and
+
+     * (b) that if the parent is aggrieved by the decision on the objection, he or she may, subject to that Act, apply to the SSAT for review of the decision.
+
+    * (4) A contravention of subsection (3) in relation to a determination does not affect the validity of the determination.
+
+##### 63AF  Parent's applicable YTD income amount
+
+    * (1) If:
+
+     * (a) a parent has made an election relating to a year of income under subsection 60(1) to which subsection 60(3) applies; and
+
+     * (b) subsection (2) of this section does not apply in relation to the parent;
+
+    * the total of the income component amounts estimated by the parent under paragraph 60(3)(b) is the parent's **_applicable YTD income amount_** for that year.
+
+    * (2) If either or both of the following have occurred:
+
+     * (a) a parent has made one or more elections in relation to a year of income under subsection 63AC(1);
+
+     * (b) the Registrar has made one or more determinations under subsection 63AE(1) in relation to a parent and a year of income;
+
+    * the parent's **_applicable YTD income amount_** for the year of income is:
+
+     * (c) the amount specified under paragraph 63AC(3)(a) in the notice of such an election, if that election was the last of those elections or determinations to be made; or
+
+     * (d) the amount determined in such a determination, if that determination was the last of those elections or determinations to be made.
+
+##### Subdivision E--Amendment of assessments
+
+##### 63A  Amendment of assessment based on income election if event affecting accuracy of estimate occurs
+
+    * (1) This section allows the Registrar to amend an assessment of child support payable by or to a parent for some days in a child support period if:
+
+     * (a) those days occur in the application period for an income election that the parent has made; and
+
+     * (b) the Registrar has given the parent a notice under section 160 or subsection 162A(2) requiring or requesting the parent to notify the Registrar of the occurrence of an event that may affect the accuracy of an estimate on which the election is based.
+
+    * (2) If the parent gives notice of the event as required or requested under section 160 or subsection 162A(2), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the parent gives notice.
+
+    * (3) If the parent does not give notice of the event as required or requested under section 160 or subsection 162A(2), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the event occurred.
+
+    * (4) This section does not:
+
+     * (a) affect the operation of section 160 or 162A; or
+
+     * (b) prevent the Registrar from making a new assessment for part of the child support period.
+
+        * Note: This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
+
+##### 63B  Amendment of assessment based on income election if Registrar asks for information supporting estimate
+
+    * (1) This section allows the Registrar to amend an assessment of child support payable by or to a parent for some days in a child support period if:
+
+     * (a) those days occur in the application period for an income election that the parent has made; and
+
+     * (b) the Registrar has given the parent a notice under section 161 or subsection 162A(1) or (4) requiring or requesting the parent to:
+
+      * (i) give the Registrar information; or
+
+      * (ii) attend before a person and answer questions; or
+
+      * (iii) produce documents containing information;
+
+     * relevant to determining the accuracy of an estimate on which the election is based.
+
+    * (2) If the parent complies with section 161 or subsection 162A(1) or (4) (in relation to the notice), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after the day the parent complies.
+
+    * (3) If the parent does not comply with section 161 or subsection 162A(1) or (4) (in relation to the notice), the Registrar may amend the assessment to affect the annual rate of child support payable by or to the parent for those days in the child support period that occur on or after:
+
+     * (a) the day the income election was made; or
+
+     * (b) if:
+
+      * (i) before the Registrar gave the notice but after the income election was made, the Registrar had given the parent another notice (the **_earlier notice_**) of the kind described in paragraph (1)(b); and
+
+      * (ii) the parent complied with section 161 or subsection 162A(1) or (4) in relation to the earlier notice;
+
+     * the day on which the parent complied with section 161 or subsection 162A(1) or (4) in relation to the earlier notice.
+
+    * (4) This section does not:
+
+     * (a) affect the operation of section 161 or 162A; or
+
+     * (b) prevent the Registrar from making a new assessment for part of the child support period.
+
+        * Note: This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
+
+##### 63C  Amendment of assessment in minimum rate cases
+
+    * (1) This section allows the Registrar to amend an assessment of child support payable by a parent for all the children in a child support case for some days in a child support period if:
+
+     * (a) those days occur in the application period for an income election that the parent has made; and
+
+     * (b) the application period has ended; and
+
+     * (c) the annual rate of child support payable by the parent for all the children in the child support case for those days was the minimum annual rate for the period or lower.
+
+    * (2) The Registrar may amend the assessment to affect the annual rate of child support payable by the parent for those days.
+
+    * (3) This section does not prevent the Registrar from making a new assessment for part of the child support period.
+
+        * Note: This section does not limit the power under section 75 to amend assessments (see subsection 75(5)).
+
+#### Division 7A--Reconciliation of estimates of adjusted taxable income
+
+##### Subdivision A--Reconciliation using a parent's actual adjusted taxable income
+
+##### 64  Reconciliation using a parent's actual adjusted taxable income--single income election
+
+    * (1) This section applies for the purposes of assessing a parent in relation to the costs of a child of the parent for a day in a child support period if:
+
+     * (a) the day occurs in the application period for an income election relating to a year of income that was made by the parent; and
+
+     * (b) the parent did not make more than one income election relating to the year of income; and
+
+     * (c) the parent's actual adjusted taxable income for the year of income has been ascertained by the Registrar; and
+
+     * (d) if the Registrar has made a determination under subsection 64AB(1) in relation to the parent--the parent's actual adjusted taxable income for the year of income is more than the parent's determined ATI for that year; and
+
+     * (e) if, under section 63A, 63B or 63C, the Registrar has amended an assessment of child support payable by or to the parent--the Registrar determines that this section should apply in relation to the parent.
+
+    * Reconciliation--election for a whole year of income
+
+    * (2) Subject to this section, if:
+
+     * (a) subsection 60(2) applied to the income election; and
+
+     * (b) the parent's actual adjusted taxable income for the year of income is more than the amount that applied under that subsection;
+
+    * the parent's adjusted taxable income for that year is taken to be, and to have always been, the parent's actual adjusted taxable income for that year.
+
+    * Reconciliation--election for a part of a year of income
+
+    * (3) Subject to this section, if:
+
+     * (a) subsection 60(3) applied to the income election; and
+
+     * (b) the difference between:
+
+      * (i) the parent's actual adjusted taxable income for the year of income; and
+
+      * (ii) the parent's applicable year to date income amount for the year of income;
+
+     * is more than the partial year income amount worked out by the parent under subsection 60(4);
+
+    * the parent's adjusted taxable income for a day that occurs in the application period for the income election is taken to be, and to have always been, the amount worked out under subsection (4).
+
+    * (4) For the purposes of subsection (3), the amount is worked out by:
+
+     * (a) dividing the amount worked out under paragraph (3)(b) by the number of days in the remaining period to which the income election related; and
+
+     * (b) multiplying the quotient by 365.
+
+    * Income amount orders
+
+    * (5) This section does not apply if an income amount order applies in relation to the parent and any part of the application period for the income election.
+
+##### 64A  Reconciliation using a parent's actual adjusted taxable income--more than one income election
+
+    * (1) This section applies for the purposes of assessing a parent in relation to the costs of a child of the parent for a day in a child support period if:
+
+     * (a) the day occurs in the application period for an income election relating to a year of income that was made by the parent; and
+
+     * (b) the parent made more than one income election relating to the year of income; and
+
+     * (c) the parent's actual adjusted taxable income for the year of income has been ascertained by the Registrar; and
+
+     * (d) if the Registrar has made a determination under subsection 64AB(1) in relation to the parent--the parent's actual adjusted taxable income for the year of income is more than the parent's determined ATI for that year; and
+
+     * (e) if, under section 63A, 63B or 63C, the Registrar has amended an assessment of child support payable by or to the parent--the Registrar determines that this section should apply in relation to the parent.
+
+    * Reconciliation
+
+    * (2) Subject to this section, if the difference (the **_actual ATI amount_**) between:
+
+     * (a) the parent's actual adjusted taxable income for the year of income; and
+
+     * (b) the parent's applicable year to date income amount (if any) for the year of income;
+
+    * is more than the parent's estimated ATI amount for the year of income, then the parent's adjusted taxable income for a day that occurs in the application period of each income election made by the parent is taken to be, and to have always been, the amount worked out for that income election using the method in subsection (4).
+
+    * Estimated ATI amount
+
+    * (3) The parent's **_estimated ATI amount_** for the year of income is worked out using the following method:
+
+Method statement
+
+      * Step 1.	For each income election relating to the year of income that had an application period that ended before the last day of the year of income:
+
+        * (a) if subsection 60(2) applied to the income election--divide the amount that applied under that subsection by 365; or
+
+        * (b) otherwise--divide the partial year income amount worked out under subsection 60(4) or 62A(1) by the number of days in the remaining period to which the income election related.
+
+      * Step 2.	For each of those income elections, multiply the result of step 1 by the number of days in the application period for the income election.
+
+      * Step 3.	Add up each of the amounts worked out under step 2.
+
+      * Step 4.	Add the result of step 3 and the partial year income amount worked out under subsection 62A(1) for the last income election relating to the year of income that was made by the parent.
+
+    * Amount for the purposes of subsection (2)
+
+    * (4) For the purposes of subsection (2), the amount for each income election is worked out using the following method:
+
+Method statement
+
+      * Step 1.	Subtract the parent's estimated ATI amount from the parent's actual ATI amount.
+
+      * Step 2.	Divide the result by the total number of days in the application periods for each income election relating to the year of income that was made by the parent. The result is the **_additional daily rate_**.
+
+      * Step 3.	For each of those income elections, multiply the additional daily rate by the number of days in the application period for the income election. The result is the **_underestimated amount_** for the income election.
+
+      * Step 4.	For each of those income elections, add the underestimated amount for the income election and:
+
+        * (a) if the income election had an application period that ended before the last day of the year of income--the amount worked out for the income election under step 2 of the method statement in subsection (3); or
+
+        * (b) otherwise--the partial year income amount worked out under subsection 62A(1) for the income election.
+
+      * Step 5.	For each of those income elections:
+
+        * (a) divide the result of step 4 by the number of days in the application period for the income election; and
+
+        * (b) multiply the quotient by 365.
+
+    * Income amount orders
+
+    * (5) This section does not apply if an income amount order applies in relation to the parent and any part of an application period for any of the income elections.
+
+##### 64AA  Action by Registrar following reconciliation
+
+    * The Registrar is to take such action as is necessary to give effect to section 64 or 64A in relation to a parent (whether by amending any administrative assessment that has been made in relation to the parent or otherwise).
+
+##### Subdivision B--Reconciliation using a parent's determined ATI
+
+##### 64AB  Registrar to determine a parent's adjusted taxable income for the purposes of reconciliation
+
+    * (1) If:
+
+     * (a) a parent made an income election relating to a year of income; and
+
+     * (b) at the end of the period ending 12 months after the end of the year of income, the Registrar has not ascertained the parent's actual adjusted taxable income for that year;
+
+    * the Registrar may determine that an amount that the Registrar considers appropriate is the parent's adjusted taxable income for that year for the purposes of this Subdivision.
+
+    * (2) If the Registrar makes a determination under subsection (1) in relation to a parent:
+
+     * (a) the amount determined is the parent's **_determined ATI_** for the year of income; and
+
+     * (b) the Registrar must give notice of the determination to the parent.
+
+    * (3) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the parent may, subject to the Registration and Collection Act, object to the particulars of the assessment to which the determination relates; and
+
+     * (b) that if the parent is aggrieved by the decision on the objection, he or she may, subject to that Act, apply to the SSAT for review of the decision.
+
+    * (4) A contravention of subsection (3) in relation to a determination does not affect the validity of the determination.
+
+##### 64AC  Reconciliation using a parent's determined ATI--single income election
+
+    * (1) This section applies for the purposes of assessing a parent in relation to the costs of a child of the parent for a day in the child support period if:
+
+     * (a) the day occurs in the application period for an income election relating to a year of income that was made by the parent; and
+
+     * (b) the parent did not make more than one income election relating to the year of income; and
+
+     * (c) the Registrar makes a determination under subsection 64AB(1) in relation to the parent; and
+
+     * (d) if, under section 63A, 63B or 63C, the Registrar has amended an assessment of child support payable by or to the parent--the Registrar determines that this section should apply in relation to the parent.
+
+    * Reconciliation--election for a whole year of income
+
+    * (2) Subject to this section, if:
+
+     * (a) subsection 60(2) applied to the income election; and
+
+     * (b) the parent's determined ATI for the year of income is more than the amount that applied under that subsection;
+
+    * the parent's adjusted taxable income for that year is taken to be, and to have always been, the parent's determined ATI for that year.
+
+    * Reconciliation--election for a part of a year of income
+
+    * (3) Subject to this section, if:
+
+     * (a) subsection 60(3) applied to the income election; and
+
+     * (b) the difference between:
+
+      * (i) the parent's determined ATI for the year of income; and
+
+      * (ii) the parent's applicable year to date income amount for the year of income;
+
+     * is more than the partial year income amount worked out by the parent under subsection 60(4);
+
+    * the parent's adjusted taxable income for a day that occurs in the application period for the income election is taken to be, and to have always been, the amount worked out under subsection (4).
+
+    * (4) For the purposes of subsection (3), the amount is worked out by:
+
+     * (a) dividing the amount worked out under paragraph (3)(b) by the number of days in the remaining period to which the income election related; and
+
+     * (b) multiplying the quotient by 365.
+
+    * Income amount orders
+
+    * (5) This section does not apply if an income amount order applies in relation to the parent and any part of the application period for the income election.
+
+##### 64AD  Reconciliation using a parent's determined ATI--more than one income election
+
+    * (1) This section applies for the purposes of assessing a parent in relation to the costs of a child of the parent for a day in a child support period if:
+
+     * (a) the day occurs in the application period for an income election relating to a year of income that was made by the parent; and
+
+     * (b) the parent made more than one income election relating to the year of income; and
+
+     * (c) the Registrar makes a determination under subsection 64AB(1) in relation to the parent; and
+
+     * (d) if, under section 63A, 63B or 63C, the Registrar has amended an assessment of child support payable by or to the parent--the Registrar determines that this section should apply in relation to the parent.
+
+    * Reconciliation
+
+    * (2) Subject to this section, if the difference (the **_actual ATI amount_**) between:
+
+     * (a) the parent's determined ATI for the year of income; and
+
+     * (b) the parent's applicable year to date income amount (if any) for the year of income;
+
+    * is more than the parent's estimated ATI amount for the year of income, then the parent's adjusted taxable income for a day that occurs in the application period of each income election made by the parent is taken to be, and to have always been, the amount worked out for that income election using the method in subsection (4).
+
+    * Estimated ATI amount
+
+    * (3) The parent's **_estimated ATI amount_** for the year of income is worked out using the following method:
+
+Method statement
+
+      * Step 1.	For each income election relating to the year of income that had an application period that ended before the last day of the year of income:
+
+        * (a) if subsection 60(2) applied to the income election--divide the amount that applied under that subsection by 365; or
+
+        * (b) otherwise--divide the partial year income amount worked out under subsection 60(4) or 62A(1) by the number of days in the remaining period to which the income election related.
+
+      * Step 2.	For each of those income elections, multiply the result of step 1 by the number of days in the application period for the income election.
+
+      * Step 3.	Add up each of the amounts worked out under step 2.
+
+      * Step 4.	Add the result of step 3 and the partial year income amount worked out under subsection 62A(1) for the last income election relating to the year of income that was made by the parent.
+
+    * Amount for the purposes of subsection (2)
+
+    * (4) For the purposes of subsection (2), the amount for each income election is worked out using the following method:
+
+Method statement
+
+      * Step 1.	Subtract the parent's estimated ATI amount from the parent's determined ATI.
+
+      * Step 2.	Divide the result by the total number of days in the application periods for each income election relating to the year of income that was made by the parent. The result is the **_additional daily rate_**.
+
+      * Step 3.	For each of those income elections, multiply the additional daily rate by the number of days in the application period for the income election. The result is the **_underestimated amount_** for the income election.
+
+      * Step 4.	For each of those income elections, add the underestimated amount for the income election and:
+
+        * (a) if the income election had an application period that ended before the last day of the year of income--the amount worked out for the income election under step 2 of the method statement in subsection (3); or
+
+        * (b) otherwise--the partial year income amount worked out under subsection 62A(1) for the income election.
+
+      * Step 5.	For each of those income elections:
+
+        * (a) divide the result of step 4 by the number of days in the application period for the income election; and
+
+        * (b) multiply the quotient by 365.
+
+    * Income amount orders
+
+    * (5) This section does not apply if an income amount order applies in relation to the parent and any part of an application period for any of the income elections.
+
+##### 64AE  Action by Registrar following reconciliation
+
+    * The Registrar is to take such action as is necessary to give effect to sections 64AC and 64AD in relation to a parent (whether by amending any administrative assessment that has been made in relation to the parent or otherwise).
+
+##### Subdivision C--Penalty
+
+##### 64AF  Penalty if a parent underestimates an income amount
+
+    * (1) A parent is liable to pay the Registrar a penalty if:
+
+     * (a) the parent made an income election relating to a year of income; and
+
+     * (b) the parent's actual adjusted taxable income for the year of income has been ascertained by the Registrar; and
+
+     * (c) the parent has underestimated an income amount in making the income election.
+
+    * (2) If the parent did not make more than one income election relating to the year of income, the parent has **_underestimated an income amount_** in making the income election if:
+
+     * (a) in a case where subsection 60(2) applied to the income election--the parent's actual adjusted taxable income for the year of income is at least 110% of the amount that applied under that subsection; or
+
+     * (b) in a case where subsection 60(3) applied to the income election--the amount worked out by subtracting:
+
+      * (i) the parent's applicable year to date income amount for the year of income; from
+
+      * (ii) the parent's actual adjusted taxable income for the year of income;
+
+     * is at least 110% of the partial year income amount worked out by the parent under subsection 60(4).
+
+    * (3) If the parent made more than one income election relating to the year of income, the parent has **_underestimated an income amount_** in making the income elections if the amount worked out by subtracting:
+
+     * (a) the parent's applicable year to date income amount (if any) for the year of income; from
+
+     * (b) the parent's actual adjusted taxable income for the year of income;
+
+    * is at least 110% of the parent's estimated ATI amount for the year of income worked out under subsection 64A(3).
+
+##### 64AG  Amount of penalty
+
+    * (1) If a parent is liable under subsection 64AF(1) to pay a penalty, the amount of the penalty for each income election made by the parent relating to the year of income is 10% of the difference between:
+
+     * (a) the administrative assessment of child support made under section 64AA in relation to the parent; and
+
+     * (b) the administrative assessment of child support that would have been made if it were based entirely on the amount that applied under subsection 60(2) or (3), or that was worked out under subsection 62A(1).
+
+    * (2) The penalty is a debt due to the Commonwealth by the parent and is due and payable on the issue of the administrative assessment of child support made under section 64AA in relation to the parent.
+
+##### 64AH  Remission of penalty
+
+    * (1) The Registrar may remit the whole or a part of a penalty that a parent who made an income election is liable to pay under subsection 64AF(1) if:
+
+     * (a) the parent underestimated an income amount in making the income election because of an amendment of an Income Tax Assessment Act, or because of a ruling or determination under that Act; or
+
+     * (b) the parent underestimated an income amount in making the income election for some other reason, and the Registrar is satisfied that it would be fair and reasonable in the circumstances to remit the whole or that part of the penalty.
+
+    * (2) If the Registrar makes a decision to remit only part of the penalty, or not to remit any part of the penalty, the Registrar must give written notice of the decision to the parent by whom the penalty is, or but for the remission would be, payable.
+
+    * (3) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the parent may, subject to the Registration and Collection Act, object to the decision (the **_original decision_**); and
+
+     * (b) that if the parent is aggrieved by a later decision on an objection to the original decision, he or she may, subject to that Act, apply to the SSAT for review of the later decision.
+
+    * (4) A contravention of subsection (3) in relation to a decision does not affect the validity of the decision.
+
+#### Division 8--Provisions relating to the making of assessments
+
+##### Subdivision A--Preliminary
+
+##### 64B  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	In making an administrative assessment, the Registrar may act on the basis of the documents and information in his or her possession.
+
+     *  	In some cases, the Registrar may assess, under this Division, the annual rate of child support for a child that is payable by a parent who is not receiving an income support payment.
+
+     *  	The Registrar may also assess, under this Division, the annual rate of child support payable by a parent for all the children in a child support case as the minimum annual rate of child support.
+
+     *  	Subdivision C contains rules relating to making administrative assessments (such as when the Registrar can amend an administrative assessment and when the Registrar needs to give a notice of assessment).
+
+##### Subdivision B--Annual rates of child support for low income parents and minimum annual rates of child support
+
+##### 65A  Annual rate of child support for low income parents not on income support
+
+    * Assessment of annual rate
+
+    * (1) The Registrar must assess an annual rate of child support payable by a parent for a child for a day in a child support period as the rate specified in subsection (2) if:
+
+     * (a) the parent did not receive an income support payment during the last relevant year of income; and
+
+     * (b) the following amount is less than the pension PP (single) maximum basic amount:
+
+      * (i) if subparagraph (ii) does not apply--the parent's adjusted taxable income determined in accordance with section 43 for the last relevant year of income for the child support period;
+
+      * (ii) if the day occurs in the application period for an income election made by the parent--the amount that applied under subsection 60(2) or (3), or that was worked out under subsection 62A(1); and
+
+     * (c) the parent does not have at least shared care of the child during the relevant care period.
+
+    * How much is the annual rate
+
+    * (2) The annual rate of child support payable is $1060.
+
+        * Note: The annual rate of child support specified in subsection (2) is indexed under section 153A.
+
+    * (3) The Registrar must not assess the total annual rate of child support payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for a day in a child support period as more than 3 times the rate specified in subsection (2).
+
+    * (4) If an annual rate of child support is payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for more than 3 children for a day in a child support period, then the annual rate of child support payable by the parent for each child for a day in the child support period is:
+
+    * (4A) For the purposes of subsection (4), if a parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction, then that child support is taken to be payable by the parent for those children under subsection (1).
+
+    * Paying the annual rate to more than one person
+
+    * (5) If, (disregarding section 40B) the rate under subsection (2) or (4) would be payable for a child to:
+
+     * (a) a parent and a nonparent carer of the child; or
+
+     * (b) 2 nonparent carers of the child;
+
+    * then, subject to section 40B, the annual rate of child support for the child worked out under this section is payable in accordance with section 40A.
+
+        * Note: Under section 40B, a nonparent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
+
+##### 65B  Application for section 65A not to apply
+
+    * (1) If the Registrar makes an assessment of an annual rate of child support payable by a parent for a day in a child support period under section 65A:
+
+     * (a) the parent may apply to the Registrar for the section not to apply; or
+
+     * (b) the parent is taken to have applied to the Registrar for the section not to apply if, immediately before the end of the previous child support period, the section did not apply because of a determination under this section.
+
+    * (2) The parent making the application must provide evidence to the Registrar concerning the parent's income (within the meaning of subsection 66A(4)) to demonstrate that his or her current income is:
+
+     * (a) less than the pension PP (single) maximum basic amount; and
+
+     * (b) that it would be unjust and inequitable to expect him or her to pay the amount assessed under this section.
+
+    * (3) An assessment issued by the Commissioner of Taxation for the last relevant year of income shall not be sufficient evidence of the income of the parent for the purposes of this section. 
+
+    * (4) If the parent makes an application, the Registrar may determine in writing that the section not apply to the parent if the parent's current income (within the meaning of subsection 66A(4)) is less than the pension PP (single) maximum basic amount and it would be unjust and inequitable to expect him or her to pay the amount assessed under this section.
+
+        * Note: If the Registrar refuses to grant an application under this section, the Registrar must serve a notice on the applicant under section 66C.
+
+    * (5) The Registrar must specify the day in the child support period on which the section ceases to apply to the parent. The day may be any day from the first day of the child support period on which an annual rate of child support under section 65A became payable by the parent.
+
+##### 66  Minimum annual rate of child support
+
+    * Assessment of annual rate
+
+    * (1) The Registrar must assess the total of the annual rates of child support payable by a parent for all the children in a child support case for a day in a child support period as the minimum annual rate of child support for the child support period if:
+
+     * (a) the parent does not have at least regular care of at least one of the children in the child support case for the day; and
+
+     * (b) the total payable by the parent for all the children in the child support case would (apart from this section) be assessed as less than the minimum annual rate of child support for the child support period.
+
+        * Note: The Registrar must not make an assessment under this subsection in certain cases (see subsections (2) and (8)).
+
+    * (2) To avoid doubt, the Registrar must not make an assessment in respect of a parent whose annual rate of child support could be assessed under section 65A (low income parents not on income support) unless the Registrar has determined under section 65B that section 65A does not apply.
+
+    * When assessment applies
+
+    * (4) An assessment in respect of a parent covered by paragraph (1)(b) applies to each day in the period:
+
+     * (a) beginning on the first day in the child support period on which the total payable by the parent in respect of the child support case would (apart from this section) be assessed as less than the minimum annual rate of child support for the child support period; and
+
+     * (b) ending:
+
+      * (i) if the parent would be so assessed until the end of the child support period--at the end of the child support period; or
+
+      * (ii) otherwise--28 days after the day on which the person would cease to be so assessed (even if that day is after the end of the child support period).
+
+    * How much is the minimum annual rate
+
+    * (5) The **_minimum annual rate of child support_** is $320.
+
+        * Note: The minimum annual rate of child support specified in subsection (5) is indexed under section 153A.
+
+    * (6) If:
+
+     * (a) the Registrar makes an assessment in respect of a parent under subsection (1); and
+
+     * (b) the parent is assessed (whether under subsection (1) or otherwise) for a day in a child support period in respect of the costs of children in more than 3 child support cases;
+
+    * then the **_annual rate of child support _**payable by the parent for a day in the child support period for a particular child support case is:
+
+    * (6A) For the purposes of subsection (6), if a parent is liable to pay child support for one or more children for a day under an administrative assessment under the law of a reciprocating jurisdiction, then the parent is taken to be assessed for the day in respect of the costs of children in a child support case.
+
+    * Paying the minimum annual rate to more than one person for a single child support case
+
+    * (7) If the rate worked out under subsection (5) or (6) is payable by a parent for a child support case to:
+
+     * (a) the parent of the children to whom the case relates and to one or more nonparent carers of those children; or
+
+     * (b) 2 or more nonparent carers of those children;
+
+    * then: 
+
+     * (c) if 2 or more persons have equal percentages of care of the children, and those percentages are the highest percentages--each of those persons is entitled to be paid an equal proportion of the annual rate of child support that is payable by the parent; and
+
+     * (d) otherwise--only the person who has the highest percentage of care of the children is entitled to be paid the annual rate of child support that is payable by the parent.
+
+    * Registrar not to make minimum rate assessment in certain cases
+
+    * (8) The Registrar must not make an assessment under subsection (1) in relation to the child support payable by a parent:
+
+     * (a) in accordance with a determination made under Part 6A (departure determinations); or
+
+     * (b) in accordance with an order made under Division 4 of Part 7 (departure orders); or
+
+     * (c) in accordance with provisions of a child support agreement that have effect, for the purposes of this Part, as if they were such an order made by consent.
+
+    * Definition of **income support payment**
+
+    * **	(9)	In this Act:
+
+    * **_income support payment_**:
+
+     * (a) has the meaning given by subsection 23(1) of the _Social Security Act 1991_; and
+
+     * (b) includes a payment under the ABSTUDY scheme that includes an amount identified as living allowance, being an allowance that is paid at the maximum basic rate.
+
+##### 66A  Registrar may reduce an assessment to nil in certain cases
+
+    * (1) If the Registrar has made an assessment under section 66 in respect of the annual rate of child support payable by a parent for all the children in a child support case for a day in a child support period, the Registrar may, on an application made by the parent that:
+
+     * (a) is in accordance with the regulations; and
+
+     * (b) either:
+
+      * (i) nominates the whole (the **_nominated period_**) of that child support period (if the first day of that child support period is the day referred to in paragraph 66(4)(a)); or
+
+      * (ii) nominates a part (the **_nominated period_**) of that child support period, being a part that is at least 2 months and that begins on or after the day referred to in paragraph 66(4)(a);
+
+    * reduce the annual rate of child support payable by the parent for those children for the nominated period to nil. This subsection is subject to subsection (3C).
+
+        * Note: If the Registrar refuses to grant an application under this section, the Registrar must serve a notice on the applicant under section 66C.
+
+    * (2) The Registrar must not grant an application under subsection (1) unless the Registrar is satisfied that the amount worked out under subsection (3) is less than the amount worked out under subsection (3A).
+
+    * (2A) For the purposes of subsection (2), a parent is taken to have a child support case if the parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction.
+
+    * (3) The amount for the purposes of this subsection is:
+
+    * (3A) The amount for the purposes of this subsection is:
+
+    * (3B) For the purposes of subsection (3A), a parent is taken to have a child support case if the parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction.
+
+    * (3C) A reduction under subsection (1) has no effect in relation to a day to which the assessment under section 66 does not apply.
+
+        * Note: Subsection 66(4) deals with when an assessment under section 66 applies.
+
+    * (4) In this section:
+
+    * **_income_**, in relation to a person, means:
+
+     * (a) any money earned, derived or received by the parent for his or her own use or benefit, other than money earned, derived or received in a manner, or from a source, prescribed by the regulations for the purposes of this paragraph; or
+
+     * (b) a periodical payment by way of a gift or allowance, other than a payment of a kind prescribed by the regulations for the purposes of this paragraph.
+
+##### 66B  Amendment of assessment made under section 65B or 66A
+
+    * The Registrar may amend an assessment at any time if: 
+
+     * (a) either:
+
+      * (i) under section 65B, the Registrar has determined that section 65A does not apply to a parent; or
+
+      * (ii) under section 66A, the Registrar has reduced an annual rate of child support payable by a parent to nil; and
+
+     * (b) the Registrar becomes satisfied that the parent does not satisfy the condition in subsection 65B(4) or 66A(2) (as the case requires).
+
+##### 66C  Notice to be given to unsuccessful applicant
+
+    * (1) If the Registrar refuses to grant an application under section 65B or 66A, or amends an assessment in accordance with section 66B, the Registrar must serve written notice of the decision on the parent.
+
+    * (2) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the parent may, subject to the Registration and Collection Act, object to the particulars of:
+
+      * (i) the assessment in relation to which the unsuccessful application was made; or
+
+      * (ii) the assessment that was amended;
+
+     * (as the case requires); and
+
+     * (b) that if the parent is aggrieved by the decision on the objection, he or she may, subject to that Act, apply to the SSAT for review of the decision.
+
+    * (3) A contravention of subsection (2) in relation to a decision does not affect the validity of the decision.
+
+##### Subdivision C--Making administrative assessments
+
+##### 66D  How assessment is to be made
+
+    * In making an administrative assessment, the Registrar may act on the basis of the documents and information in his or her possession, and is not required to conduct any inquiries or investigations into the matter or to require (whether under this Act or otherwise) the giving of any information or the production of any document.
+
+##### 67  Assessment to relate to all children for whom child support is payable by parent
+
+    * (1) If child support is payable by a parent to a person for 2 or more children for a day in a child support period, any administrative assessment of the child support payable by the parent in relation to the day is to relate to all of the children and not to any of the children separately.
+
+    * (2) Subsection (1) applies whether or not the child support is payable because of:
+
+     * (a) the acceptance by the Registrar of 2 or more separate applications for administrative assessment made otherwise than in the same form; or
+
+     * (b) the acceptance by the Registrar of 2 or more child support agreements made otherwise than in the same document; or
+
+     * (c) the acceptance by the Registrar of an application for administrative assessment and of an application for acceptance of a child support agreement.
+
+    * (3) Subsection (1) does not require a single administrative assessment to be made of the child support payable by a parent to 2 or more other persons.
+
+##### 67A  Offsetting of child support liabilities
+
+    * The annual rate of child support that would, apart from this section, be payable for a child or children in a child support case, for a day in a child support period, by one parent to the other parent is to be reduced (but not below nil) by the annual rate of child support that would, apart from this section, be payable to that parent in relation to that day by the other parent for the child or the children in the child support case.
+
+##### 68  Assessment to relate to whole or part of single child support period
+
+    * (1) An administrative assessment of child support is to relate to all the days, or some of the days, of a single child support period.
+
+    * (2) Subsection (1) does not prevent a single notice of assessment under section 76 dealing with more than one administrative assessment.
+
+##### 69  Conversion of annual rates into daily rates of payment
+
+    * If the Registrar assesses the annual rate of child support payable by a parent for a child or children in a child support case, for a day in a child support period, the Registrar must, in accordance with the regulations, convert that annual rate into a daily rate and specify both the annual and daily rates in the notice of assessment given under section 76 in relation to the assessment.
+
+##### 70  Evidence relating to assessments
+
+    * (1) The production of a notice of administrative assessment, or of a document signed by the Registrar that appears to be a copy of a notice of administrative assessment, is prima facie evidence of:
+
+     * (a) the proper making of the assessment; and
+
+     * (b) except in proceedings under Part VIIA, or under Subdivision B of Division 3 of Part VIII, of the Registration and Collection Act on an appeal relating to the assessment, that all the particulars of the notice of assessment are correct.
+
+    * (2) The production of a document signed by the Registrar that appears to be a copy of, or an extract from, any return or notice of administrative assessment is evidence of the matters in the document to the same extent as the original would be if it were produced.
+
+##### 71  Assessment for part of a child support period
+
+    * In making an administrative assessment of the annual rate of child support payable for days in a period (the **_part period_**) that is not a whole child support period, the Registrar may apply this Act as if the beginning and end of the part period were the beginning and end respectively of a child support period.
+
+##### 72  Validity of assessments
+
+    * Except in an appeal under Part VIIA, or under Subdivision B of Division 3 of Part VIII, of the Registration and Collection Act, the validity of an assessment is not affected because any of the provisions of this Act have not been complied with.
+
+##### 73  Assumptions as to future events
+
+    * In assessing the annual rate at which child support is payable for a day in the future, the Registrar may act on the assumption that the state of affairs known to the Registrar at the time the assessment is made will remain unchanged on that day.
+
+##### 73A  Registrar becoming aware of relevant dependent child
+
+    * (1) If:
+
+     * (a) an administrative assessment of child support is in force in relation to a parent; and
+
+     * (b) the Registrar is later notified, or otherwise becomes aware, of the fact that the parent has a relevant dependent child who was not taken into account for the purposes of making the assessment;
+
+    * then, for the purposes of working out the parent's relevant dependent child amount under section 46, the parent is taken to have the relevant dependent child:
+
+     * (c) if the Registrar was notified, or otherwise became aware, of the fact that the child is a relevant dependent child of the parent within 28 days after the day on which the child became such a child--on and from the day the child became such a child; or
+
+     * (d) if paragraph (c) does not apply and the Registrar was notified, or otherwise became aware, of the fact within 28 days after giving a notice under section 34 (giving notice of successful application)--on and from the day on which the application was made; or
+
+     * (e) if neither paragraph (c) nor (d) applies--on and from the day the Registrar was notified, or otherwise became aware, of the fact that the child is a relevant dependent child of the parent.
+
+    * (2) If the parent is a resident of a reciprocating jurisdiction, subsection (1) has effect as if the references in paragraphs (1)(c) and (d) to 28 days were references to 90 days.
+
+##### 74  Registrar to give effect to happening of child support terminating events etc.
+
+    * (1) If:
+
+     * (a) child support is payable for a child; and
+
+     * (b) the Registrar is notified of, or otherwise becomes aware of:
+
+      * (i) the happening of a child support terminating event in relation to the child, a liable parent, or a carer entitled to child support, or all 3; or
+
+      * (ii) the happening of an event or change of circumstances that affects the annual rate at which the child support is payable under this Act;
+
+    * the Registrar must immediately take such action as is necessary to take account of the happening of the event or change of circumstances (whether by amending any administrative assessment or otherwise).
+
+    * (2) Nothing in subsection (1) is to be taken to prevent the Registrar from taking such action as the Registrar considers appropriate to take account of the likely happening of an event or change of circumstances of which the Registrar is notified or otherwise becomes aware (whether by amending any administrative assessment or otherwise).
+
+##### 74A  Date of effect of change in care
+
+    * If: 
+
+     * (a) child support is payable for a child; and
+
+     * (b) a determination of a responsible person's percentage of care for the child is revoked; and
+
+     * (ba) another such determination (the **_later determination_**) is made in relation to the responsible person; and
+
+     * (c) as a result, the Registrar amends an administrative assessment under section 75 to alter the annual rate at which the child support is payable for the child;
+
+    * the altered annual rate is to apply on and from the first day in a child support period to which the responsible person's percentage of care under the later determination applies.
+
+        * Note: If the Registrar becomes aware of a relevant dependent child who was not taken into account for the purposes of making an assessment, the Registrar must take action in accordance with section 73A.
+
+##### 75  Amendment of assessments
+
+    * (1) The Registrar may, at any time, amend any administrative assessment by making such alterations and additions as the Registrar considers necessary to give effect to this Act or the Registration and Collection Act.
+
+    * (2) However, if the amendment relates to a responsible person's percentage of care for a child, the Registrar must not amend an administrative assessment unless:
+
+     * (a) the amendment relating to the responsible person's percentage of care for the child would cause the person's cost percentage for the child to change; or
+
+     * (d) the child is a relevant dependent child and the Registrar has become aware that the child was not taken into account for the purpose of making the assessment.
+
+    * (3) Subsection (1) has effect despite the fact that:
+
+     * (a) child support has been paid under the administrative assessment; or
+
+     * (b) the child support period, or the part of the child support period, to which the administrative assessment relates has ended; or
+
+     * (c) proceedings are pending in a court having jurisdiction under this Act or the Registration and Collection Act, or in the SSAT, against or in relation to the administrative assessment.
+
+    * (4) Without limiting subsection (1), the Registrar may amend any administrative assessment for the purpose of:
+
+     * (a) correcting any error or mistake (whether or not made by the Registrar); or
+
+     * (b) correcting the effect of any false or misleading statement made to the Registrar; or
+
+     * (c) giving effect to the happening of a child support terminating event in relation to a child, the liable parent, the carer entitled to child support, or all 3; or
+
+     * (d) giving effect to the happening of an event or change of circumstances that, under this Act or the Registration and Collection Act, affects the annual rate at which child support is or was payable; or
+
+     * (e) giving effect to the acceptance of a child support agreement by the Registrar; or
+
+     * (f) giving effect to a decision or order of a court having jurisdiction under this Act or the Registration and Collection Act, or of the SSAT.
+
+    * (5) Where a provision of this Act or the Registration and Collection Act expressly authorises the Registrar to amend an administrative assessment, that provision does not by implication limit the power of the Registrar (whether under this section or otherwise) to amend the assessment.
+
+    * (6) Except as otherwise expressly provided in this Act or the Registration and Collection Act, every amended administrative assessment is to be taken to be an administrative assessment for all the purposes of this Act and the Registration and Collection Act.
+
+##### 76  Notice of assessment to be given
+
+    * (1) When the Registrar makes an administrative assessment, the Registrar must immediately give written notice of the assessment to the liable parent and the carer entitled to child support.
+
+    * (2) The notice must (in addition to specifying the matters that section 69 (daily rate conversion) requires to be specified in the notice) specify at least the following matters:
+
+     * (a) the adjusted taxable income, and child support income, of any parent (the **_assessed parent_**) who was assessed in respect of the costs of the children in the child support case to which the assessment relates;
+
+     * (b) the names and dates of birth of those children;
+
+     * (c) the number and age ranges of the relevant dependent children (if any) of an assessed parent;
+
+     * (d) the number and age ranges of the other children in other child support cases (if any) of an assessed parent;
+
+     * (e) an assessed parent's, and nonparent carer's, percentage of care for each child in the child support case to which the assessment relates;
+
+     * (g) the costs of each child in the child support case to which the assessment relates;
+
+     * (ga) if a child support agreement includes lump sum payment provisions, or if a court has made an order under section 123A, in respect of the children in the child support case to which the assessment relates:
+
+      * (i) the amount of the lump sum payment specified in the agreement or order; and
+
+      * (ii) the amount of any remaining lump sum payment (within the meaning of the Registration and Collection Act); and
+
+      * (iii) any annual rate and daily rate of child support that remains payable under section 78 of this Act after taking into account any remaining lump sum payment that will be credited under section 69A of the Registration and Collection Act;
+
+     * (h) such other matters as are prescribed.
+
+    * (2AA) For the purposes of paragraph (2)(d), a parent is taken to have a child support case if the parent is liable to pay child support for one or more children under an administrative assessment under the law of a reciprocating jurisdiction.
+
+    * (2A) Despite subsection (2), if an administrative assessment is affected either:
+
+     * (a) by an order made by a court under Division 4 of Part 7; or
+
+     * (b) by the provisions of a child support agreement;
+
+    * the Registrar is not required to specify any matter referred to in that subsection that is not relevant to the making of the assessment.
+
+    * (3) The notice must also include, or be accompanied by, statements of the following kinds:
+
+     * (a) a statement that specifically draws the attention of the liable parent and the carer entitled to child support to the right:
+
+      * (i) to object, subject to the Registration and Collection Act, to particulars of the assessment; and
+
+      * (ii) if aggrieved by the decision on an objection to particulars of the assessment (no matter who lodges the objection but subject to that Act), to apply to the SSAT for review of the decision;
+
+     * (b) a statement that specifically draws the attention of the liable parent and the carer entitled to child support to the right, if aggrieved by a decision of the SSAT in relation to the percentage of care of the liable parent or the carer entitled to child support, to apply to the AAT for review of the decision;
+
+     * (c) a statement that specifically draws the attention of the liable parent and the carer entitled to child support to the right to apply to the Registrar for a determination under Part 6A having the effect that the provisions of this Act relating to administrative assessment of child support will be departed from in relation to a child in the special circumstances of the case;
+
+     * (ca) a statement that specifically draws the attention of the liable parent and the carer entitled to child support to the right to apply to a court having jurisdiction under this Act for an order under section 123A that the liable parent provide child support for the child in the form of a lump sum payment to be credited against the amount payable under the liability of the liable parent under any relevant administrative assessment;
+
+     * (d) a statement that specifically draws the attention of the liable parent and the carer entitled to child support to the right, subject to the _Family Law Act 1975_, to apply to a court having jurisdiction under this Act for an order under section 124 that a parent provide child support for the child otherwise than in the form of periodic amounts.
+
+#### Division 9--Liability to pay child support as assessed
+
+##### 76A  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	The amount of child support payable for a child or children for a day in a child support period is the daily rate specified in the notice of assessment.
+
+##### 77  Effect of assessment
+
+    * (1) This section applies if the Registrar:
+
+     * (a) assesses the annual rate of child support payable for a child or children in a child support case, for a day in a child support period, by a liable parent to a carer entitled to child support; and
+
+     * (b) converts the annual rate into a daily rate and specifies both rates in a notice of assessment given under section 76 in relation to the assessment.
+
+    * (2) Child support is payable for the child or children by the liable parent to the carer entitled to child support for each day in the child support period.
+
+    * (3) The amount of child support payable for the child or children for the day by the liable parent to the carer entitled to child support is the amount of the daily rate specified in the notice of assessment.
+
+##### 78  When amounts of child support due and payable
+
+    * (1) An amount of child support payable by a liable parent in relation to a day in any calendar month is due and payable on the later of the following days:
+
+     * (a) the seventh day of the following calendar month;
+
+     * (b) the 30th day after the liable parent was given a notice of assessment under section 76 specifying the annual and daily rates of child support in relation to that day.
+
+        * Note: Section 66 of the Registration and Collection Act deals with when child support debts become due and payable.
+
+    * (2) An amount payable under subsection (1), in relation to a day in a calendar month in a year of income, is taken to be paid at the time that the amount becomes due and payable, to the extent that a remaining lump sum payment will be credited, under section 69A of the Registration and Collection Act, at the end of the year of income against that amount.
+
+##### 79  Recovery of amounts of child support
+
+    * An amount of child support due and payable by a liable parent to a carer entitled to child support is a debt due and payable by the liable parent to the carer, and may be sued for and recovered in:
+
+     * (a) a court having jurisdiction for the recovery of debts up to the amount of the child support; or
+
+     * (b) a court having jurisdiction under this Act.
+
+        * Note: Amounts covered by section 30 of the Registration and Collection Act are debts due to the Commonwealth.
+
+### Part 6--Consent arrangements
+
+#### Division 1--Preliminary
+
+##### 80A  Simplified outline
+
+    * The following is a simplified outline of this Part: 
+
+     *  	Parents (and nonparent carers) of a child can, using a child support agreement, agree between themselves the child support that is to be payable for the child.
+
+     *  	There are 2 sorts of agreements. The first is a binding child support agreement. Each party to the agreement must have received legal advice before entering the agreement, and must also receive legal advice before terminating the agreement.
+
+     *  	The second sort of agreement is a limited child support agreement. An administrative assessment must be in place before a limited child support agreement can be accepted by the Registrar. The annual rate of child support payable under the agreement must be at least the annual rate of child support otherwise payable under this Act.
+
+     *  	Agreements may include provisions that state that child support is to be payable otherwise than in the form of periodic amounts. There are 2 main kinds of such provisions:
+
+        * (a) nonperiodic payment provisions, under which lump sum payments and other nonperiodic payments (such as school fees) may be made; and
+
+        * (b) lump sum payment provisions, under which lump sum payments may be made.
+
+     *  	Payments made under nonperiodic payment provisions reduce the annual rate of child support payable.
+
+     *  	Payments made under lump sum payment provisions are credited against the amount payable under the liability of a party to the agreement (rather than reducing the annual rate of child support payable).
+
+##### 80B  Cases in relation to which Part applies
+
+    * This Part applies where the parents of an eligible child, or a parent or the parents of an eligible child and a nonparent carer of the child, want to give effect to an agreement between themselves in relation to child support payable for the child.
+
+#### Division 1A--Binding and limited child support agreements
+
+##### Subdivision A--Binding child support agreements
+
+##### 80C  Making binding child support agreements
+
+    * (1) An agreement is a **_binding child support agreement _**if:
+
+     * (a) the agreement is binding on the parties to the agreement in accordance with subsection (2); and
+
+     * (b) the agreement complies with subsection 81(2).
+
+    * (2) For the purposes of subsection (1), an agreement is binding on the parties to the agreement if, and only if:
+
+     * (a) the agreement is in writing; and
+
+     * (b) the agreement is signed by the parties to the agreement; and
+
+     * (c) the agreement contains, in relation to each party to the agreement, a statement to the effect that the party to whom the statement relates has been provided, before the agreement was signed by him or her, as certified in an annexure to the agreement, with independent legal advice from a legal practitioner as to the following matters:
+
+      * (i) the effect of the agreement on the rights of that party;
+
+      * (ii) the advantages and disadvantages, at the time that the advice was provided, to the party of making the agreement; and
+
+     * (d) the annexure to the agreement contains a certificate signed by the person providing the independent legal advice stating that the advice was provided; and
+
+     * (e) the agreement has not been terminated under section 80D; and
+
+     * (f) after the agreement is signed, either the original agreement or a copy of the agreement is given to each party.
+
+        * Note: For the manner in which the contents of a binding child support agreement may be proved, see section 48 of the _Evidence Act 1995_.
+
+##### 80CA  No variation of binding child support agreements
+
+    * (1) A binding child support agreement must not be varied.
+
+        * Note: A binding child support agreement can be terminated and replaced with a new binding child support agreement.
+
+    * (2) However, subsection (1) does not prevent a binding child support agreement between parties from incorporating by reference the provisions of a previous child support agreement between the parties.
+
+##### 80D  Terminating binding child support agreements
+
+    * (1) A binding child support agreement (the **_previous agreement_**) may be terminated only by:
+
+     * (a) a provision being included in a new binding child support agreement made by the parties to the previous agreement to the effect that the previous agreement is terminated; or
+
+     * (b) the parties to the previous agreement making a written agreement (a **_termination agreement_**):
+
+      * (i) that is binding on the parties in accordance with subsection (2); and
+
+      * (ii) to the effect that the agreement is terminated; or
+
+     * (c) a court order setting aside the previous agreement under section 136.
+
+    * (2) For the purposes of subparagraph (1)(b)(i), an agreement is binding on the parties if, and only if:
+
+     * (a) the agreement is in writing; and
+
+     * (b) the agreement is signed by the parties to the agreement; and
+
+     * (c) the agreement contains, in relation to each party to the agreement, a statement to the effect that the party to whom the statement relates has been provided, before the agreement was signed by him or her, as certified in an annexure to the agreement, with independent legal advice from a legal practitioner as to the following matters:
+
+      * (i) the effect of the agreement on the rights of that party;
+
+      * (ii) the advantages and disadvantages, at the time that the advice was provided, to the party of making the agreement; and
+
+     * (d) the annexure to the agreement contains a certificate signed by the person providing the independent legal advice stating that the advice was provided; and
+
+     * (e) the agreement has not been set aside by a court under section 136; and
+
+     * (f) after the agreement is signed, either the original agreement or a copy of the agreement is given to each party.
+
+        * Note: For the manner in which the contents of a termination agreement may be proved, see section 48 of the _Evidence Act 1995_.
+
+    * (3) A binding child support agreement is terminated:
+
+     * (a) if paragraph (1)(a) applies--on the day set out in the following paragraph:
+
+      * (i) if the new binding child support agreement specifies a day on which it takes effect--that day;
+
+      * (ii) otherwise--the day on which the new binding child support agreement is signed; and
+
+     * (b) if paragraph (1)(b) applies--on the day set out in the following paragraph:
+
+      * (i) if the termination agreement specifies a day on which it takes effect--that day;
+
+      * (ii) otherwise--the day on which the termination agreement is signed; and
+
+     * (c) if paragraph (1)(c) applies--on the day on which the court order takes effect.
+
+##### Subdivision B--Limited child support agreements
+
+##### 80E  Making limited child support agreements
+
+    * (1) An agreement is a **_limited child support agreement _**if:
+
+     * (a) it is in writing; and
+
+     * (b) it is signed by the parties to the agreement; and
+
+     * (c) it complies with subsection 81(2); and
+
+     * (d) either:
+
+      * (i) it meets the conditions in subsection (2), (3) or (4), as the case requires, (assuming the agreement is accepted by the Registrar); or
+
+      * (ii) it has been accepted by the Registrar under section 98U.
+
+        * Note: In addition to the requirements in this section, there must be an administrative assessment in force in relation to the child in respect of whom the agreement is made (see subsection 92(3)).
+
+    * Child support payable on day application for acceptance of agreement is made to Registrar
+
+    * (2) An agreement meets the condition in this subsection if:
+
+     * (a) child support is to be payable under the agreement, by one party to the agreement to the other party or parties, on the day on which the application is made to the Registrar for acceptance of the agreement; and
+
+     * (b) the annual rate of child support that is so payable under the agreement on that day is at least the annual rate of child support that would otherwise be payable under this Act on that day.
+
+        * Note: If the child support payable under the agreement is not a periodic amount, the regulations can prescribe the method by which that amount is to be converted into an annual rate (see subsection (5)).
+
+    * Child support payable on day agreement commences
+
+    * (3) An agreement meets the condition in this subsection if:
+
+     * (a) child support is not to be payable under the agreement, by one party to the agreement to the other party or parties, on the day on which the application is made to the Registrar for acceptance of the agreement; but
+
+     * (b) the annual rate of child support that is payable under the agreement, by one party to the agreement to the other party or parties, on the day on which the agreement commences is at least the annual rate of child support that would otherwise be payable under this Act on that day.
+
+    * Child support payable for past period
+
+    * (4) An agreement meets the condition in this subsection if:
+
+     * (a) child support is payable under the agreement, by one party to the agreement to the other party or parties, for a period before the day on which the application is made to the Registrar for acceptance of the agreement; and
+
+     * (b) the amount of child support that is so payable under the agreement for that period is at least the amount of child support that would otherwise be payable under this Act for that period.
+
+    * Regulations
+
+    * (5) The regulations may, for the purposes of subsections (2), (3) and (4), provide a method of converting an amount of child support that is payable under an agreement otherwise than in the form of periodic amounts into an annual rate of child support.
+
+##### 80F  No variation of limited child support agreements
+
+    * (1) A limited child support agreement must not be varied.
+
+        * Note: A limited child support agreement can be terminated and replaced with a new limited child support agreement.
+
+    * (2) However, subsection (1) does not prevent a limited child support agreement between parties from incorporating by reference the provisions of a previous child support agreement between the parties.
+
+##### 80G  Terminating limited child support agreements
+
+    * (1) A limited child support agreement (the **_previous agreement_**) may be terminated only by:
+
+     * (a) a provision being included in:
+
+      * (i) a new limited child support agreement made by the parties to the previous agreement; or
+
+      * (ii) a binding child support agreement made by the parties to the previous agreement;
+
+     * to the effect that the previous agreement is terminated; or
+
+     * (b) the parties to the previous agreement making a written agreement that is signed by those parties to the effect that the previous agreement is terminated; or
+
+     * (c) a court order setting aside the previous agreement under section 136; or
+
+     * (d) if the notional assessment of the amount of child support that would have been payable by one party to the previous agreement to another party is varied by more than 15% from the previous notional assessment in circumstances not contemplated by the previous agreement--a party to the previous agreement giving the Registrar written notice of the termination of the agreement within 60 days of that party receiving notice of the variation; or
+
+     * (e) if the previous agreement was made 3 or more years earlier--a party to the previous agreement giving the Registrar written notice of the termination of the previous agreement.
+
+    * (1A) If the parent is a resident of a reciprocating jurisdiction, subsection (1) has effect as if the reference in paragraph (1)(d) to 60 days were a reference to 90 days.
+
+    * (2) A limited child support agreement is terminated:
+
+     * (a) if paragraph (1)(a) applies--on the day set out in the following paragraph:
+
+      * (i) if the new limited child support agreement, or binding child support agreement, specifies a day on which it takes effect--that day;
+
+      * (ii) otherwise--the day on which the new limited child support agreement or binding child support agreement is signed; and
+
+     * (b) if paragraph (1)(b) applies--on the day set out in the following paragraph:
+
+      * (i) if the written agreement specifies a day on which it takes effect--that day;
+
+      * (ii) otherwise--the day on which the written agreement is signed; and
+
+     * (c) if paragraph (1)(c) applies--on the day on which the court order takes effect; and
+
+     * (d) if paragraph (1)(d) or (e) applies--28 days after the notice is given.
+
+    * (3) If a limited child support agreement is terminated under paragraph (1)(d) or (e), the Registrar must notify in writing the other parties to the agreement of the termination.
+
+    * (4) The notice under subsection (3) must include, or be accompanied by, a statement that specifically draws the attention of the parties to the previous agreement to the right:
+
+     * (a) to object, subject to the Registration and Collection Act, to the decision (the **_original decision_**) to terminate the agreement; and
+
+     * (b) if aggrieved by a later decision on an objection to the original decision (no matter who lodges the objection but subject to that Act), to apply to the SSAT for review of the later decision.
+
+#### Division 2--Child support agreement requirements
+
+##### 81  Child support agreement definition and general requirement
+
+    * (1) An agreement is a **_child support agreement _**if:
+
+     * (a) the agreement is a binding child support agreement; or
+
+     * (b) the agreement is a limited child support agreement.
+
+        * Note: For the definitions of **_binding child support agreement_** and **_limited child support agreement_**, see sections 80C and 80E.
+
+    * (2) An agreement is a binding child support agreement or a limited child support agreement if it complies with the following provisions:
+
+     * (a) section 82 (children in relation to whom agreements may be made);
+
+     * (b) section 83 (persons who may be parties to agreements);
+
+     * (c) section 84 (provisions that may be included in agreements).
+
+        * Note: A parenting plan under the _Family Law Act 1975 _may, subject to the requirements of this Division, be a child support agreement.
+
+##### 82  Children in relation to whom agreements may be made
+
+    * (1) An agreement is a child support agreement only if it is made in relation to a child in relation to whom an application for administrative assessment is, under section 24, entitled to be made on the day the agreement is entered into.
+
+    * (2) If the agreement is also made in relation to another child in relation to whom subsection (1) does not apply, the other child is to be disregarded for the purposes of this Act.
+
+    * (3) Subsection (2) does not affect the operation of the agreement in relation to the other child for any other purpose.
+
+##### 83  Persons who may be parties to agreements
+
+    * (1) An agreement is a child support agreement only if it is made between:
+
+     * (a) 2 parents of a child who, under section 25, would be able to properly make an application for administrative assessment of child support for the child in relation to whom the agreement is made on the day on which the agreement is entered into; or
+
+     * (b) one or both parents of a child, and a nonparent carer of the child, who, under sections 25 and 25A, would be able to properly make an application for administrative assessment of child support for the child in relation to whom the agreement is made on the day on which the agreement is entered into.
+
+    * (2) If there is a party to the agreement in relation to whom subsection (1) does not apply, that party is to be disregarded for the purposes of this Act.
+
+    * (3) Subsection (2) does not affect the operation of the agreement in relation to that party for any other purpose.
+
+##### 84  Provisions that may be included in agreements
+
+    * Provisions that may be included
+
+    * (1) An agreement is a child support agreement only if it includes one or more of the following kinds of provisions:
+
+     * (a) provisions under which a party is to pay child support for a child to another party in the form of periodic amounts paid to the other party;
+
+     * (b) provisions under which the rate at which a party is already liable to pay child support for a child to another party in the form of periodic amounts paid to the other party is varied;
+
+     * (c) provisions agreeing between parties any other matter that may be included in an order made by a court under Division 4 of Part 7 (departure orders);
+
+     * (d) provisions (the **_nonperiodic payment provisions_**) that state:
+
+      * (i) that a party (the **_liable party_**) is to provide child support for a child to another party otherwise than in the form of periodic amounts; and
+
+      * (ii) that the annual rate of child support payable for the child by the liable party under any relevant administrative assessment is to be reduced, in the manner specified under subsection (6), by the amount of child support to be provided by the liable party;
+
+     * (e) provisions (the **_lump sum payment provisions_**) that meet the requirements of subsection (7) and that state:
+
+      * (i) that a party (the **_liable party_**) is to provide child support for a child to another party in the form of a lump sum payment (including by way of transfer or settlement of property); and
+
+      * (ii) that the lump sum payment is to be credited against the amount payable under the liable party's liability under the relevant administrative assessment;
+
+     * (f) provisions under which a party is to provide child support for a child to another party otherwise than in the form of periodic amounts and that are not nonperiodic payment provisions or lump sum payment provisions;
+
+     * (g) provisions under which the liability of a party to pay or provide child support for a child to another party is to end from a specified day.
+
+    * (2) The agreement may include more than one kind of provision in relation to different parts of a child support period and different child support periods.
+
+    * Other kinds of provisions not to have effect
+
+    * (3) If the agreement also includes provisions of a kind not referred to in subsection (1), those provisions do not have effect for the purposes of this Act.
+
+    * (4) Subsection (3) does not affect the operation of provisions of the kind referred to in that subsection for any other purpose.
+
+    * Agreement may also be parenting plan, maintenance agreement or financial agreement
+
+    * (5) Without limiting subsection (4), nothing in this Part is to be taken to prevent the same document being both a child support agreement and:
+
+     * (a) a parenting plan; or
+
+     * (b) a maintenance agreement or financial agreement under the _Family Law Act 1975_; or
+
+     * (c) a Part VIIIAB financial agreement (within the meaning of that Act).
+
+    * Additional requirements of agreements with nonperiodic payment provisions
+
+    * (6) If an agreement includes provisions of the kind referred to in paragraph (1)(d), the statement referred to in subparagraph (1)(d)(ii) must specify either:
+
+     * (a) that the annual rate of child support payable under the administrative assessment is to be reduced by a specified amount that represents an annual value of the child support payable; or
+
+     * (b) that the annual rate of child support payable under the administrative assessment is to be reduced by 100% or another specified percentage that is less than 100%.
+
+        * Note: Nonperiodic payment provisions are taken to have effect as if they were a statement made by a court under section 125 in an order made under section 124 (see subsection 95(3)).
+
+    * Additional requirements etc. of agreements with lump sum payment provisions
+
+    * (7) If an agreement includes provisions of the kind referred to in paragraph (1)(e), the provisions meet the requirements of this subsection if:
+
+     * (a) the agreement is a binding child support agreement; and
+
+     * (b) an administrative assessment, in relation to the child in respect of whom the agreement is made, is in force immediately before the application for acceptance of the agreement is made; and
+
+     * (c) the amount of the lump sum payment:
+
+      * (i) is specified in the agreement; and
+
+      * (ii) equals or exceeds the annual rate of child support payable for the child under the administrative assessment.
+
+        * Note: If an agreement includes provisions of the kind referred to in paragraph (1)(e) (lump sum payment provisions), the lump sum payment is credited under section 69A of the Registration and Collection Act against the amount payable under the liable party's liability (rather than reducing the annual rate of child support payable under the administrative assessment).
+
+    * (8) An agreement that includes lump sum payment provisions may also state that the lump sum payment is to be credited against 100%, or another specified percentage that is less than 100%, of the amount payable under the liability.
+
+        * Note: If an agreement does not specify a percentage, the lump sum payment is credited against 100% of the amount payable under the liability (see section 69A of the Registration and Collection Act).
+
+##### 87  Agreement may be made in relation to 2 or more children etc.
+
+    * (1) If an agreement is made in the same document in relation to 2 or more children, the document may be treated as if it contained separate agreements for each of the children.
+
+    * (2) If:
+
+     * (a) agreement is made in the same document in relation to a child or 2 or more children; and
+
+     * (b) child support is to be payable to or by 2 or more parties to the agreement for the child or any of the children;
+
+    * the document may be treated as if it contained separate agreements made in relation to the child or each of the children by each of the parties to or by whom child support is to be payable.
+
+#### Division 3--Applications to Registrar for acceptance of child support agreements
+
+##### 88  Application requirements generally
+
+    * An application for acceptance by the Registrar of an agreement made in relation to a child is properly made if: 
+
+     * (a) either:
+
+      * (i) the agreement is a child support agreement; or
+
+      * (ii) the agreement is a termination agreement or a written agreement referred to in paragraph 80G(1)(b); and
+
+     * (b) the application complies with section 89.
+
+##### 89  Formal requirement for applications
+
+    * An application for acceptance by the Registrar of an agreement made in relation to a child must be made in the manner specified by the Registrar.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in which an application may be made.
+
+##### 90  Application for 2 or more separate agreements may be made in same form
+
+    * If application is made in the same form for acceptance of 2 or more agreements made in relation to a child or 2 or more children (whether or not the agreements have been made in the same document), the form may be treated as if it contained separate applications for each of the agreements.
+
+#### Division 4--Decisions on applications
+
+##### 91  How decision is to be made
+
+    * In determining whether an agreement made in relation to a child is an agreement referred to in paragraph 88(a), the Registrar may act on the basis of the application made to the Registrar for acceptance of the agreement, the documents accompanying the application and the agreement itself, and is not required to conduct any inquiries or investigations into the matter.
+
+##### 92  Decision on application
+
+    * (1) Subject to this section, if the Registrar is satisfied that an application made to the Registrar for acceptance of an agreement made in relation to a child has been properly made, the Registrar must accept the agreement.
+
+    * (2) If the Registrar is not so satisfied, the Registrar may refuse to accept the agreement.
+
+    * (3) The Registrar must refuse to accept a limited child support agreement if, immediately before the application for acceptance of the agreement is made, no administrative assessment is in force in relation to the child.
+
+    * (5) The Registrar must refuse to accept the agreement if:
+
+     * (a) immediately before the application is made, an administrative assessment is in force in relation to the child and the 2 parties to the agreement; and
+
+     * (b) the application for administrative assessment was made, in accordance with paragraph 29B(1)(b), by an overseas authority of a reciprocating jurisdiction on behalf of the one of the parties to the agreement; and
+
+     * (d) the overseas authority does not approve the acceptance of the agreement.
+
+##### 93  Liability to pay child support arises on acceptance of application where child support not already payable etc.
+
+    * (1) If:
+
+     * (a) the Registrar accepts a child support agreement made in relation to a child; and
+
+     * (b) either:
+
+      * (i) child support is not already payable for the child; or
+
+      * (ii) child support is already payable by a person to another person for the child, but child support is to be paid or provided under agreement for the child otherwise than by the firstmentioned person to the other person;
+
+    * then: 
+
+     * (c) the acceptance of the agreement by the Registrar has the same effect (as provided by this section) as the acceptance by the Registrar of an application for administrative assessment of child support for the child; and
+
+     * (d) a person to whom child support is to be paid or provided under the agreement is a **_carer entitled to child support_** in relation to the child; and
+
+     * (e) a person by whom child support is to be paid or provided under the agreement to the carer entitled to child support is a **_liable parent_** in relation to the child and the carer entitled to child support; and
+
+     * (f) child support is payable for the child by the liable parent to the carer entitled to child support; and
+
+     * (g) the child support is payable from the day on which the application was made to the Registrar for acceptance of the agreement; and
+
+     * (h) the child support is payable until the earlier of the following days:
+
+      * (i) the day immediately before the day on which a child support terminating event happens in relation to the child, the carer entitled to child support, the liable parent or all 3 of them;
+
+      * (ii) the day on which the agreement is terminated under section 80D or 80G.
+
+    * (2) The Registrar must assess under this Act the annual rate of the child support payable by the liable parent to the carer entitled to the child support for the child for the days in the child support period that starts on the day on which the application was made to the Registrar for acceptance of the agreement. The Registrar must do so as quickly as practicable.
+
+        * Note 1: The Registrar must assess, under section 34B, the annual rate of child support payable under an agreement if an annual rate of child support is already payable and the agreement is to affect that annual rate.
+
+        * Note 2: If the Registrar makes an assessment under this section, the Registrar must make a provisional notional assessment under section 146B.
+
+    * (3) In making any administrative assessment in relation to the child, the carer entitled to child support and the liable parent, the Registrar must act in accordance with section 95 (Effect of certain provisions of accepted child support agreements).
+
+##### 94  Registrar to take action to give effect to accepted child support agreement or termination agreement etc.
+
+    * (1) After the Registrar accepts a child support agreement made in relation to a child, the Registrar must immediately take such further action (if any) as is necessary to give effect to the agreement_._
+
+        * _Note:	After accepting the agreement, section 34B or 93 or Part 5 might require the Registrar to assess an annual rate of child support payable.
+
+    * (2) In making any administrative assessment in relation to the child, the Registrar must act in accordance with section 95 (effect of certain provisions of accepted child support agreements).
+
+    * (3) After the Registrar accepts a termination agreement, or a written agreement referred to in paragraph 80G(1)(b), the Registrar must immediately take such further action (if any) as is necessary to give effect to the agreement_._
+
+##### _95  Effect of certain provisions of accepted child support agreements
+
+    * (1) This section applies in relation to a child support agreement that has been accepted by the Registrar.
+
+    * (2) If the agreement includes:
+
+     * (a) provisions under which a party is to pay child support for a child to another party in the form of periodic amounts paid to the other party; or
+
+     * (b) provisions under which the rate at which a party is already liable to pay child support for a child to another party in the form of periodic amounts paid to the other party is varied; or
+
+     * (c) provisions agreeing between parties any other matter that may be included in an order made by a court under Division 4 of Part 7 (Orders for departure from administrative assessment in special circumstances);
+
+    * the provisions have effect, for the purposes of Part 5, as if they were an order made by consent by a court under Division 4 of Part 7.
+
+    * (3) If the agreement includes nonperiodic payment provisions:
+
+     * (a) the provisions have effect, for the purposes of this Act, as if they were a statement made by a court under section 125 in an order made under section 124; and
+
+     * (b) if the provisions or the agreement is registered in a court having jurisdiction under Part VII of the _Family Law Act 1975_--Division 13A of Part VII, and Parts XIII and XIIIB, of that Act apply in relation to the provisions as if the provisions were an order made by the court under Part VII of that Act.
+
+        * Note 1: The effect of paragraph (3)(a) is that the Registrar must make any subsequent administrative assessment on the basis of the annual rate of child support as reduced by the amount or percentage specified in the child support agreement (see section 127).
+
+        * Note 2: This section does not deal with lump sum payment provisions (see paragraph 84(1)(e) of this Act and section 69A of the Registration and Collection Act).
+
+    * (5) The provisions of the agreement have effect despite any inconsistency with a court order made before the agreement was entered into.
+
+    * (6) Where any difficulty arises in the application of this section in or in relation to a particular proceeding, the court exercising jurisdiction in the proceeding may, on the application of a party to the proceeding or of its own motion, give such directions, and make such orders, as it considers appropriate to resolve the difficulty.
+
+#### Division 5--Notice of the decision
+
+##### 96  Notice of decision to be given
+
+    * (1) If the Registrar accepts or refuses to accept an agreement made in relation to a child, the Registrar must immediately notify each party to the agreement of the decision.
+
+    * (2) The notice must include, or be accompanied by, a statement that specifically draws the attention of the parties to the agreement to the right:
+
+     * (a) to object, subject to the Registration and Collection Act, to the decision (the **_original decision_**); and
+
+     * (b) if aggrieved by a later decision on an objection to the original decision (no matter who lodges the objection but subject to that Act), to apply to the SSAT for review of the later decision.
+
+    * (3) A contravention of subsection (2) in relation to a decision does not affect the validity of the decision.
+
+    * (4) If a child support agreement includes lump sum payment provisions, the notice must specify:
+
+     * (a) the amount of the lump sum payment specified in the agreement; and
+
+     * (b) any annual rate and daily rate of child support that remains payable after taking into account any remaining lump sum payment (within the meaning of the Registration and Collection Act) that will be credited under section 69A of that Act.
+
+### Part 6A--Departure from administrative assessment of child support (departure determinations)
+
+#### Division 1--Preliminary
+
+##### 98A  Simplified outline
+
+    * The following is a simplified outline of this Part: 
+
+     *  	The Registrar can make a determination under this Part to depart from the provisions of this Act relating to administrative assessment of child support for a child.
+
+     *  	A liable parent or a carer entitled to child support can apply for such a determination, or the Registrar can make a determination on his or her own initiative.
+
+     *  	The Registrar must not make a determination in respect of a day that is more than 18 months earlier without leave of a court under section 112.
+
+     *  	The grounds for deciding whether to make a determination are the same as a court uses in deciding whether to make an order under Division 4 of Part 7.
+
+     *  	If the Registrar is considering making a determination, the parties can make a child support agreement in relation to child support payable for the child instead of the Registrar making the determination.
+
+     *  	Under section 80 of the Registration and Collection Act, certain persons can object to a decision to make or refuse to make a determination under this Part.
+
+#### Division 2--Departures initiated by a liable parent or carer
+
+##### 98B  Application for determination under Part
+
+    * (1) If, at any time when an administrative assessment is in force in relation to a child:
+
+     * (a) the liable parent concerned; or
+
+     * (b) the carer entitled to child support concerned;
+
+    * is of the view that, because of special circumstances that exist, the provisions of this Act relating to administrative assessment of child support should be departed from in relation to the child, the liable parent or carer may, by written application, ask the Registrar to make a determination under this Part.
+
+        * Note 1: For the determinations that the Registrar may make under this Part see section 98S.
+
+        * Note 2: The Registrar may only make a determination under this Part in respect of a day that is more than 18 months earlier than the day on which the relevant application is made with a court's leave under section 112 (see subsection 98S(3B)).
+
+    * (2) The parties to the proceedings under this Division are the liable parent and the carer entitled to child support.
+
+##### 98C  Matters as to which Registrar must be satisfied before making determination
+
+    * (1) Subject to this Part, if:
+
+     * (a) an application is made to the Registrar under section 98B; and
+
+     * (b) the Registrar is satisfied:
+
+      * (i) that one, or more than one, of the grounds for departure referred to in subsection (2) exists; and
+
+      * (ii) that it would be: 
+
+         * (A) just and equitable as regards the child, the liable parent, and the carer entitled to child support; and 
+
+         * (B) otherwise proper;
+
+      * to make a particular determination under this Part;
+
+    * the Registrar may make the determination.
+
+    * (2) For the purposes of subparagraph (1)(b)(i):
+
+     * (a) the grounds for departure from the provisions of this Act relating to administrative assessment of child support in relation to the child are the same as the grounds for departure set out in subsection 117(2); and
+
+     * (b) subparagraph 117(2)(b)(ib) has effect subject to subsections 117(3A) to (3C).
+
+    * (3) Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her powers under this Division as if:
+
+     * (a) any reference in those subsections to the court were a reference to the Registrar; and
+
+     * (b) any reference to an order were a reference to a determination.
+
+##### 98D  Formal requirements for application
+
+    * An application made under section 98B must be in the manner specified by the Registrar.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in which an application must be made.
+
+##### 98E  Registrar may refuse to make determination because issues too complex
+
+    * If the Registrar is satisfied, after considering the application, that the issues raised by the application are too complex to be dealt with under this Part, the Registrar may:
+
+     * (a) refuse to make the determination, without taking any further action under this Part; and 
+
+     * (b) recommend that application be made to a court having jurisdiction under this Act for an order under Division 4 of Part 7.
+
+##### 98F  Application disclosing no grounds etc. for making determination--how dealt with
+
+    * If the Registrar is satisfied, after considering the application, that:
+
+     * (a) there are no grounds for departing from the provisions of this Act relating to administrative assessment of child support in relation to the child concerned; or
+
+     * (b) that it would not be:
+
+      * (i) just or equitable as regards the child or either party to the application; or
+
+      * (ii) otherwise proper;
+
+     * to make the determination;
+
+    * the Registrar may refuse to make the determination without taking any further action under this Part.
+
+##### 98G  Other party to be notified
+
+    * (1) If section 98E or 98F or subsection 98J(2) does not apply, the Registrar must cause a copy of:
+
+     * (a) the application; and
+
+     * (b) any document accompanying it;
+
+    * to be served on the other party to the proceedings.
+
+    * (2) The Registrar must, at the same time, inform the other party to the proceedings in writing that he or she may make any representation (a **_reply_**) regarding the application that he or she considers relevant.
+
+    * (3) If the other party to the proceedings makes a reply, the Registrar must serve a copy of the reply and any accompanying documents on the applicant for the determination.
+
+##### 98H  Procedure for dealing with application
+
+    * (1) In making a decision under this Division in relation to an application, the Registrar:
+
+     * (a) may act on the basis of:
+
+      * (i) the application and the documents accompanying it; and
+
+      * (ii) if action has been taken under section 98G--the reply (if any) to the application and the documents (if any) accompanying it; and
+
+     * (b) may, but is not required to, conduct any inquiry or investigation into the matter.
+
+    * (2) Except where the Registrar refuses to make a determination under section 98E or 98F or subsection 98J(2) in respect of an application, the Registrar must give an opportunity to the applicant and the other party to appear before the Registrar, and be heard by him or her, if they so wish.
+
+        * Note: Sections 98E and 98F and subsection 98J(2) provide that the Registrar may refuse to make a determination in the circumstances set out in those provisions without taking any further action under this Part.
+
+    * (3) Nothing in subsection (2) empowers the Registrar to compel a party to the proceeding to appear before the Registrar in the presence of the other party.
+
+    * (4) Any hearing before the Registrar, and any inquiry or investigation carried out by the Registrar, is to be carried out as the Registrar thinks fit and the Registrar is not bound by any rules of evidence.
+
+    * (5) A party to the proceedings must not be represented by another person before the Registrar.
+
+##### 98J  Subsequent applications
+
+    * (1) A person who has made an application for a determination under this Part in respect of an administrative assessment of child support is not, for that reason, precluded from subsequently making another application in respect of that assessment if, because of circumstances existing at the time when the subsequent application is made, there are grounds for departing from the administrative assessment.
+
+    * (2) If:
+
+     * (a) a person has made an application for a determination under this Part; and
+
+     * (b) the Registrar has refused to make a determination on the application; and
+
+     * (c) the person subsequently makes an application for a determination under this Part; and
+
+     * (d) the Registrar is satisfied, after considering:
+
+      * (i) the application last made and the documents (if any) accompanying it; and
+
+      * (ii) the previous application and the documents (if any) accompanying it and any matter taken into account by the Registrar in refusing to make a determination in relation to that application;
+
+     * that no new matter has been submitted in support of the claim that there are grounds for departing from the provisions of this Act relating to administrative assessment of child support in relation to the child;
+
+    * the Registrar may refuse to make a determination, without taking any further action under this Part.
+
+##### 98JA  Notice of refusal to be served on parties
+
+    * (1) If the Registrar refuses to make a determination under this Division, the Registrar must serve notice in writing of the decision on each of the parties to the proceeding.
+
+    * (2) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the party may, subject to the Registration and Collection Act, object to the decision (the **_original decision_**); and
+
+     * (b) that if the party is aggrieved by a later decision on an objection to the original decision (no matter who lodges the objection), the party may:
+
+      * (i) if the original decision was made under section 98E (issues too complex)--apply to a court having jurisdiction under this Act for an order under Division 4 of Part 7; or
+
+      * (ii) otherwise--apply, subject to the Registration and Collection Act, to the SSAT for review of the later decision.
+
+    * (3) A contravention of subsection (2) in relation to a decision does not affect the validity of the decision.
+
+#### Division 3--Departures initiated by the Registrar
+
+##### 98K  Registrar may initiate a determination under this Part
+
+    * (1) If, at any time when an administrative assessment is in force in relation to a child, the Registrar is of the view that, because of special circumstances that exist, the provisions of this Act relating to administrative assessment of child support should be departed from in relation to the child, the Registrar may make a determination under this Part.
+
+        * Note 1: For the determinations that the Registrar may make under this Part see section 98S.
+
+        * Note 2: The Registrar may only make a determination under this Part in respect of a day that is more than 18 months earlier than the day on which the relevant parties are notified under section 98M with a court's leave under section 112 (see subsection 98S(3B)).
+
+    * (2) The parties to the proceedings under this Division are the liable parent and the carer entitled to child support.
+
+##### 98L  Matters as to which Registrar must be satisfied before making determination
+
+    * (1) Subject to this Part, the Registrar may make the determination if:
+
+     * (a) the Registrar is satisfied that, in the special circumstances of the case, application in relation to a child of the provisions of this Act relating to administrative assessment of child support would result in an unjust and inequitable determination of the level of financial support to be provided by the liable parent for the child because of the income, earning capacity, property and financial resources of either parent; and
+
+     * (b) that it would be: 
+
+      * (i) just and equitable as regards the child, the liable parent, and the carer entitled to child support; and 
+
+      * (ii) otherwise proper;
+
+    * to make a particular determination under this Part.
+
+    * (2) Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her powers under this section as if:
+
+     * (a) any reference in those subsections to the court were a reference to the Registrar; and
+
+     * (b) any reference to an order were a reference to a determination.
+
+##### 98M  Parties to be notified
+
+    * (1) The Registrar must, in writing, notify the parties to the proceedings that the Registrar is considering the making of a determination under section 98S in relation to the child concerned.
+
+    * (2) The Registrar must also cause to be served on each of the parties to the proceedings a summary of the information that the Registrar used to form the view that the Registrar should make a determination under this Division.
+
+    * (3) At the same time, the Registrar must inform each party to the proceedings in writing that the party may make any representation (a **_reply_**) regarding the summary that the party considers relevant.
+
+##### 98N  Replies
+
+    * (1) Any reply made by a party to proceedings under this Division must:
+
+     * (a) be in the manner specified by the Registrar; and
+
+     * (b) be made to the Registrar.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in a reply may be made.
+
+    * (2) If a party to the proceedings makes a reply, the Registrar must serve a copy of the reply and any accompanying documents on the other party to the proceedings.
+
+##### 98P  Parties may jointly elect that Registrar discontinue proceedings
+
+    * (1) In respect of proceedings under this Division, the liable parent and the carer entitled to child support may jointly elect that the Registrar discontinue the proceedings if the carer is not in receipt of an income tested pension, benefit or allowance.
+
+    * (2) The election must be:
+
+     * (a) in the manner specified by the Registrar; and
+
+     * (b) given to the Registrar.
+
+    * (3) If the parties to the proceedings make an election as set out in subsection (1), the Registrar must:
+
+     * (a) discontinue the proceedings; and
+
+     * (b) notify the parties to the proceedings that the Registrar has discontinued them because of the election under subsection (1).
+
+##### 98Q  Procedure
+
+    * (1) In making a decision under this Division, the Registrar:
+
+     * (a) may act on the basis of:
+
+      * (i) the information that the Registrar used to form the view that because of special circumstances that exist, the provisions of this Act relating to administrative assessment of child support should be departed from in relation to the child concerned; and
+
+      * (ii) if action has been taken under section 98N--the replies (if any) and the documents (if any) accompanying them; and
+
+     * (b) may, but is not required to, conduct any inquiry or investigation into the matter.
+
+    * (2) Except where the Registrar refuses to make a determination under section 98R in respect of proceedings, the Registrar must give an opportunity to parties to the proceedings to appear before the Registrar, and be heard by him or her, if they so wish.
+
+        * Note: Section 98R provides that the Registrar may refuse to make a determination in the circumstances set out in that provision without taking any further action under this Part.
+
+    * (3) Nothing in subsection (2) empowers the Registrar to compel the parties to the proceedings to appear before the Registrar in the presence of the other party.
+
+    * (4) Any hearing before the Registrar, and any inquiry or investigation carried out by the Registrar, is to be carried out as the Registrar thinks fit and the Registrar is not bound by any rules of evidence.
+
+    * (5) A party must not be represented by another person before the Registrar.
+
+##### 98R  Registrar may refuse to make determination because issues too complex
+
+    * If the Registrar is satisfied, after considering the information before him or her and the representations (if any), that the issues involved are too complex to be dealt with under this Part, the Registrar may:
+
+     * (a) decide not to make the determination, without taking any further action under this Part; and 
+
+     * (b) recommend that application be made to a court having jurisdiction under this Act for an order under Division 4 of Part 7.
+
+##### 98RA  Notice of refusal to be served on parties
+
+    * (1) If, after having notified parties under section 98M, the Registrar refuses to make a determination under this Division, the Registrar must serve notice in writing of the decision on each of the parties to the proceeding.
+
+    * (2) The notice must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the party may, subject to the Registration and Collection Act, object to the decision (the **_original decision_**); and
+
+     * (b) that if the party is aggrieved by a later decision on an objection to the original decision (no matter who lodges the objection), the party may:
+
+      * (i) if the original decision was made under section 98R (issues too complex)--apply to a court having jurisdiction under this Act for an order under Division 4 of Part 7; or
+
+      * (ii) otherwise--apply, subject to the Registration and Collection Act, to the SSAT for review of the later decision.
+
+    * (3) A contravention of subsection (2) in relation to a decision does not affect the validity of the decision.
+
+#### Division 4--Determinations that may be made under this Part
+
+##### 98S  Determinations that may be made under Part
+
+    * (1) The determinations the Registrar may make under this Part are as follows:
+
+     * (a) a determination varying the annual rate of child support payable by a parent;
+
+     * (b) a determination varying a parent's or nonparent carer's cost percentage for a child;
+
+     * (c) a determination varying a parent's child support income;
+
+     * (d) a determination varying the parents' combined child support income;
+
+     * (e) a determination that:
+
+      * (i) the column in the Costs of the Children Table that covers a parent's child support income or combined child support income that is, or is determined to be, greater than 2.5 times the annualised MTAWE figure for the relevant June quarter, is the column headed "2 to 2.5"; and
+
+      * (ii) the column is to apply as if the second dollar amount in the heading to that column did not apply;
+
+     * (f) a determination varying a parent's child support percentage;
+
+     * (g) a determination varying a parent's adjusted taxable income;
+
+     * (h) a determination varying a parent's relevant dependent child amount or multicase allowance;
+
+     * (i) a determination varying a parent's selfsupport amount;
+
+     * (j) a determination varying the costs of the children.
+
+        * Note: There are limitations on the Registrar making a determination that varies an annual rate of child support payable in respect of a child support case below the minimum annual rate (see section 98SA).
+
+    * (2) In proceedings under Division 2, the determinations under subsection (1) that the Registrar may make are not limited by the terms of the application.
+
+    * (3) A determination under this Division may make different provision in relation to different child support periods and in relation to different parts of a child support period.
+
+    * (3B) The Registrar may only make a determination under this Part in respect of a day in a child support period, being a day that is more than 18 months earlier than:
+
+     * (a) the day on which the application for the determination is made under section 98B; or
+
+     * (b) the day on which the Registrar notifies the relevant parties under subsection 98M(1);
+
+    * if a court has granted leave under section 112 for the determination to be made.
+
+    * (3C) If a court has granted leave under section 112, the Registrar may only make a determination under this Part in respect of a day in a child support period if the day is within the period specified by the court, under subsection 112(6), in the order granting the leave.
+
+    * (4) The Registrar must give, in writing, the reasons for making the determination (including the reasons for which the Registrar is satisfied as required by paragraph 117(1)(b)).
+
+    * (5) A contravention of subsection (4) in relation to a determination does not affect the validity of the determination.
+
+##### 98SA  Variation not to be below minimum annual rate of child support
+
+    * The Registrar must not make a determination under this Part that varies, or that has the effect of varying, the annual rate of child support payable, for a day in a child support period, by a liable parent for all of the children in the child support case that relates to the child in respect of whom the determination is made to a rate below the minimum annual rate of child support for the child support period, unless the liable parent has at least regular care of at least one of the children in that child support case.
+
+#### Division 5--Child support agreements
+
+##### 98T  Parties may enter into child support agreement
+
+    * The parties to proceedings under this Part may, at any time before a determination is made in relation to the proceedings, enter into an agreement, purporting to be a child support agreement, in relation to the child support payable for the child in relation to whom the determination may be made.
+
+##### 98U  Decision on child support agreement
+
+    * (1) Subject to subsection (2), if the Registrar is satisfied that an agreement entered into by the parties to proceedings is a child support agreement, the Registrar must accept the agreement.
+
+    * (1A) In working out whether an agreement is a limited child support agreement for the purposes of subsection (1), disregard:
+
+     * (a) paragraph 80E(1)(d); and
+
+     * (b) subsections 80E(2) to (5).
+
+    * (2) For an agreement (other than a binding child support agreement), the Registrar must not accept the agreement unless he or she is also satisfied that it would be just and equitable, as regards the child, the liable parent and the carer entitled to child support, to accept the agreement.
+
+    * (3) Subsections 117(4) to (9) (inclusive) apply to the Registrar in the exercise of his or her functions under subsection (2) as if:
+
+     * (a) any reference in those subsections to the court were a reference to the Registrar; and
+
+     * (b) any reference to the making of a particular order under Division 4 of Part 7 were a reference to the acceptance of an agreement.
+
+    * (4) If the Registrar accepts the agreement:
+
+     * (a) whichever of sections 34B and 93 is appropriate applies; and
+
+     * (aa) sections 95 and 96 apply; and
+
+     * (b) the Registrar may not make a determination under this Part in relation to the proceedings.
+
+    * (5) If the Registrar is not satisfied as required by subsections (1) and (2), the Registrar must refuse to accept the agreement.
+
+    * (6) If the Registrar refuses to accept the agreement:
+
+     * (a) section 96 applies; and
+
+     * (b) the Registrar must proceed to make a determination under this Part.
+
+#### Division 6--Pending applications
+
+##### 98V  Pending application not to affect assessment
+
+    * Subject to section 111C of the Registration and Collection Act (Stay orders), the fact that proceedings are pending under this Part in relation to a person does not, in the meantime, interfere with, or affect, any administrative assessment made in relation to the person. Any such assessment may be registered under the Registration and Collection Act, and amounts of child support and other amounts recovered in relation to the assessment, as if no proceedings were pending.
+
+### Part 7--Court review of certain decisions
+
+#### Division 1A--Preliminary
+
+##### 98W  Simplified outline
+
+    * The following is a simplified outline of this Part: 
+
+     *  	Jurisdiction under this Act is conferred on certain federal and State courts.
+
+     *  	Generally, a person may apply for an order under this Part without having first obtained internal review under Part VII of the Registration and Collection Act.
+
+     *  	A court may declare that a person should, or should not, be assessed in respect of the costs of the child because the person is, or is not, a parent of the child.
+
+     *  	A court may grant leave for the making of a departure determination under Part 6A, or a departure order under Division 4 of this Part, in relation to a period more than 18 months but less than 7 years earlier.
+
+     *  	In special circumstances, a court may make an order equivalent to a departure determination.
+
+     *  	A court may order that child support be paid in a form other than periodic amounts paid to a carer (including in the form of a lump sum payment).
+
+     *  	A court may set aside a child support agreement or termination agreement in certain circumstances (such as fraud, undue influence or change of circumstance).
+
+     *  	A court may make an order for the payment of child support if a child is in urgent need of financial assistance.
+
+#### Division 1--Jurisdiction of courts
+
+##### 98X  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	Jurisdiction under this Act is conferred on the Family Court, the Federal Circuit Court of Australia and certain State and Territory courts.
+
+     *  	This Division also provides for appeals to the Family Court from other courts.
+
+##### 99  Jurisdiction of courts under Act
+
+    * (1) Jurisdiction is conferred on the Family Court and the Federal Circuit Court of Australia and, subject to subsection (7), the Supreme Court of the , and each Family Court of a State is invested with federal jurisdiction in relation to matters arising under this Act.
+
+    * (2) Subject to subsections (5) and (7), each court of summary jurisdiction of each State is invested with federal jurisdiction, and jurisdiction is conferred on each court of summary jurisdiction of each Territory, in relation to matters arising under this Act.
+
+    * (3) The GovernorGeneral may, by Proclamation, fix a day as the day on and after which proceedings in relation to matters arising under this Act may not be instituted in, or transferred to, a court of summary jurisdiction in a specified State or Territory.
+
+    * (4) A Proclamation under subsection (3) may be expressed to apply only in relation to:
+
+     * (a) proceedings of specified classes; or
+
+     * (b) the institution of proceedings in, or the transfer of proceedings to, a court of summary jurisdiction in a specified part of a State or Territory.
+
+    * (5) A court of summary jurisdiction must not hear or determine proceedings under this Act otherwise than in accordance with any Proclamation in force under subsection (3).
+
+    * (6) The GovernorGeneral may, by Proclamation, declare that a Proclamation under subsection (3) is revoked on and from a specified day and, on and from the specified day, this Act (including subsection (3)) has effect as if the revoked Proclamation had not been made, but without prejudice to the effect of the revoked Proclamation before the specified day.
+
+    * (7) Jurisdiction in relation to a matter arising under this Act in relation to which a proceeding is instituted under this Act is not conferred on a court of a Territory unless at least one of the parties to the proceeding (other than the Registrar) is, on the day on which the proceeding is instituted in or transferred to that court, ordinarily resident in the Territory.
+
+    * (8) The jurisdiction conferred on or invested in a court by this section includes jurisdiction in relation to matters arising under this Act in relation to which proceedings are transferred to that court under another law of the Commonwealth.
+
+    * (9) The jurisdiction conferred on or invested in a court by this section is in addition to any jurisdiction conferred on or invested in the court apart from this section.
+
+##### 100  Application of Family Law Act
+
+    * (1) The _Family Law Act 1975 _(other than Part X of that Act), the standard Rules of Court and the related Federal Circuit Court Rules apply, subject to this Act and with such modifications as are prescribed by the applicable Rules of Court, to proceedings under this Act (other than proceedings under paragraph 79(a)) as if:
+
+     * (a) the proceedings were proceedings under Part VII of that Act; and
+
+     * (b) the proceedings were proceedings instituted under Part VII of that Act; and
+
+     * (c) a court having or exercising jurisdiction in the proceedings were a court having or exercising jurisdiction under Part VII of that Act; and
+
+     * (d) a decree made in the proceedings were a decree made under Part VII of that Act; and
+
+     * (e) matters arising in the proceedings were matters arising under Part VII of that Act; and
+
+     * (f) any other necessary changes were made.
+
+    * (2) Without limiting subsection (1), Division 13A of Part VII (Consequences of failure to comply with orders, and other obligations, that affect children), Part XIII (Enforcement of decrees), and Part XIIIB (Contempt of court), of the _Family Law Act 1975 _apply to any decree made by a court under this Act as if the decree were a decree made by a court under Part VII of that Act.
+
+    * (3) Where any difficulty arises in the application of subsection (1) or (2) in or in relation to a particular proceeding, the court exercising jurisdiction in the proceeding may, on the application of a party to the proceeding or of its own motion, give such directions, and make such orders, as it considers appropriate to resolve the difficulty.
+
+##### 101  Appellate jurisdiction of Family Court under Act
+
+    * (1) The Family Court has jurisdiction with respect to matters arising under this Act in relation to which:
+
+     * (a) applications for leave to appeal referred to in section 102, 102A or 105 are made; and
+
+     * (b) appeals referred to in section 102, 102A or 105 are instituted.
+
+    * (2) Subject to section 105, in an appeal under section 102, 102A or 105, the Family Court must have regard to the evidence given in the proceedings out of which the appeal arose and has power to draw inferences of fact and, in its discretion, to receive further evidence on questions of fact.
+
+    * (3) The further evidence may be given by affidavit, by oral examination before the Family Court or a Judge or in such other manner as the Family Court directs.
+
+##### 102  Appeals to Full Court of Family Court from courts other than the Federal Circuit Court and the Magistrates Court of Western Australia
+
+    * (1) An appeal lies, with the leave of a Full Court of the Family Court, to a  from:
+
+     * (a) a decree of the Family Court, constituted otherwise than as a , exercising original or appellate jurisdiction under this Act; or
+
+     * (b) a decree of:
+
+      * (i) a Family Court of a State; or
+
+      * (ii) the Supreme Court of the  constituted by a single Judge;
+
+     * exercising original or appellate jurisdiction under this Act.
+
+    * (2) An appeal lies, with the leave of a Full Court of the Family Court, to a Full Court from a decree or decision of a Judge exercising original or appellate jurisdiction under this Act rejecting an application that he or she disqualify himself or herself from further hearing of a matter.
+
+    * (3) An application for leave to appeal under subsection (1) or (2) must be made within the time prescribed by the standard Rules of Court or within such further time as is allowed under the standard Rules of Court.
+
+    * (4) On an appeal to the Full Court, the Full Court may affirm, reverse or vary the decree or decision the subject of the appeal and may make such decree or decision as, in the opinion of the Full Court, ought to have been made in the first instance, or may, if it considers appropriate, order a rehearing, on such terms and conditions (if any) as it considers appropriate.
+
+    * (5) If, in dismissing an appeal under subsection (1) or (2), the  is of the opinion that the appeal does not raise any question of general principle, it may, in accordance with the standard Rules of Court, give reasons for its decision in short form.
+
+    * (6) A Full Court of the Family Court, or a Judge of the Appeal Division or other Judge if there is no Judge of the Appeal Division available, may:
+
+     * (a) join or remove a party to an appeal under subsection (1) or (2); or
+
+     * (b) make an order by consent disposing of an appeal under subsection (1) or (2) (including an order for costs); or
+
+     * (c) give directions about the conduct of an appeal under subsection (1) or (2), including directions about the use of written submissions and limiting the time for oral argument.
+
+    * (7) The standard Rules of Court may make provision enabling matters of the kind mentioned in subsection (6) to be dealt with, subject to conditions prescribed by the standard Rules of Court, without an oral hearing.
+
+    * (8) Applications:
+
+     * (a) for an extension of time within which to institute an appeal under subsection (1) or (2); or
+
+     * (b) for leave to amend the grounds of an appeal under subsection (1) or (2); or
+
+     * (c) to reinstate an appeal under subsection (1) or (2) that, because of the standard Rules of Court, was taken to have been abandoned; or
+
+     * (d) to stay an order of a Full Court of the Family Court made in connection with an appeal under subsection (1) or (2);
+
+    * may be heard and determined by a Judge of the Appeal Division or other Judge if there is no Judge of the Appeal Division available, or by a Full Court of the Family Court.
+
+    * (9) The standard Rules of Court may make provision enabling applications of a kind mentioned in subsection (8) to be dealt with, subject to conditions prescribed by the standard Rules of Court, without an oral hearing.
+
+    * (10) No appeal lies under this section from an order or decision made under subsection (6) or (8).
+
+##### 102A  Appeals to Family Court from the Federal Circuit Court and the Magistrates Court of Western Australia
+
+    * (1) An appeal lies, with the leave of the Family Court, to the Family Court from:
+
+     * (a) a decree of the Federal Circuit Court of Australia exercising original jurisdiction under this Act; or 
+
+     * (b) a decree or decision of a Judge of the Federal Circuit Court of Australia exercising original jurisdiction under this Act rejecting an application that he or she disqualify himself or herself from further hearing a matter.
+
+    * (1A) An appeal lies, with the leave of the Family Court, to the Family Court from:
+
+     * (a) a decree of the Magistrates Court of Western Australia constituted by a Family Law Magistrate of Western Australia exercising original jurisdiction under this Act; or
+
+     * (b) a decree or decision of a Family Law Magistrate of Western Australia exercising in the Magistrates Court of Western Australia original jurisdiction under this Act rejecting an application that he or she disqualify himself or herself from further hearing a matter.
+
+    * (2) The jurisdiction of the Family Court in relation to an appeal under subsection (1) or (1A) is to be exercised by a  unless the Chief Judge of the Family Court considers that it is appropriate for the jurisdiction of the Family Court in relation to the appeal to be exercised by a single Judge.
+
+    * (3) Subsection (2) has effect subject to subsections (7) and (9).
+
+    * (4) An application for leave to appeal under subsection (1) or (1A) is to be made within:
+
+     * (a) the time prescribed by the standard Rules of Court; or
+
+     * (b) such further time as is allowed under the standard Rules of Court.
+
+    * (5) On an appeal under subsection (1) or (1A), the Family Court may affirm, reverse or vary the decree or decision the subject of the appeal and may make such decree or decision as, in the opinion of the court, ought to have been made in the first instance, or may, if it considers appropriate, order a rehearing, on such terms and conditions (if any) as it considers appropriate.
+
+    * (6) If, in dismissing an appeal under subsection (1) or (1A), the Family Court is of the opinion that the appeal does not raise any question of general principle, it may, in accordance with the standard Rules of Court, give reasons for its decision in short form.
+
+    * (7) A single Judge or a  may:
+
+     * (a) join or remove a party to an appeal under subsection (1) or (1A); or
+
+     * (b) make an order by consent disposing of an appeal under subsection (1) or (1A) (including an order for costs); or
+
+     * (c) give directions about the conduct of an appeal under subsection (1) or (1A), including directions about:
+
+      * (i) the use of written submissions; and
+
+      * (ii) limiting the time for oral argument.
+
+    * (8) The standard Rules of Court may make provision enabling matters of the kind mentioned in subsection (7) to be dealt with, subject to conditions prescribed by the standard Rules of Court, without an oral hearing.
+
+    * (9) Applications:
+
+     * (a) for leave to appeal under subsection (1) or (1A); or
+
+     * (b) for an extension of time within which to make an application for leave to appeal under subsection (1) or (1A); or
+
+     * (c) for leave to amend the grounds of an appeal under subsection (1) or (1A); or
+
+     * (d) to reinstate an appeal under subsection (1) or (1A) that, because of the standard Rules of Court, was taken to have been abandoned; or
+
+     * (e) to stay an order of the Family Court made in connection with an appeal under subsection (1) or (1A);
+
+    * may be heard and determined by a single Judge or by a .
+
+    * (10) The standard Rules of Court may make provision enabling applications of a kind mentioned in subsection (9) to be dealt with, subject to conditions prescribed by the standard Rules of Court, without an oral hearing.
+
+    * (11) An appeal does not lie to a  from a decision of a single Judge exercising jurisdiction under this section.
+
+    * (12) The single Judge referred to in subsection (2), (7) or (9) need not be a member of the Appeal Division of the Family Court.
+
+##### 103  Cases stated
+
+    * (1) If, in proceedings in a court under this Act, being proceedings in which a decree to which subsection 102(1) applies could be made, a question of law arises that the Judge and at least one of the parties wish to have determined by a Full Court of the Family Court before the proceedings are further dealt with, the Judge shall state the facts and question in the form of a special case for the opinion of a Full Court, and a Full Court shall hear and determine the question.
+
+    * (2) The  may draw, from the facts and the documents, any inference, whether of fact or law, that could have been drawn from them by the Judge.
+
+    * (3) If, in proceedings in the Federal Circuit Court of Australia, being proceedings in which a decree to which subsection 102A(1) applies could be made, a question of law arises which:
+
+     * (a) the Judge of the Federal Circuit Court of Australia; and
+
+     * (b) at least one of the parties;
+
+    * wish to have determined by a Full Court of the Family Court before the proceedings are further dealt with: 
+
+     * (c) the Judge of the Federal Circuit Court of Australia must state the facts and question in the form of a special case for the opinion of a ; and
+
+     * (d) a  must hear and determine the question.
+
+    * (4) The  may draw, from the facts and the documents, any inference, whether of fact or of law, that could have been drawn from them by the Judge of the Federal Circuit Court of Australia.
+
+    * (5) If, in proceedings in the Magistrates Court of Western Australia constituted by a Family Law Magistrate of Western Australia, being proceedings in which a decree to which subsection 102A(1A) applies could be made, a question of law arises which:
+
+     * (a) the Magistrate; and
+
+     * (b) at least one of the parties;
+
+    * wish to have determined by a Full Court of the Family Court before the proceedings are further dealt with: 
+
+     * (c) the Magistrate must state the facts and question in the form of a special case for the opinion of a ; and
+
+     * (d) a  must hear and determine the question.
+
+    * (6) The  may draw, from the facts and the documents, any inference, whether of fact or of law, that could have been drawn from them by the Magistrate.
+
+##### 104  Appeals to High Court
+
+    * Despite anything contained in any other Act, an appeal does not lie to the High Court from a decree of a court exercising jurisdiction under this Act, whether original or appellate, except:
+
+     * (a) by special leave of the High Court; or
+
+     * (b) on a certificate of a Full Court of the Family Court that an important question of law or of public interest is involved.
+
+##### 105  Appeals from courts of summary jurisdiction
+
+    * (1A) This section does not apply to a decree of the Magistrates Court of Western Australia constituted by a Family Law Magistrate of Western Australia.
+
+        * Note: Appeals from these decrees are dealt with in section 102A.
+
+    * (1) Subject to subsections (2) and (5), an appeal lies from a decree of a court of summary jurisdiction of a State or Territory exercising jurisdiction under this Act to the Family Court or:
+
+     * (a) in the case of a court of summary jurisdiction of a State that has a Family Court of the State--to the Family Court of the State; or
+
+     * (b) in the case of a court of summary jurisdiction of the --to the Supreme Court of the .
+
+    * (2) An appeal lies to a court under subsection (1) only with the leave of the court.
+
+    * (3) An application for leave to appeal under subsection (1) must be made within the time prescribed by the standard Rules of Court or within such further time as is allowed under the standard Rules of Court.
+
+    * (4) A Family Court of a State is invested with federal jurisdiction, and jurisdiction is conferred on the Supreme Court of the Northern Territory, with respect to matters arising under this Act in relation to which applications for leave to appeal are made under subsection (1) and appeals are instituted under that subsection.
+
+    * (5) The GovernorGeneral may, by Proclamation, fix a day as the day on or after which applications may not be made to the Family Court of a State or the Supreme Court of the  for leave to appeal under subsection (1).
+
+    * (6) A court hearing an appeal under subsection (1):
+
+     * (a) subject to subsection (7), is to proceed by way of a hearing _de novo_, but may receive as evidence any record of evidence given, including any affidavit filed or exhibit received in the court of summary jurisdiction; and
+
+     * (b) may make such decrees as it considers appropriate, including a decree affirming, reversing or varying the decree the subject of the appeal.
+
+    * (7) Where a court has granted leave to appeal under subsection (1), the court may refer the appeal to a Full Court of the Family Court.
+
+    * (8) Where an appeal is referred to a Full Court of the Family Court under subsection (7), the  may:
+
+     * (a) proceed by way of a hearing _de novo_, but may receive as evidence any record of evidence given, including any affidavit filed or exhibit received in the court of summary jurisdiction; and
+
+     * (b) order that questions of fact arising in the proceedings be tried by a Judge; and
+
+     * (c) determine questions of law arising in the proceedings and remit the appeal to a Judge for hearing in accordance with directions given by it; and
+
+     * (d) make such other decrees as it considers appropriate, including a decree affirming, reversing or varying the decree the subject of the appeal.
+
+#### Division 2--Declarations relating to whether persons should be assessed in respect of the costs of the child
+
+##### 106  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	A court may declare that a person should be assessed in respect of the costs of a child because the person is a parent of the child.
+
+     *  	A court may declare that a person should not be assessed in respect of the costs of the child because the person is not a parent of the child.
+
+##### 106A  Declaration that a person should be assessed in respect of the costs of the child
+
+    * (1) This section applies if:
+
+     * (a) the Registrar refuses to accept from an applicant an application for administrative assessment of child support for a child under subsection 30(2); and
+
+     * (b) one of the reasons for the Registrar so refusing was that the Registrar was not satisfied under section 29 that a person who was to be assessed in respect of the costs of the child is a parent of the child.
+
+    * Applications for declarations
+
+    * (2) An application may be made to a court having jurisdiction under this Act for a declaration that:
+
+     * (a) if the reason referred to in paragraph (1)(b) was the only reason for the Registrar refusing to accept the application--a person should be assessed in respect of the costs of the child because the person is a parent of the child; and
+
+     * (b) if the reason referred to in paragraph (1)(b) was one of the reasons for the Registrar refusing to accept the application--the Registrar should reconsider the application under Division 2 of Part 4 because a person who was to be assessed in respect of the costs of the child is a parent of the child.
+
+    * (3) The application must be made within:
+
+     * (a) the time prescribed by the applicable Rules of Court; or
+
+     * (b) such further time as is allowed under the applicable Rules of Court.
+
+    * Parties
+
+    * (4) Subject to section 145 (Registrar may intervene in proceedings), the parties to the proceeding are:
+
+     * (a) if the application for administrative assessment was made under section 25--each person who was to be assessed in respect of the costs of the child; and
+
+     * (b) if the application for administrative assessment was made under section 25A--the nonparent carer who made the application and the person in respect of whom the declaration is sought.
+
+    * Declarations
+
+    * (5) The court may grant the declaration if the court is satisfied that:
+
+     * (a) if the reason referred to in paragraph (1)(b) was the only reason for the Registrar refusing to accept the application--the person should be assessed in respect of the costs of the child because the person is a parent of the child; or
+
+     * (b) if the reason referred to in paragraph (1)(b) was one of the reasons for the Registrar refusing to accept the application--the Registrar should reconsider the application under Division 2 of Part 4 because the person who was to be assessed in respect of the costs of the child is a parent of the child.
+
+    * (6) If the court grants the declaration:
+
+     * (a) if the reason referred to in paragraph (1)(b) was the only reason for the Registrar refusing to accept the application--the Registrar is taken to have accepted the application for administrative assessment of child support; and
+
+     * (b) if the reason referred to in paragraph (1)(b) was one of the reasons for the Registrar refusing to accept the application--the Registrar must reconsider the application under Division 2 of Part 4.
+
+##### 107  Declaration that a person should not be assessed in respect of the costs of the child
+
+    * (1) If the Registrar accepts an application for administrative assessment of child support for a child, an application may be made, subject to subsection (1A), to a court having jurisdiction under this Act for a declaration that a person should not be assessed in respect of the costs of the child because the person is not a parent of the child.
+
+    * (1A) However, an application must not be made in respect of a child and a person if a court has already declared under section 106A that the person should be assessed in respect of the costs of the child because the person is a parent of the child.
+
+        * Note: In that case, an appeal may be made against the declaration under Division 1 of Part 7.
+
+    * (2) The application must be made within the time prescribed by the applicable Rules of Court or within such further time as is allowed under the applicable Rules of Court.
+
+    * (3) Subject to section 145 (Registrar may intervene in proceedings), the parties to the proceeding are the person who was assessed in respect of the costs of the child and the applicant for administrative assessment of child support.
+
+    * (4) The court may grant the declaration if the court is satisfied that the person should not be assessed in respect of the costs of the child because the person is not a parent of the child.
+
+    * (5) If the court grants the declaration, the application for administrative assessment of child support is to be taken never to have been accepted by the Registrar.
+
+    * (6) If the court grants the declaration, the court must, as soon as practicable, consider making an order under section 143.
+
+##### 107A  Implementation of declaration under section 107 if assessment relates to 2 or more children
+
+    * (1) This section applies if:
+
+     * (a) the Registrar accepts an application for administrative assessment for child support for a child; and
+
+     * (b) a declaration is granted under section 107 that a person should not be assessed in respect of the costs of the child because the person is not a parent of the child; and
+
+     * (c) the administrative assessment of the child support payable for one or more days (the **_affected days_**) in a child support period relates to:
+
+      * (i) that child; and
+
+      * (ii) at least one other child in relation to whom a declaration under section 107 that the person is not the parent of the child has not been granted.
+
+        * Note: As to whether an administrative assessment relates to one or more children, see section 67.
+
+    * (2) The Registrar must amend the administrative assessment on the basis that the assessment of child support payable for the affected days relates, and has always related, to the other child or children, as the case may be.
+
+    * (3) Subject to subsection (4), the total amount of child support (if any) paid by the person, and received by the carer entitled to receive it, under the administrative assessment for the affected days is to be applied against the total amount of child support payable for those days under the assessment as amended.
+
+    * (4) If the total amount of child support received by the carer for the affected days exceeds the total amount payable for those days under the assessment as amended, the excess is to be disregarded.
+
+        * Note: The excess may be recovered under section 143.
+
+    * (5) This section does not limit section 108.
+
+##### 108  Implementation of decisions
+
+    * When a decision of a court under this Division becomes final, the Registrar must immediately take such action as is necessary to give effect to the decision.
+
+##### 109  Pending application not to affect assessment
+
+    * (1) Subject to section 111C of the Registration and Collection Act (Stay orders), the fact that a proceeding is pending under this Division in relation to a person does not, in the meantime, interfere with, or affect, any administrative assessment made in relation to the person, and any such assessment may be registered under the Registration and Collection Act, and amounts of child support and other amounts recovered in relation to the assessment, as if no proceeding were pending.
+
+    * (2) Subsection (1) does not apply in relation to a person in relation to a child if:
+
+     * (a) the person has made an application under section 107 in relation to the child; and
+
+     * (c) there is not a decision of a court determining that ground of the application that has become final.
+
+    * (3) Subsection (2) does not apply in or in relation to the Territories and only extends to a State at a particular time if this Act does not, at that time, extend to the State because of subsection 13(1) or (2).
+
+#### Division 3--Application for amendment of administrative assessment that is more than 18 months old
+
+##### 110  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	Normally, the Registrar cannot make a departure determination under Part 6A, and a court cannot make a departure order under Division 4 of this Part, in respect of a day in a child support period that is more than 18 months earlier.
+
+     *  	Under this Division, a liable parent, a carer entitled to child support or the Registrar can apply to certain courts for leave for a determination or order to be made in respect of a day in a child support period that is more than 18 months earlier.
+
+     *  	A court must not grant leave for such a determination or order to be made in respect of a day in a child support period that is more than 7 years earlier.
+
+     *  	If a court grants leave, the court can decide whether the Registrar should make such a determination or the court should make such an order.
+
+##### 111  Application for amendment of administrative assessment that is more than 18 months old
+
+    * Parent or carer applications
+
+    * (1) A liable parent, or a carer entitled to child support, (the **_applicant_**) may apply to a court having jurisdiction under this Act for leave for:
+
+     * (a) the Registrar to make a determination under section 98S; or
+
+     * (b) the court to make an order under section 118;
+
+    * in respect of a day in a child support period, being a day that is more than 18 months, and less than 7 years, earlier than the day on which the application under this section is made.
+
+    * (2) Subject to section 145 (Registrar may intervene in proceedings), the parties to the proceeding under subsection (1) are:
+
+     * (a) the applicant; and
+
+     * (b) either:
+
+      * (i) the liable parent; or
+
+      * (ii) the carer entitled to child support.
+
+    * Registrar application
+
+    * (3) The Registrar (the **_applicant_**) may apply to a court having jurisdiction under this Act for leave for the Registrar to make a determination under section 98S in respect of a day in a child support period, being a day that is more than 18 months, and less than 7 years, earlier than the day on which the application under this section is made.
+
+    * (4) The parties to the proceeding under subsection (3) are:
+
+     * (a) the applicant; and
+
+     * (b) the liable parent; and
+
+     * (c) the carer entitled to child support.
+
+##### 112  Court may grant leave to amend administrative assessment that is more than 18 months old
+
+    * (1) If an application is made to a court under section 111, the court may grant leave for:
+
+     * (a) the Registrar to make a determination under section 98S; or
+
+     * (b) the court to make an order under section 118.
+
+    * (2) The court may grant leave for an order to be made under section 118 if the court is satisfied that it would be in the interest of the parties to the proceeding for the court to consider, at the same time as it hears the application under section 111, whether an order should be made under section 118. If the court does so, the applicant is taken to have made an application to the court under section 116 for such an order.
+
+    * (3) Otherwise, the court may grant leave for the Registrar to make a determination under section 98S.
+
+    * (3A) To avoid doubt, the court may grant leave for the Registrar to make a determination under section 98S, or for the court to make an order under section 118, irrespective of what the applicant applied for under section 111.
+
+    * Matters to be considered
+
+    * (4) In considering whether to grant leave under subsection (1), the court must have regard to:
+
+     * (a) any responsibility, and reason, for the delay in:
+
+      * (i) making an application under section 98B or 116; or
+
+      * (ii) making a determination under section 98S;
+
+     * as the case requires; and
+
+     * (b) the hardship to the applicant (other than the Registrar) if leave is not granted; and
+
+     * (c) the hardship to the other party or parties (other than the Registrar) if leave is granted.
+
+    * (5) The court may have regard to any other relevant matter.
+
+    * Orders granting leave to specify period
+
+    * (6) An order granting leave under this section must specify the period in respect of which the Registrar may make a determination or the court may make an order.
+
+    * (7) The period specified under subsection (6):
+
+     * (a) must not include a day in a child support period if the day is more than 7 years earlier than the day on which the application under section 111 was made; and
+
+     * (b) is not limited by the terms of that application.
+
+    * No requirement to make determination or order
+
+    * (8) The granting of leave under subsection (1) does not imply that:
+
+     * (a) the Registrar is required to make a determination under section 98S; or
+
+     * (b) the court is required to make an order under section 118.
+
+##### 113  Implementation of decisions
+
+    * When a decision of a court under this Division is made, the Registrar must immediately take such action (if any) as is necessary to give effect to the decision.
+
+##### 113A  Pending application not to affect assessment
+
+    * Subject to section 111C of the Registration and Collection Act (stay orders), the fact that a proceeding is pending under this Division in relation to a person does not, in the meantime, interfere with, or affect, any administrative assessment made in relation to the person, and any such assessment may be registered under the Registration and Collection Act, and amounts of child support and other amounts recovered in relation to the assessment, as if no proceeding were pending.
+
+#### Division 4--Orders for departure from administrative assessment in special circumstances (departure orders)
+
+##### 113B  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	Certain courts can make an order under this Division to depart from the provisions of this Act relating to administrative assessment of child support for a child.
+
+     *  	A person can apply for such an order in certain limited circumstances. (If a person cannot apply for an order under this Division, the person might instead be able to apply for a determination by the Registrar under Part 6A.)
+
+     *  	A court can also make such an order without an application in some circumstances (such as after setting aside a child support agreement).
+
+     *  	A court must not make an order in respect of a day in a child support period that is more than 18 months earlier without leave of the court under section 112.
+
+##### 114  Additional particular objects of Division
+
+    * Additional particular objects of this Division include ensuring: 
+
+     * (a) that children have their proper needs met from reasonable and adequate shares in the income, earning capacity, property and financial resources of both of their parents; and
+
+     * (b) that parents share equitably in the support of their children.
+
+##### 116  Application for order under Division
+
+    * (1) A liable parent or a carer entitled to child support may, in respect of an administrative assessment of child support for a child, apply to a court having jurisdiction under this Act for an order under this Division in relation to the child in the special circumstances of the case if:
+
+     * (a) all of the following apply:
+
+      * (i) the Registrar has, under section 98E or 98R, refused to make a determination under Part 6A in respect of the administrative assessment;
+
+      * (ii) an objection to the refusal has been lodged;
+
+      * (iii) the Registrar has disallowed the objection; or
+
+     * (aa) all of the following apply:
+
+      * (i) a decision has been made in respect of the administrative assessment;
+
+      * (ii) an objection to the decision has been lodged;
+
+      * (iii) in making a decision on the objection, the Registrar has, under section 98E or 98R, refused to make a determination under Part 6A in respect of the administrative assessment; or
+
+     * (ab) the SSAT has, under section 98E or 98R, refused to make a determination under Part 6A in respect of the administrative assessment; or
+
+     * (b) both of the following apply:
+
+      * (i) the liable parent or carer entitled to child support is a party to an application pending in a court having jurisdiction under this Act;
+
+      * (ii) the court is satisfied that it would be in the interest of the liable parent and the carer entitled to child support for the court to consider whether an order should be made under this Division in relation to the child in the special circumstances of the case; or
+
+     * (c) in the case of a liable parent--the administrative assessment of child support payable by the liable parent for the child is made under subsection 66(1).
+
+        * Note 1: For the orders that a court may make under this Division see section 118.
+
+        * Note 2: With a court's leave, a court may make an order under this Division in respect of a day that is more than 18 months earlier than the day on which the relevant application was made (see subsection 118(2B)). A person is taken to have applied under this section if leave is granted.
+
+        * Note 3: A court may make an order under this Division if the court sets aside a child support agreement under section 136.
+
+    * (2) An application may be made by the carer entitled to child support, or the liable parent, in relation to the child.
+
+    * (3) Subject to section 145 (Registrar may intervene in proceedings), the parties to the application are the liable parent and the carer entitled to child support.
+
+##### 117  Matters as to which court must be satisfied before making order
+
+    * Court may make departure order
+
+    * (1) Where:
+
+     * (a) application is made to a court having jurisdiction under this Act for an order under this Division in relation to a child in the special circumstances of the case; and
+
+     * (b) the court is satisfied:
+
+      * (i) that one or more of the grounds for departure mentioned in subsection (2) exists or exist; and
+
+      * (ii) that it would be: 
+
+         * (A) just and equitable as regards the child, the carer entitled to child support and the liable parent; and 
+
+         * (B) otherwise proper;
+
+      * to make a particular order under this Division;
+
+    * the court may make the order.
+
+    * Grounds for departure order
+
+    * (2) For the purposes of subparagraph (1)(b)(i), the grounds for departure are as follows:
+
+     * (a) that, in the special circumstances of the case, the capacity of either parent to provide financial support for the child is significantly reduced because of:
+
+      * (i) the duty of the parent to maintain any other child or another person; or
+
+      * (ii) special needs of any other child or another person that the parent has a duty to maintain; or
+
+      * (iii) commitments of the parent necessary to enable the parent to support: 
+
+         * (A) himself or herself; or 
+
+         * (B) any other child or another person that the parent has a duty to maintain; or
+
+      * (iv) high costs involved in enabling a parent to spend time with, or communicate with, any other child or another person that the parent has a duty to maintain;
+
+     * (aa) that, in the special circumstances of the case, the capacity of either parent to provide financial support for the child is significantly reduced because of the responsibility of the parent to maintain a resident child of the parent (see subsection (10));
+
+     * (b) that, in the special circumstances of the case, the costs of maintaining the child are significantly affected:
+
+      * (i) because of high costs involved in enabling a parent to spend time with, or communicate with, the child; or
+
+      * (ia) because of special needs of the child; or
+
+      * (ib) because of high child care costs in relation to the child; or
+
+      * (ii) because the child is being cared for, educated or trained in the manner that was expected by his or her parents;
+
+     * (c) that, in the special circumstances of the case, application in relation to the child of the provisions of this Act relating to administrative assessment of child support would result in an unjust and inequitable determination of the level of financial support to be provided by the liable parent for the child:
+
+      * (i) because of the income, earning capacity, property and financial resources of the child; or
+
+      * (ia) because of the income, property and financial resources of either parent; or
+
+      * (ib) because of the earning capacity of either parent; or
+
+      * (ii) because of any payments, and any transfer or settlement of property, made or to be made (whether under this Act, the_ Family Law Act 1975 _or otherwise) by the liable parent to the child, to the carer entitled to child support or to any other person for the benefit of the child.
+
+    * High costs involved in enabling parent to care for a child
+
+    * (2B) A parent's costs involved in enabling the parent to care for a child can only be high for the purposes of subparagraph (2)(a)(iv) or (2)(b)(i) if the costs that have been or will be incurred, during a child support period, total more than 5% of the amount worked out by:
+
+     * (a) dividing the parent's adjusted taxable income for the period by 365; and
+
+     * (b) multiplying the quotient by the number of days in the period.
+
+    * (2C) If a parent has at least regular care of a child, then the only costs that can be taken into account for the purposes of subsection (2B) are costs related to travel to enable the parent to spend time with, or communicate with, the child.
+
+    * High child care costs
+
+    * (3A) The ground for departure mentioned in subparagraph (2)(b)(ib) is taken not to exist unless:
+
+     * (a) the costs are incurred by a parent or a nonparent carer; and
+
+     * (b) the child is younger than 12 at the start of the child support period.
+
+    * (3B) Child care costs for a parent can only be high for the purposes of subparagraph (2)(b)(ib) if, during a child support period, they total more than 5% of the amount worked out by:
+
+     * (a) dividing the parent's adjusted taxable income for the period by 365; and
+
+     * (b) multiplying the quotient by the number of days in the period.
+
+    * (3C) Child care costs for a nonparent carer can only be high for the purposes of subparagraph (2)(b)(ib) if, during a child support period, they total at least 25% of the costs of the child for that period.
+
+    * Matters to consider for purposes of subparagraph (1)(b)(ii)
+
+    * (4) In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make a particular order under this Division, the court must have regard to:
+
+     * (a) the nature of the duty of a parent to maintain a child (as stated in section 3); and
+
+     * (b) the proper needs of the child; and
+
+     * (c) the income, earning capacity, property and financial resources of the child; and
+
+     * (d) the income, property and financial resources of each parent who is a party to the proceeding; and
+
+     * (da) the earning capacity of each parent who is a party to the proceeding; and
+
+     * (e) the commitments of each parent who is a party to the proceeding that are necessary to enable the parent to support:
+
+      * (i) himself or herself; or
+
+      * (ii) any other child or another person that the person has a duty to maintain; and
+
+     * (f) the direct and indirect costs incurred by the carer entitled to child support in providing care for the child; and
+
+     * (g) any hardship that would be caused:
+
+      * (i) to: 
+
+         * (A) the child; or 
+
+         * (B) the carer entitled to child support;
+
+      * by the making of, or the refusal to make, the order; and
+
+      * (ii) to: 
+
+         * (A) the liable parent; or 
+
+         * (B) any other child or another person that the liable parent has a duty to support;
+
+      * by the making of, or the refusal to make, the order; and
+
+      * (iii) to any resident child of the parent (see subsection (10)) by the making of, or the refusal to make, the order.
+
+    * (5) In determining whether it would be otherwise proper to make a particular order under this Division, the court must have regard to:
+
+     * (a) the nature of the duty of a parent to maintain a child (as stated in section 3) and, in particular, the fact that it is the parents of a child themselves who have the primary duty to maintain the child; and
+
+     * (b) the effect that the making of the order would have on:
+
+      * (i) any entitlement of the child, or the carer entitled to child support, to an income tested pension, allowance or benefit; or
+
+      * (ii) the rate of any income tested pension, allowance or benefit payable to the child or the carer entitled to child support.
+
+    * Proper needs of the child
+
+    * (6) In having regard to the proper needs of the child, the court must have regard to:
+
+     * (a) the manner in which the child is being, and in which the parents expected the child to be, cared for, educated or trained; and
+
+     * (b) any special needs of the child.
+
+    * Income, earning capacity, property and financial resources
+
+    * (7) In having regard to the income, earning capacity, property and financial resources of the child, the court must:
+
+     * (a) have regard to the capacity of the child to earn or derive income, including any assets of, under the control of, or held for the benefit of, the child that do not produce, but are capable of producing, income; and
+
+     * (b) disregard:
+
+      * (i) the income, earning capacity, property and financial resources of any person who does not have a duty to maintain the child, or who has such a duty but is not a party to the proceeding, unless, in the special circumstances of the case, the court considers that it is appropriate to have regard to them; and
+
+      * (ii) any entitlement of the child or the carer entitled to child support to an income tested pension, allowance or benefit.
+
+    * (7A) In having regard to the income, property and financial resources of a parent of the child, the court must:
+
+     * (a) have regard to the capacity of the parent to derive income, including any assets of, under the control of, or held for the benefit of, the parent that do not produce, but are capable of producing, income; and
+
+     * (b) disregard:
+
+      * (i) the income, earning capacity, property and financial resources of any person who does not have a duty to maintain the child, or who has such a duty but is not a party to the proceeding, unless, in the special circumstances of the case, the court considers that it is appropriate to have regard to them; and
+
+      * (ii) any entitlement of the child or the carer entitled to child support to an income tested pension, allowance or benefit.
+
+    * (7B) In having regard to the earning capacity of a parent of the child, the court may determine that the parent's earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied that:
+
+     * (a) one or more of the following applies:
+
+      * (i) the parent does not work despite ample opportunity to do so;
+
+      * (ii) the parent has reduced the number of hours per week of his or her employment or other work below the normal number of hours per week that constitutes fulltime work for the occupation or industry in which the parent is employed or otherwise engaged;
+
+      * (iii) the parent has changed his or her occupation, industry or working pattern; and
+
+     * (b) the parent's decision not to work, to reduce the number of hours, or to change his or her occupation, industry or working pattern, is not justified on the basis of:
+
+      * (i) the parent's caring responsibilities; or
+
+      * (ii) the parent's state of health; and
+
+     * (c) the parent has not demonstrated that it was not a major purpose of that decision to affect the administrative assessment of child support in relation to the child.
+
+    * Direct and indirect costs in providing care
+
+    * (8) In having regard to the direct and indirect costs incurred by the carer entitled to child support in providing care for the child, the court must have regard to the income and earning capacity foregone by the carer entitled to child support in providing that care.
+
+    * Subsections not to limit consideration of other matters
+
+    * (9) Subsections (4) to (8) (inclusive) do not limit other matters to which the court may have regard.
+
+    * Definition of **resident child**
+
+    * **	(10)	For the purposes of this section, a child is a **_resident child _**of a person only if:
+
+     * (a) the child normally lives with the person, but is not a child of the person; and
+
+     * (b) the person is, or was, for 2 continuous years, a member of a couple; and
+
+     * (c) the other member of the couple is, or was, a parent of the child; and
+
+     * (d) the child is aged under 18; and
+
+     * (e) the child is not a member of a couple; and
+
+     * (f) one or more of the following applies in respect of each parent of the child:
+
+      * (i) the parent has died;
+
+      * (ii) the parent is unable to support the child due to the illhealth of the parent;
+
+      * (iii) the parent is unable to support the child due to the caring responsibilities of the parent; and
+
+     * (g) the court is satisfied that the resident child requires financial assistance.
+
+##### 118  Orders that may be made under Division
+
+    * (1) The orders that a court may make under this Division are as follows:
+
+     * (a) an order varying the annual rate of child support payable by a parent;
+
+     * (b) an order varying a parent's or nonparent carer's cost percentage for a child;
+
+     * (c) an order varying a parent's child support income;
+
+     * (d) an order varying the parents' combined child support income;
+
+     * (e) an order that:
+
+      * (i) the column in the Costs of the Children Table that covers a parent's child support income or combined child support income that is, or is ordered to be, greater than 2.5 times the annualised MTAWE figure for the relevant June quarter, is the column headed "2 to 2.5"; and
+
+      * (ii) the column is to apply as if the second dollar amount in the heading to that column did not apply;
+
+     * (f) an order varying a parent's child support percentage;
+
+     * (g) an order varying a parent's adjusted taxable income;
+
+     * (h) an order varying a parent's relevant dependent child amount or multicase allowance;
+
+     * (i) an order varying a parent's selfsupport amount;
+
+     * (j) an order varying the costs of the children.
+
+    * (2) An order under this section may make different provision in relation to different child support periods and in relation to different parts of a child support period.
+
+    * (2B) A court may only make an order under this Division in respect of a day in a child support period, being a day that is more than 18 months earlier than the day on which the application for the order is made under section 116, if the court has granted leave under section 112 for the order to be made.
+
+    * (2C) If the court has granted leave under section 112, the court may only make an order under this Division in respect of a day in a child support period if the day is within the period specified by the court, under subsection 112(6), in the order granting the leave.
+
+    * (3) If the court makes an order under this section, the court must:
+
+     * (a) give reasons for making the order (including reasons for its satisfaction as required by paragraph 117(1)(b)); and
+
+     * (b) cause the reasons to be entered in the records of the court.
+
+    * (4) Subsection (3) does not apply in relation to an order if:
+
+     * (a) it is an order made by consent; and
+
+     * (b) the carer entitled to child support concerned is not in receipt of an income tested pension, allowance or benefit.
+
+    * (5) A contravention of subsection (3) in relation to an order does not affect the validity of the order.
+
+##### 119  Implementation of orders
+
+    * (1) When a decision of a court making an order under this Division becomes final, the Registrar must immediately take such action as is necessary to give effect to the decision in relation to any administrative assessment that has been made in relation to the child, the carer entitled to child support and the liable parent concerned (whether by amending the assessment or otherwise).
+
+    * (2) In subsequently making an administrative assessment in relation to the child, the carer entitled to child support and the liable parent concerned while the order is in force, the Registrar must act on the basis of the provisions of this Act as modified by the order.
+
+##### 120  Pending proceeding not to affect assessment
+
+    * Subject to section 111C of the Registration and Collection Act (Stay orders), the fact that a proceeding is pending under this Division in relation to a person does not, in the meantime, interfere with, or affect, any administrative assessment made in relation to the person, and any such assessment may be registered under the Registration and Collection Act, and amounts of child support and other amounts recovered in relation to the assessment, as if no proceeding were pending.
+
+#### Division 5--Orders for provision of child support otherwise than in form of periodic amounts paid to carer
+
+##### 121  Additional particular objects of Division
+
+    * Additional particular objects of this Division include ensuring: 
+
+     * (a) that children have their proper needs met from reasonable and adequate shares in the income, earning capacity, property and financial resources of both their parents; and
+
+     * (b) that parents share equitably in the support of their children.
+
+##### 122  Cases in relation to which Division applies
+
+    * This Division applies where a carer entitled to child support wants a liable parent to provide, or a liable parent wants to provide, child support for a child otherwise than in the form of periodic amounts paid to the carer entitled to child support.
+
+##### 123  Application for order under Division
+
+    * (1) An application may be made to a court having jurisdiction under this Act for:
+
+     * (a) an order that a liable parent provide child support otherwise than in the form of periodic amounts paid to the carer entitled to child support; or
+
+     * (b) an order that a liable parent provide child support in the form of a lump sum payment to be credited against the amount payable under the liability under the relevant administrative assessment.
+
+    * (2) An application under subsection (1):
+
+     * (a) may only be made if an administrative assessment is in force in relation to the child, the carer entitled to child support and the liable parent; and
+
+     * (b) may be made by the carer entitled to child support or the liable parent.
+
+    * (3) Before hearing the application, the court must hear and determine any pending application made to the court for an order under Division 3 (administrative assessments more than 18 months old) or Division 4 (departure orders) in relation to the child, the carer entitled to child support and the liable parent.
+
+    * (4) Subject to section 145 (Registrar may intervene in proceedings), the parties to the application are the carer entitled to child support and the liable parent.
+
+##### 123A  Orders for provision of child support in the form of lump sum payment to be credited against amounts payable under liability
+
+    * (1) The court may make an order that a liable parent provide child support for a child to a carer entitled to child support in the form of a lump sum payment to be credited against the amount payable under the liability under the relevant administrative assessment if:
+
+     * (a) the carer entitled to child support or the liable parent makes an application to a court under paragraph 123(1)(b); and
+
+     * (b) the court is satisfied that it would be:
+
+      * (i) just and equitable as regards the child, the carer entitled to child support and the liable parent; and
+
+      * (ii) otherwise proper;
+
+     * to make an order under this section; and
+
+     * (c) the amount of the lump sum payment equals or exceeds the annual rate of child support payable for the child under the administrative assessment.
+
+        * Note: If the court makes such an order, the lump sum payment is credited under section 69A of the Registration and Collection Act against the amount payable under the liable parent's liability (rather than reducing the annual rate of child support payable under the administrative assessment).
+
+    * (2) A lump sum payment may include a payment by way of transfer or settlement of property.
+
+    * (3) An order under subsection (1):
+
+     * (a) must specify the amount of the lump sum payment; and
+
+     * (b) must specify that the lump sum payment is to be credited against 100%, or another specified percentage that is less than 100%, of the amounts payable under the liability.
+
+    * (4) In determining the application made under paragraph 123(1)(b), the court must have regard to:
+
+     * (a) the administrative assessment; and
+
+     * (b) any determination in force under Part 6A (departure determinations) in relation to the child, the carer entitled to child support and the liable parent; and
+
+     * (c) any order in force under Division 4 of this Part (departure orders) in relation to the child, the carer entitled to child support and the liable parent; and
+
+     * (d) whether the carer entitled to child support is in receipt of an income tested pension, allowance or benefit; and
+
+     * (e) if the carer entitled to child support is not in receipt of such a pension, allowance or benefit--whether the circumstances of the carer are such that, taking into account the effect of the order proposed to be made by the court, the carer would be unable to support himself or herself without an income tested pension, allowance or benefit.
+
+    * (5) In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
+
+    * (6) In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent's earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
+
+    * (7) In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
+
+    * (8) Subsections (4), (5), (6) and (7) do not limit the matters to which the court may have regard.
+
+##### 124  Orders for provision of child support otherwise than in form of periodic amounts paid to carer entitled to child support
+
+    * (1) Where:
+
+     * (a) a carer entitled to child support or a liable parent makes an application under paragraph 123(1)(a); and
+
+     * (b) the court is satisfied that it would be:
+
+      * (i) just and equitable as regards the child, the carer entitled to child support and the liable parent; and
+
+      * (ii) otherwise proper;
+
+     * to make an order that the liable parent provide child support for the child otherwise than in the form of periodic amounts paid to the carer entitled to child support;
+
+    * the court may make the order.
+
+    * (2) In determining the application, the court must have regard to:
+
+     * (a) the administrative assessment in force in relation to the child, the carer entitled to child support and the liable parent; and
+
+     * (aa) any determination in force under Part 6A (departure determinations) in relation to the child, the carer entitled to child support and the liable parent; and
+
+     * (b) any order in force under Division 4 (departure orders) in relation to the child, the carer entitled to child support and the liable parent; and
+
+     * (c) whether the carer entitled to child support is in receipt of an income tested pension, allowance or benefit or, if the carer entitled to child support is not in receipt of such a pension, allowance or benefit, whether the circumstances of the carer are such that, taking into account the effect of the order proposed to be made by the court, the carer would be unable to support himself or herself without an income tested pension, allowance or benefit.
+
+    * (3) In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
+
+    * (3A) In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent's earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
+
+    * (4) In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
+
+    * (5) Subsections (2), (3), (3A) and (4) do not limit the matters to which the court may have regard.
+
+##### 125  Court to state relationship between order and assessed child support
+
+    * (1) If the court makes an order under section 124, the court must state in the order whether the annual rate of child support payable by the liable parent under any relevant administrative assessment is to be reduced, in the manner specified under subsection (3), by the child support ordered to be provided by the liable parent.
+
+        * Note: If the court makes a statement under this section that the annual rate of child support is to be reduced, the Registrar must make a provisional notional assessment under section 146B.
+
+    * (2) The court may state that the annual rate of child support payable by the liable parent is not to be so reduced only if it is satisfied that, in the special circumstances of the case, it would be:
+
+     * (a) just and equitable as regards the child, the carer entitled to child support and the liable parent; and
+
+     * (b) otherwise proper;
+
+    * that the annual rate of child support not be reduced by the child support ordered to be provided.
+
+    * (3) If the court states in the order that the annual rate of child support is to be reduced by the child support ordered to be provided, the court must also state in the order either:
+
+     * (a) that the annual rate of child support payable is to be reduced by a specified amount that represents an annual value of the child support to be provided; or
+
+     * (b) that the annual rate of child support payable is to be reduced by 100% or another specified percentage that is less than 100%.
+
+    * (4) The court may, under subsections (1) and (3), make different provision in relation to different child support periods and in relation to different parts of a child support period.
+
+    * (5) In determining whether it would be just and equitable as regards the child, the carer entitled to child support and the liable parent to make a statement of the kind referred to in subsection (2), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
+
+    * (5A) In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent's earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
+
+    * (6) In determining whether it would be otherwise proper to make a statement of the kind referred to in subsection (2), the court must have regard to the matters mentioned in subsection 117(5).
+
+    * (7) Subsections (5), (5A) and (6) do not limit the matters to which the court may have regard.
+
+##### 126  Court to give reasons for order
+
+    * (1) If the court makes an order under section 123A or 124, the court must:
+
+     * (a) give reasons for:
+
+      * (i) making the order; and
+
+      * (ii) if the order is an order under section 123A--the matters specified in the order under subsection 123A(3); and
+
+      * (iii) if the order is an order under section 124--the statement or statements included in the order under section 125; and
+
+     * (b) cause the reasons to be entered in the records of the court.
+
+    * (2) Subsection (1) does not apply in relation to an order if:
+
+     * (a) it is an order made by consent; and
+
+     * (b) the carer entitled to child support concerned is not in receipt of an income tested pension, allowance or benefit.
+
+    * (3) A contravention of subsection (1) in relation to an order does not affect the validity of the order.
+
+##### 127  Effect of orders on administrative assessment of child support
+
+    * (1) This section applies if the court makes an order under section 124 that includes a statement under section 125 that the annual rate of child support payable by a liable parent under an administrative assessment is to be reduced, in the manner specified under subsection 125(3), by the child support ordered to be provided by the liable parent.
+
+    * (2) When the decision of the court making the order becomes final, the Registrar must immediately take such action as is necessary to give effect to the order in relation to any relevant administrative assessment that has been made (whether by amending the assessment or otherwise).
+
+    * (3) In subsequently making a relevant administrative assessment, the Registrar must:
+
+     * (a) work out what would, apart from this Division, be the annual rate of child support payable by the liable parent to the carer entitled to child support; and
+
+     * (b) reduce (but not below 0) that annual rate by the amount or percentage specified in the statement included in the order under subsection 125(3); and
+
+     * (c) make the assessment on the basis of that reduced annual rate.
+
+##### 129  Modification of orders under Division
+
+    * (1) If an order under section 123A or 124 is in force in relation to a child (whether or not all things ordered to be done by the order have been done):
+
+     * (a) the court that made the order; or
+
+     * (b) another court having jurisdiction under this Act in which the order has been registered;
+
+    * may under this section, by order:
+
+     * (c) discharge the order; or
+
+     * (d) suspend its operation wholly or in part and either until further order or until a fixed time or the happening of a future event; or
+
+     * (e) if the operation of the order has been suspended under paragraph (d)--revive its operation wholly or in part; or
+
+     * (f) subject to subsection (3), vary the order (including any matter specified under subsection 123A(3), or any statement made under section 125, included in the order) in any way.
+
+    * (2) The court must not make an order under subsection (1) in relation to the order under section 123A or 124 unless the court is satisfied, having regard in particular to any matter specified under subsection 123A(3), or any statement made under section 125, that it would be:
+
+     * (a) just and equitable as regards the child, the carer entitled to child support and the liable parent concerned; and
+
+     * (b) otherwise proper;
+
+    * to make the order.
+
+    * (3) The court must not, by order under subsection (1), vary an order unless it is also satisfied:
+
+     * (a) that making the variation is justified because of a change in the circumstances of the child, the carer entitled to child support or a liable parent concerned since the order was made or last varied; or
+
+     * (c) that making the variation is justified because of a change in the cost of living since the order was made or last varied; or
+
+     * (d) in a case where the order was made by consent--that the order is not proper or adequate; or
+
+     * (e) that material facts were withheld from the court that made the order or from a court that varied the order, or that material evidence previously given before such a court was false.
+
+    * (4) If the court proposes to vary an order made under section 123A or 124 otherwise than by varying any matter specified in the order under subsection 123A(3), or any statement included in the order under section 125, the court must consider whether, having regard to the proposed variation, it should also order the variation of any such matter or statement.
+
+    * (5) In determining whether it would be just and equitable as regards the child, the carer entitled to child support and a liable parent to make an order under subsection (1), the court must have regard to the matters mentioned in subsections 117(4), (6), (7), (7A) and (8).
+
+    * (5A) In having regard to the earning capacity of a parent of the child under paragraph 117(4)(da), the court may determine that the parent's earning capacity is greater than is reflected in his or her income for the purposes of this Act only if the court is satisfied as mentioned in subsection 117(7B).
+
+    * (6) In determining whether it would be otherwise proper to make an order under subsection (1), the court must have regard to the matters mentioned in subsection 117(5).
+
+    * (7) Subsections (5), (5A) and (6) do not limit the matters to which the court may have regard.
+
+    * (8) In satisfying itself for the purposes of paragraph (3)(d), the court must have regard to any payments, and any transfer or settlement of property, previously made by the liable parent to the child, to the carer entitled to child support or to any other person for the benefit of the child.
+
+    * (9) In satisfying itself for the purposes of paragraph (3)(c), the court must have regard to any changes that have occurred in a relevant Consumer Price Index published by the Australian Statistician.
+
+    * (10) The court must not, in considering the variation of an order, have regard to a change in the cost of living unless at least 12 months have elapsed since the order was made, or was last varied having regard to a change in the cost of living.
+
+    * (11) Subject to any order made under section 131, the discharge of an order does not affect the recovery of arrears due under the order, or under this Act, when the discharge takes effect.
+
+##### 130  Court to give reasons for modifications
+
+    * (1) If the court makes an order under section 129, the court must:
+
+     * (a) give reasons:
+
+      * (i) for making the order; and
+
+      * (ii) if the court varies an order made under section 124 otherwise than by varying any statement included in the order under section 125 and does not order the variation of any such statement--for not ordering the variation of any such statement; and
+
+     * (b) cause the reasons to be entered in the records of the court.
+
+    * (2) Subsection (1) does not apply in relation to an order made by consent.
+
+    * (3) A contravention of subsection (1) in relation to an order does not affect the validity of the order.
+
+##### 131  Court may make orders consequential upon the discharge of orders etc.
+
+    * (1) This section applies where an order under section 123A or 124 is discharged by a court under section 129 or ceases to be in force because of section 142 (Cessation of orders under Act).
+
+    * (2) A court having jurisdiction under this Act may make such orders (including orders for the transfer of property) as it considers just and equitable for the purpose of preserving or adjusting the rights of the child concerned or a person who is or was a carer entitled to child support, or a liable parent, in relation to the child.
+
+    * (3) An order under subsection (2) may be made in the proceeding in which the order is discharged or in another proceeding brought on the application of a person who is or was a carer entitled to child support, or a liable parent, in relation to the child concerned.
+
+    * (4) In the exercise of its powers under this section, a court must have regard to the interests of, and must make any order proper for the protection of, a _bona fide _purchaser or other person interested.
+
+#### Division 6--Setting aside accepted child support agreements
+
+##### 135  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	Certain courts may set aside a child support agreement or a termination agreement if: 
+
+        * (a) the agreement of one of the parties was obtained by fraud, undue influence or unconscionable conduct; or
+
+        * (b) there has been a significant change in circumstances; or
+
+        * (c) the annual rate of child support payable under the agreement is not proper or adequate; or
+
+        * (d) exceptional circumstances arise after the agreement is made.
+
+##### 136  Power of court to set aside child support agreements or termination agreements
+
+    * (1) A party to either of the following agreements may apply to a court having jurisdiction under this Act for the court to set aside the agreement:
+
+     * (a) a child support agreement that has been accepted by the Registrar under section 92 or 98U;
+
+     * (b) a termination agreement, or a written agreement referred to in paragraph 80G(1)(b), that has been accepted by the Registrar under section 92.
+
+    * (2) If a party has applied under subsection (1), the court may set aside the agreement in accordance with the application if the court is satisfied:
+
+     * (a) that the party's agreement was obtained by fraud or a failure to disclose material information; or
+
+     * (b) that another party to the agreement, or someone acting for another party:
+
+      * (i) exerted undue influence or duress in obtaining that agreement; or
+
+      * (ii) engaged in unconscionable or other conduct;
+
+     * to such an extent that it would be unjust not to set aside the agreement; or
+
+     * (c) in the case of a limited child support agreement:
+
+      * (i) that because of a significant change in the circumstances of one of the parties to the agreement, or a child in respect of whom the agreement is made, it would be unjust not to set aside the agreement; or
+
+      * (ii) that the agreement provides for an annual rate of child support that is not proper or adequate, taking into account all the circumstances of the case (including the financial circumstances of the parties to the agreement); or
+
+     * (d) in the case of a binding child support agreement--that because of exceptional circumstances, relating to a party to the agreement or a child in respect of whom the agreement is made, that have arisen since the agreement was made, the applicant or the child will suffer hardship if the agreement is not set aside.
+
+    * (3) Subject to section 145 (Registrar may intervene in proceedings), the parties to a proceeding under subsection (1) are the parties to the agreement.
+
+    * (4) If:
+
+     * (a) the court sets aside a child support agreement under this section; and
+
+     * (b) the court is satisfied as mentioned in paragraph 117(1)(b) (departure orders);
+
+    * the court may make an order under Division 4 of Part 7 without an application having been made under section 116.
+
+    * (5) If:
+
+     * (a) the court sets aside a child support agreement under this section; and
+
+     * (b) the court is not satisfied as mentioned in paragraph 117(1)(b) (departure orders); and
+
+     * (c) the payee has received or will receive benefits pursuant to the agreement;
+
+    * the court may still make an order that departs from the administrative assessment where it is just and equitable to do so, having regard to the benefits that the payee has already received pursuant to the agreement.
+
+##### 137  Court may make orders consequential on setting aside of agreement
+
+    * (1) This section applies where an agreement made in relation to a child is set aside under section 136.
+
+    * (2) A court having jurisdiction under this Act may make such orders (including orders for the transfer of property) as it considers just and equitable for the purpose of preserving or adjusting the rights of the child or a party to the agreement.
+
+    * (3) An order under subsection (2) may be made in the proceeding in which the agreement is set aside or in another proceeding brought on the application of a party to the agreement.
+
+    * (4) In the exercise of its powers under this section, a court must have regard to the interests of, and must make any order proper for the protection of, a _bona fide _purchaser or other person interested.
+
+##### 138  Implementation of decisions
+
+    * When a decision of a court under this Division becomes final, the Registrar must immediately take such action as is necessary to give effect to the decision for the purposes of this Act (whether by amending any administrative assessment or otherwise).
+
+#### Division 7--Urgent maintenance orders
+
+##### 138A  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	A court may make an order for the payment of child support if: 
+
+        * (a) a child is in urgent need of financial assistance; and
+
+        * (b) an application has been made for an administrative assessment in relation to the child.
+
+##### 139  Urgent maintenance orders
+
+    * (1) Where, at any time after an application has been made to the Registrar for administrative assessment of child support for a child (whether or not the Registrar has accepted or refused to accept the application), a court having jurisdiction under this Act is of the opinion that the child is in urgent need of financial assistance, the court may order the payment of such periodic or other amount as the court considers appropriate.
+
+    * (2) Subject to subsection (2A) and section 152, an order under subsection (1) has effect for the period specified in the order.
+
+    * (2A) If:
+
+     * (a) the Registrar has made a decision refusing to accept the application for administrative assessment of child support; and
+
+     * (b) the order under subsection (1) has not sooner ceased to have effect under subsection (2);
+
+    * the order ceases to have effect: 
+
+     * (c) if the decision of the Registrar becomes final--at the time when that decision becomes final; or
+
+     * (d) if:
+
+      * (i) the decision of the Registrar does not become final; and
+
+      * (ii) one of the reasons for the Registrar so refusing was that the Registrar was not satisfied under section 29 that a person who was to be assessed in respect of the costs of the child is a parent of the child;
+
+     * at the time when a decision of a court becomes final, being a decision (whether under section 106A or on appeal from a decision of a court under that section) that the person is not a parent of the child; or
+
+     * (e) in any other case--at the time when a decision that the applicant was not entitled to administrative assessment of child support becomes final, being a decision:
+
+      * (i) of the SSAT under Part VIIA of the Registration and Collection Act; or
+
+      * (ii) of a court under Subdivision B of Division 3 of Part VIII of the Registration and Collection Act or on appeal from a decision of a court under that Subdivision.
+
+    * (2B) For the purposes of subsection (2A), a decision of the Registrar refusing to accept an application for administrative assessment of child support becomes final if an application:
+
+     * (a) to a court under section 106A (declarations of entitlement to administrative assessment); or
+
+     * (b) to the SSAT under Part VIIA of the Registration and Collection Act;
+
+    * is not made within the period for doing so. The application becomes final at the end of the period.
+
+        * Note: For determining when decisions of the SSAT become final, see subsection 110W(1) of the Registration and Collection Act.
+
+    * (3) A proceeding under this section may be instituted by the applicant for administrative assessment of child support against a person who was to be assessed in respect of the costs of the child.
+
+#### Division 8--Provisions relating to court orders
+
+##### 140A  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	In exercising jurisdiction under this Act, a court has broad powers.
+
+     *  	An amount of child support paid when there is no liability to do so may be recovered in a court.
+
+##### 141  General powers of court
+
+    * (1) In exercising its powers under this Act, a court may do all or any of the following:
+
+     * (a) order payment of a lump sum, whether in one amount or by instalments;
+
+     * (b) order payment of a weekly, monthly, yearly or other periodic amount;
+
+     * (c) order that a specified transfer or settlement of property be made;
+
+     * (d) order that payment of an amount ordered to be paid be wholly or partly secured as the court specifies;
+
+     * (e) order that any necessary deed or instrument be executed, and that such documents of title be produced and such other things be done, as are necessary to enable an order to be carried out effectively or to provide security for the due performance of an order;
+
+     * (f) order that payment be made to a specified person or public authority or into court;
+
+     * (g) make a permanent order, an order pending the disposal of proceedings, an order for a fixed period, an order until a child attains a specified age or an order until further order;
+
+     * (h) make an order expressed to be retrospective to such day as the court considers appropriate;
+
+     * (j) subject to section 129 (Modification of orders under Division 5), make an order:
+
+      * (i) discharging an order; or
+
+      * (ii) suspending the operation of an order wholly or in part and either until further order or until a fixed time or the happening of a future event; or
+
+      * (iii) reviving wholly or in part the operation of an order that has been suspended; or
+
+      * (iv) varying an order in any way;
+
+     * (k) make an order imposing terms and conditions;
+
+     * (m) make an order by consent;
+
+     * (n) make any other order (whether or not of the same kind as those referred to in paragraphs (a) to (m) (inclusive)) that the court considers appropriate;
+
+     * (p) make an order at any time.
+
+    * (2) The making of an order of a kind referred to in paragraph (1)(c), or of any other order under this Act, in relation to a child does not prevent a court from making a subsequent order (whether under this Act or otherwise) in relation to the child.
+
+    * (3) The applicable Rules of Court may make provision with respect to the making of orders under this Act (whether as to their form or otherwise) for the purpose of facilitating their enforcement and the collection of any child support payable under them.
+
+##### 142  Cessation of orders under Act
+
+    * (1) Where an order made under this Act is in force in relation to a child and:
+
+     * (a) a child support terminating event happens in relation to the child; or
+
+     * (b) if there is a carer entitled to child support and a liable parent in relation to the child--a child support terminating event happens in relation to the carer entitled to child support, the liable parent or all 3 of them; or
+
+     * (c) if there is not a carer entitled to child support and a liable parent in relation to the child, one of the following events happens:
+
+      * (i) the person on whose application the order was made: 
+
+         * (A) dies; or 
+
+         * (B) ceases to be an eligible carer of the child;
+
+      * (ii) the person against whom the order was made: 
+
+         * (A) dies; or 
+
+         * (B) ceases to be a resident of ;
+
+    * the order ceases to be in force.
+
+    * (1A) Subsubparagraph (1)(c)(ii)(B) does not apply in relation to an international maintenance arrangement.
+
+    * (2) Nothing in this section affects the recovery of arrears due under an order when the order ceases to be in force.
+
+##### 143  Amounts paid where no liability to pay exists etc.
+
+    * (1) If:
+
+     * (a) an amount of child support is paid by a person (the **_payer_**) to another person (the **_payee_**); and
+
+     * (b) the payer is not liable, or subsequently becomes not liable, to pay the amount to the payee;
+
+    * the amount may be recovered from the payee in a court having jurisdiction under this Act.
+
+    * (2) If:
+
+     * (a) an amount is paid by a person (the **_payer_**) to another person (the **_payee_**) for a child in relation to a period under an order made under section 139 (urgent maintenance orders); and
+
+     * (b) child support does not become payable by the payer to the payee for the child in relation to the period;
+
+    * the amount may be recovered from the payee in a court having jurisdiction under this Act.
+
+    * (3) In proceedings in a court under this section, the court may make such orders in relation to the payee as it considers just and equitable for the purposes of adjusting, or giving effect to, the rights of the parties and of the child concerned.
+
+    * (3A) If:
+
+     * (a) a person (the **_payer_**) has paid an amount of child support to another person (the **_payee_**); and
+
+     * (b) the court has made a declaration under section 107 that the payer should not be assessed in respect of the costs of the child because the payer is not a parent of the child; and
+
+     * (c) the court:
+
+      * (i) is considering whether to make an order under this section; or
+
+      * (ii) if such an order is to be made, is determining the amount that is to be recovered and whether payment is to be made in the form of a lump sum payment or a periodic amount;
+
+    * then the court must have regard to the matters set out in subsection (3B). This subsection does not limit subsection (3).
+
+    * (3B) For the purposes of subsection (3A), the court must have regard to the following matters:
+
+     * (a) whether the payee or the payer knew or suspected, or should reasonably have known or suspected, that the payer was not a parent of the child;
+
+     * (b) whether the payee or the payer engaged in any conduct (by act or omission) that directly or indirectly resulted in the application for administrative assessment of child support for the child being accepted by the Registrar;
+
+     * (c) whether there was any delay by the payer in applying under section 107 for a declaration once he or she knew, or should reasonably have known, that he or she was not a parent of the child;
+
+     * (d) whether there is any other child support that is, or may become, payable to the payee for the child by the person who is a parent of the child;
+
+     * (e) the relationship between the payer and the child;
+
+     * (f) the financial circumstances of the payee and the payer.
+
+    * (4) An amount paid to the Commonwealth under section 30 of the Registration and Collection Act is to be taken, for the purposes of this section, to have been paid to the payee.
+
+#### Division 9--Miscellaneous
+
+##### 143A  Simplified outline
+
+    * The following is a simplified outline of this Division: 
+
+     *  	A court may dismiss, or make orders in respect of, a frivolous or vexatious proceeding.
+
+     *  	A decision of a court becomes final at the end of the period for appealing against the decision if no appeal is made.
+
+     *  	The Registrar may intervene in any proceeding under this Act.
+
+##### 143B  Frivolous or vexatious proceedings
+
+    * (1) A court having jurisdiction under this Act may, at any stage of a proceeding instituted in the court under this Act, if it is satisfied that the proceeding is frivolous or vexatious, do one or more of the following:
+
+     * (a) dismiss the proceeding;
+
+     * (b) make such order as to costs as the court considers just;
+
+     * (c) if the court considers it appropriate, on the application of a party to the proceeding--order that the person who instituted the proceeding must not, without leave of a court having jurisdiction under this Act, institute a proceeding under this Act or the Registration and Collection Act of the kind or kinds specified in the order.
+
+    * (2) An order made by a court under paragraph (1)(c) has effect notwithstanding any other provision of this Act or the Registration and Collection Act.
+
+    * (3) A court may discharge or vary an order made by that court under subsection (1).
+
+##### 144  Determining when decision of a court becomes final
+
+    * For the purpose of determining when a decision of a court becomes final: 
+
+     * (a) if the decision is not a decision of a Full Court of the Family Court and an application is not made for leave to appeal against the decision within the period for making such an application--the decision becomes final at the end of that period; or
+
+     * (b) if the decision is a decision of a Full Court of the Family Court and an application is not made for special leave to appeal to the High Court within the period of 30 days after the making of the decision--the decision becomes final at the end of that period.
+
+##### 145  Registrar may intervene in proceedings
+
+    * (1) The Registrar may intervene in, and contest and argue any question arising in, a proceeding under this Act.
+
+    * (2) If the Registrar intervenes in a proceeding under this Act, the Registrar is to be taken to be a party to the proceeding with all the rights, duties and liabilities of a party.
+
+    * (3) This section does not limit Part IX of the_ Family Law Act 1975_.
+
+##### 146  Copies of orders to be forwarded to Registrar
+
+    * (1) Where a court having jurisdiction under this Act makes an order under this Act, the registrar or other responsible officer of the court must, within 28 days after the day on which the order is made, send a certified or sealed copy of the order to the Child Support Registrar.
+
+    * (2) The Child Support Registrar may, by written notice served on the registrar or other responsible officer of a court, vary, in relation to the court, in such instances and to such extent as the Child Support Registrar considers appropriate, the requirement of subsection (1).
+
+### Part 7A--Notional assessments
+
+#### Division 1--Preliminary
+
+##### 146A  Simplified outline
+
+    * The following is a simplified outline of this Part: 
+
+     *  	If the Registrar accepts a certain kind of child support agreement, or the court makes a certain kind of order, the Registrar must make a provisional notional assessment of the annual rate of child support that would be payable for a day in a child support period if child support were payable under Part 5 instead of under the agreement or order.
+
+     *  	The notional assessment is used in the maintenance income test in working out a person's Part A rate of family tax benefit under the _A New Tax System (Family Assistance) Act 1999_.
+
+     *  	A parent may estimate their adjusted taxable income for the purposes of making a provisional notional assessment.
+
+#### Division 2--Notional assessments
+
+##### 146B  Provisional notional assessments
+
+    * (1) The Registrar must make a provisional notional assessment in accordance with this section if:
+
+     * (a) the Registrar makes an assessment under section 34B or section 93; or
+
+     * (b) a court makes a statement under section 125, in an order under section 124, that an annual rate of child support payable is to be reduced.
+
+    * (2) The Registrar must make a provisional notional assessment of the annual rate of child support that would be payable for a child for a particular day in a child support period, by the liable parent to the carer entitled to child support, if that annual rate were payable under Part 5 (taking into account any relevant determination under Part 6A, or any relevant order under Division 4 of Part 7, and taking into account section 146BA) for the child for that day instead of under the agreement or order.
+
+    * (3) The Registrar must serve notice in writing of the provisional notional assessment on the liable parent and the carer entitled to child support.
+
+    * (4) The notice must specify in respect of the provisional notional assessment the matters that are required under section 69 and subsection 76(2) (disregarding subsection 76(2A)) in respect of an administrative assessment.
+
+    * (5) The notice must include, or be accompanied by, a statement to the effect that:
+
+     * (a) the liable parent or the carer entitled to child support can seek a variation of the provisional notional assessment in accordance with section 146C within 14 days of receiving the notice; and
+
+     * (b) once the provisional notional assessment becomes a notional assessment under section 146E, the liable parent or the carer entitled to child support may, subject to the Registration and Collection Act, object to the particulars of the notional assessment; and
+
+     * (c) if aggrieved by a later decision on an objection to those particulars, the liable parent or the carer entitled to child support may, subject to that Act, apply to the SSAT for review of the later decision.
+
+##### 146BA  Application of Part 5 to provisional notional assessments
+
+    * (1) In making a provisional notional assessment, Part 5 applies as if:
+
+     * (a) subject to this section, a reference in the Part to an assessment, or an administrative assessment, were a reference to a provisional notional assessment; and
+
+     * (b) subsections 44(5) and (6), Subdivision C of Division 7, and sections 35C, 66C, 69 and 76 to 79 did not apply; and
+
+     * (c) in paragraph 54B(2)(a), the reference to the day on which an application referred to in subparagraph 49(1)(a)(i) or 50(1)(a)(i) is made were a reference to the particular day in respect of which the provisional notional assessment is made; and
+
+     * (d) subparagraph 65A(1)(b)(ii) were omitted and substituted with the following:
+
+      * "(ii)	if the parent made an election under subsection 146G(1) relating to the child--the amount estimated by the parent under that subsection.".
+
+    * (2) Part 5 ceases to apply once a provisional notional assessment becomes a notional assessment.
+
+##### 146C  Variation of provisional notional assessments
+
+    * (1) A liable parent or carer entitled to child support (the **_applicant_**) may seek a variation of a provisional notional assessment within 14 days of receiving a notice under section 146B in respect of the provisional notional assessment by doing one or more of the following:
+
+     * (a) by notifying the Registrar of a change to the percentage of care that the liable parent or the carer entitled to child support has for the child for the particular day in the child support period in respect of which the provisional notional assessment is made;
+
+     * (aa) by making an application under section 44 to amend the provisional notional assessment;
+
+     * (ab) by making an application under section 66A to reduce the annual rate of child support payable to nil;
+
+     * (b) by making an application under section 146D for a determination under Part 6A (departure determinations);
+
+     * (c) if the applicant is a parent of the relevant child--by making an election under subsection 146G(1) (estimate of adjusted taxable income).
+
+        * Note: A person who does not receive a notice that is served on the person is taken to have received the notice 14 days after the notice was served (see subsection 146E(2)).
+
+    * (2) The Registrar may vary the provisional notional assessment of the annual rate of child support that would be payable for the child for the particular day if:
+
+     * (a) an applicant seeks a variation in accordance with subsection (1); and
+
+     * (b) any one or more of the following applies:
+
+      * (i) if paragraph (1)(a) applies--the Registrar determines a different percentage of care for the parent or the carer for the child for the particular day under Division 4 of Part 5;
+
+      * (ia) if paragraph (1)(ab) applies--the Registrar makes a determination under subsection 44(2);
+
+      * (ib) if paragraph (1)(aa) applies--the Registrar reduces the annual rate of child support payable to nil;
+
+      * (ii) if paragraph (1)(b) applies--the Registrar makes a determination in respect of the child under section 98S;
+
+      * (iii) if paragraph (1)(c) applies--the Registrar does not refuse to accept the election under section 146H.
+
+    * (3) The Registrar may refuse to vary the provisional notional assessment if:
+
+     * (a) the liable parent or the carer entitled to child support seeks a variation to the provisional notional assessment in accordance with subsection (1); and
+
+     * (b) any of the following applies:
+
+      * (i) if paragraph (1)(a) applies--the Registrar does not determine a different percentage of care for the parent or carer for the child for the particular day under Division 4 of Part 5;
+
+      * (ia) if paragraph (1)(ab) applies--the Registrar refuses to make a determination under subsection 44(2);
+
+      * (ib) if paragraph (1)(aa) applies--the Registrar refuses to grant an application under section 66A;
+
+      * (ii) if paragraph (1)(b) applies--the Registrar refuses to make a determination in respect of the child under section 98S;
+
+      * (iii) if paragraph (1)(c) applies--the Registrar refuses to accept the election under section 146H; and
+
+     * (c) if the liable parent or carer entitled to child support seeks a variation by doing more than one of the things mentioned in subsection (1)--the Registrar has not already varied the provisional notional assessment under subsection (2).
+
+    * (4) The liable parent and the carer entitled to child support are not entitled:
+
+     * (a) to make an application to the SSAT under section 89 of the Registration and Collection Act; or
+
+     * (b) to make an application to a court under section 116;
+
+    * in respect of the making of, or refusal to make, a determination under Part 6A.
+
+        * Note: Instead, once the provisional notional assessment becomes a notional assessment, an objection can be made to the particulars of the notional assessment under section 80 or 80A of the Registration and Collection Act.
+
+##### 146D  Departure determinations in respect of provisional notional assessments
+
+    * (1) A person may, by written application, ask the Registrar to make a determination under Part 6A (departure determinations) if:
+
+     * (a) a provisional notional assessment has not yet become a notional assessment under section 146E; and
+
+     * (b) the person is of the view that, because of special circumstances that exist, the provisions of this Act relating to administrative assessment of child support should be departed from for the purposes of making the provisional notional assessment; and
+
+     * (c) the person has not previously applied under this section in relation to the provisional notional assessment.
+
+    * (2) If a person makes an application under subsection (1), Division 2 of Part 6A applies as if:
+
+     * (a) references in that Division to an administrative assessment were references to the provisional notional assessment; and
+
+     * (b) section 98JA did not apply.
+
+    * (3) If:
+
+     * (a) an application (the **_original application_**) is made under section 98B in relation to an administrative assessment; and
+
+     * (b) before the Registrar decides the application, the Registrar accepts an agreement under section 98U that is entered into by the parties to the proceedings concerned; and
+
+     * (c) a provisional notional assessment is made because of section 34B applying as mentioned in paragraph 98U(4)(a);
+
+    * then the original application is taken to be an application made under subsection (1) of this section.
+
+##### 146E  Notional assessments
+
+    * (1) A provisional notional assessment becomes a **_notional assessment_**:
+
+     * (a) 14 days after the notice of the provisional notional assessment is received by all the parties under section 146B; or
+
+     * (b) if a liable parent or a carer entitled to child support seeks a variation to the provisional notional assessment in accordance with section 146C--on the day on which the Registrar varies, or refuses to vary, the provisional notional assessment under that section.
+
+    * (2) For the purposes of this section and section 146C, if a person does not receive a notice served under section 146B before 14 days after the day on which the notice was served on the person by post at the person's last known address, the person is taken to have received the notice on the 14th day.
+
+    * (3) To avoid doubt, subsection (2) applies whether the person receives the notice after the time referred to in that subsection or does not receive the notice at all.
+
+    * (4) After a provisional notional assessment becomes a notional assessment, the Registrar must serve notice in writing of the notional assessment on the liable parent and the carer entitled to child support.
+
+    * (5) The notice must specify in respect of the notional assessment the matters that are required by section 69 and subsection 76(2) in respect of an administrative assessment.
+
+    * (6) The notice must include, or be accompanied by, a statement to the effect that:
+
+     * (a) the party may, subject to the Registration and Collection Act, object to the particulars of the notional assessment; and
+
+     * (b) if aggrieved by a later decision on an objection to those particulars, may, subject to that Act, apply to the SSAT for review of the later decision.
+
+    * (7) A contravention of subsection (5) or (6) does not affect the validity of the notional assessment.
+
+##### 146EA  Amendment of notional assessment
+
+    * (1) The Registrar must amend a notional assessment of the annual rate of child support that would be payable for a child (the **_first child_**) for a particular day in a child support period if:
+
+     * (a) another child in the child support case that relates to the first child is not covered by the relevant child support agreement or the order that was made in relation to the first child; and
+
+     * (b) the administrative assessment of the child support payable for the other child for any day (the **_changed assessment day_**) in any child support period changes.
+
+    * (2) The Registrar must amend the notional assessment as if:
+
+     * (a) despite subsection 146BA(2), section 67A (offsetting) applied on the changed assessment day; and
+
+     * (b) the annual rate of child support that would be payable for the first child for the particular day were instead payable for the changed assessment day.
+
+##### 146F  Later provisional notional assessments
+
+    * The Registrar must make a new provisional notional assessment under section 146B: 
+
+     * (a) if the relevant child support agreement or court order continues in force for more than 3 years--at the end of the 3 year period after the most recent notional assessment relating to the agreement or order was made; or
+
+     * (b) if the relevant child support agreement was a limited child support agreement--on the request of a party to the agreement; or
+
+     * (c) in any case--if the amount of child support that is payable under the relevant child support agreement or court order for a day in the child support period changes by more than 15% from the previous day.
+
+#### Division 3--Estimating adjusted taxable income for notional assessments
+
+##### 146G  Estimating adjusted taxable income for purposes of notional assessments
+
+    * (1) Before a provisional notional assessment relating to a child becomes a notional assessment under section 146E, a parent of the child may elect that, for the purposes of making the provisional notional assessment, the parent's adjusted taxable income for the 12 month period beginning on the particular day in the child support period in respect of which the provisional notional assessment is made is the amount estimated by the parent.
+
+    * (2) However, a parent may not make an election under this section in relation to a child if an order or determination referred to in paragraph (a) of the definition of **_income amount order_** is in force, or would be in force but for the existence of the relevant child support agreement, in relation to the parent and the particular day in the child support period in respect of which the provisional notional assessment is made.
+
+    * Election must be for amount less than adjusted taxable income for last relevant year of income
+
+    * (3) The parent may make an election relating to a child only if the amount that he or she estimates under subsection (1) is not more than 85% of the total of the parent's adjusted taxable income for the last relevant year of income for the child support period.
+
+    * How election is made
+
+    * (4) The parent makes the election by giving notice of it to the Registrar in the manner specified by the Registrar. The notice must specify the amount the parent estimates to be his or her adjusted taxable income.
+
+##### 146H  Registrar may refuse to accept election
+
+    * (1) The Registrar may refuse to accept the parent's election if the Registrar is satisfied that the amount the parent estimated under subsection 146G(1) is likely to be less than the actual amount that would be the parent's adjusted taxable income for that 12 month period.
+
+        * Note: If the Registrar refuses to accept the election, he or she may refuse to vary the provisional notional assessment under subsection 146C(3).
+
+    * (2) In making the decision as to whether to refuse the election, the Registrar:
+
+     * (a) may act on the basis of information that the Registrar has received or obtained as to the financial circumstances of the parent; and
+
+     * (b) may, but is not required to, conduct an inquiry into the matter.
+
+    * (3) Except for the purposes of Parts VII, VIIA and VIII of the Registration and Collection Act (dealing with objections and appeals), if the Registrar refuses to accept an election, the election is taken never to have been made.
+
+##### 146J  Effect of election
+
+    * (1) If a parent makes an election under subsection 146G(1) relating to a child, then, for the purposes of making the provisional notional assessment, the parent's adjusted taxable income is the amount the parent estimated.
+
+    * (2) Subsection (1) has effect subject to any order or determination referred to in paragraph (a) of the definition of **_income amount order_** that is made after the making of the election that applies in relation to the parent and the particular day in the child support period in respect of which the provisional notional assessment is made.
+
+    * (3) The Registrar must take such action as is necessary to give effect to subsection (1) in relation to the provisional notional assessment that has been made in relation to the parent and the child (whether by varying the provisional notional assessment or otherwise).
+
+##### 146K  Revocation of election
+
+    * (1) Before a provisional notional assessment becomes a notional assessment under section 146E, a parent who has made an election under subsection 146G(1) in relation to a child may, by notice given to the Registrar, revoke the election.
+
+    * (2) A notice given to the Registrar must be given in the manner specified by the Registrar.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in which a notice may be given.
+
+##### 146L  Effect of revocation
+
+    * (1) If a parent who made an election under section 146G relating to a child revokes the election and substitutes a new election before the provisional notional assessment becomes a notional assessment under section 146E, then, for the purposes of making the provisional notional assessment, the parent's adjusted taxable income is the amount the parent elected in the new election.
+
+    * (2) Subsection (1) has effect subject to any order or determination referred to in paragraph (a) of the definition of **_income amount order_** that is made after the making of the election that applies in relation to the parent and the particular day in the child support period in respect of which the provisional notional assessment is made.
+
+    * (3) The Registrar must take such action as is necessary to give effect to subsection (1) in relation to the provisional notional assessment that has been made in relation to the parent and the child (whether by varying the provisional notional assessment or otherwise).
+
+    * (4) This section does not prevent:
+
+     * (a) the Registrar making a determination under Part 6A; or
+
+     * (b) a court making any order under Division 4 of Part 7; or
+
+     * (c) the making, and acceptance by the Registrar, of a child support agreement that includes provisions that have effect, for the purposes of Part 5, as if they were such an order made by consent.
+
+### Part 8--Administration
+
+##### 147  Secretary has general administration of Act
+
+    * The Secretary has the general administration of this Act.
+
+##### 148  Annual report
+
+    * (1) The Secretary must, as soon as practicable after 30 June in each year, give to the Minister a report on the working of this Act.
+
+    * (2) The Minister must cause a copy of the report to be laid before each House of the Parliament.
+
+    * (3) For the purposes of section 34C of the _Acts Interpretation Act 1901_, a report that is required by subsection (1) to be furnished as soon as practicable after 30 June in a year is to be taken to be a periodic report relating to the working of this Act during the year ending on that 30 June.
+
+##### 149  Delegation 
+
+    * (1) The Registrar may, in writing, delegate all or any of the Registrar's powers or functions under this Act to an officer or employee of the Department or the Human Services Department.
+
+    * (1AA) The Registrar may, in writing, delegate all or any of his or her powers or functions under this Act to the Chief Executive Centrelink.
+
+    * (1A) Without limiting the generality of subsection (1), the Registrar may also, in writing, delegate all or any of the Registrar's powers or functions to a person engaged by the Registrar for the purposes of Part 6A.
+
+    * (2) A delegation may be made subject to a power of review and alteration by the Registrar, within a period specified in the delegation, of acts done under the delegation.
+
+    * (3) A delegation continues in force even though there has been a change in the occupancy of, or there is a vacancy in, the office of Registrar, but, for the purposes of the application of subsection 33(3) of the _Acts Interpretation Act 1901 _in relation to such a delegation, nothing in any law is to be taken to preclude the revocation or variation of the delegation by the same or a subsequent holder of the office.
+
+##### 150  Secrecy
+
+    * (1) In this section:
+
+    * **_court_** includes any tribunal, authority or person having power to require the production of documents or the answering of questions.
+
+    * **_person to whom this section applies_** means a person who is or has been:
+
+     * (a) the Minister; or
+
+     * (aa) the Human Services Minister; or
+
+     * (b) appointed or employed by, or a provider of services for, the Commonwealth; or
+
+     * (c) a person to whom protected information is communicated under subsection (3), (4) or (4G); or
+
+     * (d) a person to whom protected information is communicated by:
+
+      * (i) a person to whom the information was communicated under subsection (3) or (4); or
+
+      * (ii) a person mentioned in this paragraph; or
+
+     * (e) a person to whom this section applied immediately before the commencement of Schedule 5 to the _Child Support Legislation Amendment Act 2001_.
+
+    * **_produce_** includes permit access to.
+
+    * **_protected document _**means:
+
+     * (a) a document that:
+
+      * (i) contains information that concerns a person; and
+
+      * (ii) is obtained or made by another person in the course of, or because of, the other person's duties under or in relation to this Act; or
+
+     * (b) a document to which paragraph (a) applied that is communicated to a person in circumstances authorised by this section.
+
+    * **_protected information _**means:
+
+     * (a) information that:
+
+      * (i) concerns a person; and
+
+      * (ii) is disclosed to or obtained by another person in the course of, or because of, the other person's duties under or in relation to this Act; or
+
+     * (b) information to which paragraph (a) applied that is communicated to a person in circumstances authorised by this section.
+
+    * **_relevant Minister_** means:
+
+     * (a) the Minister; or
+
+     * (aa) the Human Services Minister; or
+
+     * (b) the Prime Minister.
+
+    * **_Veterans' Affairs Department_** means the Department administered by the Minister administering the _Veterans' Entitlements Act 1986_.
+
+    * (2) Subject to this section, a person to whom this section applies must not:
+
+     * (a) make a record of any protected information; or
+
+     * (b) whether directly or indirectly, communicate to a person any protected information concerning another person.
+
+      * Penalty: Imprisonment for 1 year.
+
+    * (2A) Subsection (2) does not apply if the record is made, or the information is communicated:
+
+     * (a) under or for the purposes of this Act; or
+
+     * (b) in the performance of duties, as a person to whom this section applies, under or in relation to this Act; or
+
+     * (c) for the purpose for which the information was communicated under this section.
+
+    * (2B) Subsection (2) does not apply to the making of a record of information with the express or implied authorisation of the person to whom the information relates.
+
+    * (3) Subsection (2) does not prevent the Registrar or a person authorised by the Registrar from communicating any protected information:
+
+     * (a) to the Secretary, or an officer or employee of the Department, for the purpose of the administration of this Act; or
+
+     * (b) to the Secretary of the Department or the Veterans' Affairs Department, or an officer or employee of either Department, for the purpose of the administration of any law of the Commonwealth relating to pensions, allowances or benefits; or
+
+     * (ba) to:
+
+      * (ia) the Human Services Secretary; or
+
+      * (i) the Chief Executive Centrelink; or
+
+      * (ii) a Departmental employee (within the meaning of the _Human Services (Centrelink) Act 1997_);
+
+     * for the purpose of the administration of this Act or of any other law of the Commonwealth relating to pensions, allowances or benefits; or
+
+     * (bb) to:
+
+      * (i) the Chief Executive Medicare; or
+
+      * (ii) a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_);
+
+     * for the purpose of the performance of functions, or the exercise of powers, in connection with a medicare program; or
+
+     * (c) to a person performing, as a person to whom this section applies, duties under or in relation to this Act or the Registration and Collection Act, or under regulations made under either Act, for the purpose of enabling the person to perform the duties; or
+
+     * (ca) to a person performing, as a person to whom this section applies, duties under or in relation to an Act of which the Commissioner has the general administration, or under regulations made under such an Act, for the purpose of enabling the person to perform those duties; or
+
+     * (d) to the Secretary of the AttorneyGeneral's Department, or an officer or employee of that Department, for the purpose of:
+
+      * (i) the enforcement outside  of: 
+
+         * (A) child support liabilities; or 
+
+         * (B) maintenance liabilities that arose under the law of the Commonwealth or of a State or Territory; or
+
+      * (ii) the enforcement within  of maintenance liabilities that arose under the law of an external Territory or a foreign country; or
+
+     * (e) to any person, if the information concerns a credible threat to the life, health or welfare of a person and either of the following applies:
+
+      * (i) the Registrar, or the person authorised by the Registrar, believes on reasonable grounds that the communication is necessary to prevent or lessen the threat;
+
+      * (ii) there is reason to suspect that the threat may afford evidence that an offence may be, or has been, committed against a person and the information is communicated for the purpose of preventing, investigating or prosecuting such an offence; or
+
+     * (f) to a person who is authorised to obtain the information by the person to whom the information relates.
+
+    * (4) Subsection (2) does not prevent the Registrar, or a person authorised by the Registrar, from communicating any protected information to a person if:
+
+     * (a) the information cannot reasonably be obtained from a source other than the Department or the Human Services Department; and
+
+     * (b) the person to whom the information will be communicated has sufficient interest, within the meaning of subsection (4A), in the information; and
+
+     * (c) the Registrar, or the person authorised by the Registrar, is satisfied that the communication is for the purpose of subsection (4B), (4C), (4D), (4E) or (4F).
+
+    * (4A) A person has **_sufficient interest _**in protected information if:
+
+     * (a) the Registrar, or the person authorised by the Registrar, is satisfied that, in relation to the purpose of the communication, the person has a genuine and legitimate interest in the information; or
+
+     * (b) the person is a relevant Minister.
+
+    * (4B) A communication of protected information is for the purpose of this subsection if:
+
+     * (a) the communication is necessary to correct a mistake of fact in relation to the administration of this Act; and
+
+     * (b) the integrity of that administration will be at risk if the mistake of fact is not corrected.
+
+    * (4C) A communication of protected information is for the purpose of this subsection if the communication is necessary:
+
+     * (a) to brief a relevant Minister so that the Minister can consider or respond to complaints or issues raised with the Minister by or on behalf of a person (in writing or orally); or
+
+     * (b) to brief a relevant Minister for a meeting or forum that the Minister is to attend; or
+
+     * (c) to brief a relevant Minister in relation to issues raised or proposed to be raised publicly by or on behalf of the person to whom the information relates so that the Minister can respond by correcting a mistake of fact, a misleading perception or impression, a misleading statement or an incorrectly held opinion; or
+
+     * (d) to brief a relevant Minister about a possible error or delay on the part of the Registrar or an officer or employee of the Department or the Human Services Department; or
+
+     * (e) to brief a relevant Minister about an instance of an anomalous or unusual operation of this Act.
+
+    * (4D) A communication of protected information is for the purpose of this subsection if:
+
+     * (a) the information is about a missing person; and
+
+     * (b) the communication is necessary:
+
+      * (i) to assist a court, coronial enquiry, Royal Commission, department or authority, of the Commonwealth, a State or a Territory, in relation to the whereabouts of the missing person; or
+
+      * (ii) to locate a person (including the missing person); and
+
+     * (c) there is no reasonable ground to believe that the missing person would not want the information communicated.
+
+    * (4E) A communication of protected information is for the purpose of this subsection if:
+
+     * (a) the information is about a deceased person; and
+
+     * (b) the communication:
+
+      * (i) is necessary to assist a court, coronial enquiry, Royal Commission, department or authority, of the Commonwealth, a State or a Territory, in relation to the death of the person; or
+
+      * (ii) is necessary to help a person locate a relative or beneficiary of the deceased person; or
+
+      * (iii) is in relation to the administration of the estate of the deceased person; and
+
+     * (c) there is no reasonable ground to believe that the deceased person would not have wanted the information communicated.
+
+    * (4F) A communication of protected information is for the purpose of this subsection if the information is to establish:
+
+     * (a) the death of a person; or
+
+     * (b) the place where the death of a person is registered.
+
+    * (4G) Subsection (2) does not prevent the Registrar, or a person authorised by the Registrar, from communicating any protected information to a person if:
+
+     * (a) the person to whom the information will be communicated is a payee of a registered maintenance liability who has notified the Registrar, in accordance with section 113A of the Registration and Collection Act, of the payee's intention to institute a proceeding in accordance with that section; and
+
+     * (b) the information is communicated for the purpose of the proceeding.
+
+    * (5) A person to whom this section applies is not required:
+
+     * (a) to communicate protected information to a court; or
+
+     * (b) to produce a protected document in court;
+
+    * except where it is necessary to do so for the purposes of this Act.
+
+    * (5A) Subsections (2) and (5) apply to information communicated under paragraph (3)(d) or (e) as if the purposes referred to in those paragraphs were purposes of this Act.
+
+    * (6) Nothing in an Act of which the Commissioner has the general administration is to be taken to prohibit the Commissioner, a Second Commissioner, a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from communicating any information to a person performing, as a person to whom this section applies, duties under or in relation to this Act for the purpose of enabling the person to perform the duties.
+
+    * (7) Nothing in an Act of which the Commissioner has the general administration is to be taken to prohibit the Commissioner, a Second Commissioner, a Deputy Commissioner, or a person authorised by the Commissioner, a Second Commissioner or a Deputy Commissioner, from:
+
+     * (a) communicating to a court any information obtained under or for the purposes of such an Act; or
+
+     * (b) producing in court a document obtained or made under or for the purposes of such an Act;
+
+    * where it is necessary to do so for the purpose of carrying into effect the provisions of this Act.
+
+    * (8) A person to whom this section applies must, if and when required by the Registrar to do so, make an oath or declaration, in a manner and form specified by the Registrar in writing, to maintain secrecy in accordance with this section.
+
+    * (9) This section has effect subject to subsection 67N(10) of the _Family Law Act 1975_.
+
+##### 150AA  Offence of unauthorised use of information
+
+    * (1) A person commits an offence if:
+
+     * (a) the person:
+
+      * (i) makes a record of information; or
+
+      * (ii) communicates information to a person; or
+
+      * (iii) otherwise makes use of information; and
+
+     * (b) at the time the person does so, the person is not a person to whom this section applies (within the meaning of subsection 150(1)); and
+
+     * (c) the information is relevant information.
+
+      * Penalty: Imprisonment for 1 year.
+
+    * (2) If:
+
+     * (a) the relevant information was communicated to a person under subsection 150(4G); and
+
+     * (b) that person makes a record of, or communicates, the information for the purpose of a proceeding under section 113A of the Registration and Collection Act;
+
+    * subsection (1) of this section does not apply to any further recording, communication or use of that information by a person who is not a person to whom this section applies.
+
+        * Note: A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the _Criminal Code_).
+
+    * (3) In this section:
+
+    * **_relevant information_** means:
+
+     * (a) information about a person obtained from the records of the Department, the Human Services Department or the former Child Support Agency; or
+
+     * (b) information to the effect that there is no information about a person held in the records of the Department, the Human Services Department or the former Child Support Agency.
+
+##### 150A  Applications, notices, elections and replies to be in the manner specified by the Registrar
+
+    * (1) The Registrar may specify the manner in which an application, notice, election or reply required or able to be made or given under this Act is to be made or given.
+
+    * (2) Without limiting subsection (1), in respect of an application, notice, election or reply, the Registrar may specify any or all of the following matters:
+
+     * (a) the content of the application, notice, election or reply;
+
+     * (b) that the content is to be made or given in a particular form approved by the Registrar under subsection (4);
+
+     * (c) that the content is to be made or given orally;
+
+     * (d) that specified documents are to accompany it;
+
+     * (e) that the content is to be verified or that a document accompanying it is to be verified;
+
+     * (f) that it may be given on a specified kind of data processing device, or by way of electronic transmission, including specifying that it be given in accordance with certain software requirements.
+
+    * (3) In relation to an application, notice, election or reply, if the Registrar specifies that it, or a document accompanying it, must be signed, the Registrar may also specify that, if it is given to the Registrar on a data processing device, or by way of electronic transmission, it may contain the electronic signature of the person concerned.
+
+    * (4) The Registrar may in writing approve a form of application, notice, election or reply for the purposes of a particular section of this Act.
+
+        * Note: Strict compliance with the form is not required--see section 25C of the _Acts Interpretation Act 1901_.
+
+    * (5) In this section:
+
+    * **_electronic signature_**, in relation to a person, means a unique identification in an electronic form that is approved by the Registrar.
+
+##### 150B  Registrar's power to request tax file numbers
+
+    * (1) This section applies to a person in  if:
+
+     * (a) the person has applied for an administrative assessment of child support; or
+
+     * (b) another person has applied for the person to be assessed in respect of the costs of a child; or
+
+     * (d) the person is a carer entitled to child support; or
+
+     * (e) the person is a liable parent.
+
+    * (2) The Registrar may request, but not compel, the person:
+
+     * (a) to give the Registrar a written statement of the person's tax file number; or
+
+     * (b) if the person does not have a tax file number--to apply to the Commissioner for a tax file number and to give to the Registrar a written statement of the person's tax file number after the Commissioner has issued it.
+
+##### 150D  Registrar may require Commissioner to provide information
+
+    * (1) The Registrar may require the Commissioner to provide the Registrar with information about people, including tax file numbers, being information that is in the possession of the Commissioner.
+
+    * (2) Information provided to the Registrar under a requirement made under subsection (1) may be used only for the following purposes:
+
+     * (a) to ascertain whether a person may apply for administrative assessment of child support;
+
+     * (b) to make or amend an administrative assessment of child support;
+
+     * (c) to ascertain the happening of a child support terminating event;
+
+     * (d) to identify a person for purposes related to a purpose mentioned in paragraph (a), (b) or (c).
+
+##### 150DA  Registrar's jurisdiction to cease in certain circumstances
+
+    * If the Registrar receives notice, in accordance with an article that is prescribed by the regulations, of an international treaty that is so prescribed, that a carer entitled to child support is habitually resident in a foreign country that is a party to the treaty, the jurisdiction of the Registrar ceases in accordance with that article.
+
+### Part 9--Miscellaneous
+
+##### 150E  Suspension of liability to pay child support where parents reconcile
+
+    * Child support not payable if parents reconcile
+
+    * (1) The Registrar must make a determination (a **_suspension determination_**) that child support is not payable for a child by a liable parent to the other parent of the child if:
+
+     * (a) the Registrar is notified, or otherwise becomes aware, that the parents have become members of the same couple; and
+
+     * (b) the Registrar is satisfied that the parents have become members of the same couple.
+
+    * (2) If the Registrar makes a suspension determination, child support for the child is not payable by the liable parent to the other parent:
+
+     * (a) from the day the Registrar determines that the parents became members of the same couple; and
+
+     * (b) until the Registrar makes a determination under subsection (3) in relation to the parents.
+
+        * Note: Under section 12, there is a child support terminating event if the parents are members of the same couple for a period of 6 months or more.
+
+    * Payment of child support to continue if reconciliation not successful
+
+    * (3) If:
+
+     * (a) a child support terminating event has not happened in relation to a child and the child's parents under subsection 12(5); and
+
+     * (b) the Register is satisfied that the parents have ceased being members of the same couple;
+
+    * then the Registrar must make a determination under this subsection that child support is again payable by the liable parent to the other parent.
+
+    * (4) If the Registrar makes a determination under subsection (3), child support is again payable by the liable parent to the other parent from the day that the Registrar is satisfied that the parents ceased to be members of the same couple.
+
+    * Suspension determination not to prevent payment of child support to nonparent carers
+
+    * (5) To avoid doubt, child support is still payable by a liable parent for a child to a nonparent carer of the child despite a suspension determination being made in respect of the parents of the child.
+
+    * Parent taken not to be assessed in respect of the costs of the child
+
+    * (6) For the purposes of this Act and the Registration and Collection Act, a parent of a child is taken not to be assessed in respect of the costs of the child during the period in which child support is not payable by or to the parent under subsection (2).
+
+##### 151  Election by carer entitled to child support to end administrative assessment 
+
+    * (1) A carer entitled to child support for a child may, by notice given to the Registrar, elect that the liability of a liable parent to pay or provide child support for the child to the carer entitled to child support is to end from a specified day.
+
+    * (2) The notice must be given in the manner specified by the Registrar.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in which a notice may be given.
+
+    * (4) If:
+
+     * (a) a carer makes an election under subsection (1) in respect of a child; and
+
+     * (b) the carer is entitled to be paid, or is a claimant for, family tax benefit for the child, the Part A rate of which is higher than the base rate for the carer under clause 4 of Schedule 1 to the Family Assistance Act;
+
+    * the election has no effect unless and until the Secretary approves the election under section 151A.
+
+    * (5) If:
+
+     * (a) a person makes an election under subsection (1) in respect of a child; and
+
+     * (b) the application for administrative assessment under which the child support is payable was made, in accordance with paragraph 29B(1)(b), by an overseas authority of a reciprocating jurisdiction on behalf of the carer entitled to child support;
+
+    * the election has no effect unless and until the overseas authority approves the election.
+
+##### 151A  Procedure where person making election is receiving more than the base rate of family tax benefit Part A
+
+    * (1) As soon as practicable after a carer referred to in subsection 151(4) makes an election, the Registrar must inform:
+
+     * (a) the Secretary; or
+
+     * (b) if the Secretary has delegated his or her powers under this section to:
+
+      * (i) the Chief Executive Centrelink; or
+
+      * (ii) an officer or employee of the Human Services Department;
+
+     * the Chief Executive Centrelink.
+
+    * (2) The Secretary must, by applying clause 10 of Schedule 1 to the Family Assistance Act, decide whether the carer has taken reasonable action to obtain maintenance for the child if it were assumed that:
+
+     * (a) the election were to take effect; and
+
+     * (b) if the carer is a claimant for family tax benefit for the child--the carer were entitled to be paid the benefit.
+
+    * (3) The Secretary is taken to approve the election if the Secretary decides that the carer has taken reasonable action to obtain maintenance for the child.
+
+    * (4) The Secretary is taken not to approve the election if the Secretary decides that the carer has not taken reasonable action to obtain maintenance for the child.
+
+    * (5) As soon as practicable after the Secretary makes a decision under this section, the Secretary must tell the Registrar about the decision.
+
+    * (6) As soon as practicable after the Secretary decides not to approve the election, the Secretary must give the carer a written notice setting out the decision.
+
+    * (7) The Secretary may, by writing, delegate all or any of his or her powers under this section to:
+
+     * (a) the Chief Executive Centrelink; or
+
+     * (b) an officer or employee of the Human Services Department.
+
+##### 151B  Application for assessment/agreement to continue beyond child's 18th birthday
+
+    * (1) If a child turns 18 during a year in which the child is in fulltime secondary education, a carer entitled to child support for the child may apply for an administrative assessment, or a child support agreement, in relation to the child to continue in force until the last day of the secondary school year in which the child turns 18.
+
+        * Note: For **_fulltime secondary education_**,**_ last day_** and **_secondary school_** see section 5.
+
+    * (1A) If a relevant dependent child of a parent turns 18 during a year in which the child is in fulltime secondary education, the parent may apply for the relevant dependent child to be taken into account in any relevant administrative assessment until the last day of the secondary school year in which the child turns 18.
+
+    * (2) The application must be:
+
+     * (a) made to the Registrar in the manner specified by the Registrar; and
+
+     * (b) in the case of an application under subsection (1) for a child support agreement to continue in force--signed by both the carer entitled to child support for the child and the liable parent in relation to the child.
+
+        * Note: Section 150A provides for the Registrar to specify the manner in which an application may be made.
+
+##### 151C  Application for assessment/agreement to continue--Registrar's decision
+
+    * (1) The Registrar must either accept or refuse to accept an application under section 151B.
+
+    * (2) The Registrar must accept the application if, and only if, the Registrar is satisfied that:
+
+     * (a) the child has turned 17; and
+
+     * (b) either:
+
+      * (i) if the application is made under subsection 151B(1)--an administrative assessment, or a child support agreement, in relation to the child either is in force, or is likely to be in force, on the day before the child's 18th birthday; or
+
+      * (ii) otherwise--an administrative assessment that takes the child into account is in force, or is likely to be in force, on the day before the child's 18th birthday; and
+
+     * (c) the child is likely to be in fulltime secondary education on the child's 18th birthday; and
+
+     * (d) the child's 18th birthday will occur on or before the last day of the secondary school year; and
+
+     * (e) either:
+
+      * (i) the application is made before the child's 18th birthday; or
+
+      * (ii) there are, in the Registrar's opinion, exceptional circumstances justifying the making of the application after the child's 18th birthday.
+
+        * Note: For **_fulltime secondary education_**, **_last day_** and **_secondary school_** see section 5.
+
+    * Refusal of application
+
+    * (3) If the Registrar refuses to accept the application, the Registrar must immediately notify the applicant in writing.
+
+    * Acceptance of application
+
+    * (4) If the Registrar accepts the application, the Registrar must immediately notify the applicant, and the liable parent concerned, in writing.
+
+    * (5) A notice to a person under this section must include, or be accompanied by, a statement to the effect:
+
+     * (a) that the person may, subject to the Registration and Collection Act, object to the particulars of the assessment in relation to which the application under section 151B was made; and
+
+     * (b) that if the person is aggrieved by the decision on an objection to the particulars of the assessment (no matter who lodges the objection), he or she may, subject to that Act, apply to the SSAT for review of the decision.
+
+    * (6) A contravention of subsection (5) in relation to a decision does not affect the validity of the decision.
+
+    * (7) To avoid doubt, a reference in this section to an **_administrative assessment_** does not include a reference to an assessment made by the Registrar under subsection 93(2).
+
+##### 151D  Application under subsection 151B(1) for assessment/agreement to continue--consequences of acceptance
+
+    * Child support terminating event
+
+    * (1) If the Registrar accepts an application under subsection 151B(1) in relation to a child, then, in spite of section 12 (which deals with child support terminating events):
+
+     * (a) a child support terminating event does not happen in relation to the child when the child turns 18; and
+
+     * (b) a child support terminating event happens in relation to the child on whichever of the following days occurs first:
+
+      * (i) the day on which the Registrar is satisfied the child ceased to be in fulltime secondary education;
+
+      * (ii) the last day of the secondary school year to which the application relates.
+
+    * Registrar to take necessary action
+
+    * (2) If the Registrar accepts the application, the Registrar must immediately take such action as is necessary:
+
+     * (a) if the application is to continue an administrative assessment in force--to take account of the change effected by subsection (1) to the meaning of **_child support terminating event_** in relation to the child (whether by amending the assessment or otherwise); and
+
+     * (b) if the application is to continue a child support agreement in force--to take account of the change effected by subsection (1) to the meaning of**_ child support terminating event_** in relation to the child (whether by accepting a subsequent child support agreement or otherwise).
+
+    * Child to be regarded as aged 17 for purposes of Part 5
+
+    * (2A) If the Registrar accepts the application, the child is to be taken to be aged 17 for the purposes of applying Part 5 to the child throughout the period:
+
+     * (a) beginning on the day on which the child turned 18; and
+
+     * (b) ending on the day on which a child support terminating event (within the meaning of paragraph (1)(b)) happens in relation to the child.
+
+    * Date of effect of decision
+
+    * (3) A decision of the Registrar to grant an application in relation to a child under subsection 151B(1) takes effect on the day before the child turns 18, whether the decision is made before, on or after that day.
+
+##### 151E  Applications under subsection 151B(1A) in respect of administrative assessments--consequences of acceptance
+
+    * Registrar to take necessary action
+
+    * (1) If the Registrar accepts an application under subsection 151B(1A), the Registrar must immediately take such action as is necessary to take account of the change to the meaning of relevant dependent child (whether by amending an administrative assessment or otherwise).
+
+    * Child to be regarded as aged 17 for purposes of Part 5
+
+    * (2) If the Registrar accepts the application, the child is taken to be aged 17 for the purposes of applying Part 5 to the child throughout the period:
+
+     * (a) beginning on the day on which the child turned 18; and
+
+     * (b) ending on the last day of the secondary school year in which the child turns 18.
+
+    * Date of effect of decision
+
+    * (3) A decision of the Registrar to accept an application in relation to a child under subsection 151B(1A) takes effect on the day before the child turns 18, whether the decision is made before, on or after that day.
+
+##### 152  Court order etc. to cease to have effect where child support becomes payable
+
+    * (1) If:
+
+     * (a) at any time an amount of child support for a child becomes payable by a liable parent to another person under an administrative assessment; and
+
+     * (b) immediately before that time, a court order or a court registered maintenance agreement, a financial agreement (within the meaning of the _Family Law Act 1975_) or a Part VIIIAB financial agreement (within the meaning of that Act), had effect under which child support or maintenance for the child was payable by the liable parent to the other person; and
+
+     * (c) the court order, maintenance agreement, financial agreement or Part VIIIAB financial agreement did not give rise to an overseas maintenance liability;
+
+    * the court order, maintenance agreement, financial agreement or Part VIIIAB financial agreement ceases, at that time, to have effect.
+
+    * (2) If:
+
+     * (a) at any time, an amount of child support for a child becomes payable by a liable parent to another person under an administrative assessment; and
+
+     * (b) at that time, the liable parent and the other person are both residents of ; and
+
+     * (c) immediately before that time, an overseas maintenance liability had effect under which maintenance for the child was payable by the liable parent to the other person;
+
+    * the overseas maintenance liability ceases, at that time, to have effect.
+
+##### 153  Evidentiary certificates by Registrar
+
+    * A certificate by the Registrar stating: 
+
+     * (a) that a specified person was, on a specified day, a resident of ; or
+
+     * (b) that a specified person ceased, on a specified day, to be a resident of ; or
+
+     * (c) that a specified person applied on a specified day for one or both parents of a child to be assessed in respect of the costs of the child; or
+
+     * (d) that a specified person did not apply on or before a specified day for one or both parents of a child to be assessed in respect of the costs of the child; or
+
+     * (e) that a notice to the effect that the taxable income of a specified person under the _Income Tax Assessment Act 1936 _or the _Income Tax Assessment Act 1997 _for a specified year of income was nil, or to the effect that no tax is payable (before the allowance of any rebate or credit) under either of those Acts on the taxable income of a specified person for a specified year of income, was served on the person under the _Income Tax Assessment Act 1996_; or
+
+     * (f) that a notice mentioned in paragraph (e) was dated as at a specified day;
+
+    * is _prima facie _evidence of the matters stated in the certificate.
+
+##### 153A  Indexation of amounts
+
+    * (1) This section applies for the purposes of the following provisions:
+
+     * (a) subsection 65A(2); and
+
+     * (b) subsection 66(5).
+
+    * (2) For the purposes of this Act, the amount specified in those provisions in relation to a child support period that begins in a particular calendar year is taken to be the amount worked out using the formula:
+
+    * where: 
+
+    * **_base September quarter index number _**means the index number for the September quarter of 2005.
+
+    * **_highest September quarter index number_** means the highest index number for a September quarter since the base September quarter index number (and including the base September quarter).
+
+    * **_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
+
+    * (3) Subject to subsection (4), if at any time (whether before or after the commencement of this subsection) the Australian Statistician publishes an index number for a quarter in substitution for an index number previously published by the Australian Statistician for that quarter, the publication of the later index number is to be disregarded for the purposes of subsection (2).
+
+    * (4) If at any time the Australian Statistician changes the reference base for the Consumer Price Index, regard is to be had, for the purposes of applying subsection (2) after the change takes place, only to index numbers published in terms of the new reference base.
+
+##### 155  Publication of figures
+
+    * (1) Before the end of each calendar year, the Registrar must publish in the _Gazette _for all child support periods starting in the following calendar year:
+
+     * (a) the minimum annual rate of child support; and
+
+     * (b) the annual rate of child support specified in subsection 65A(2) (low income parents not on income support).
+
+    * (2) Before the end of each calendar year, the Secretary must publish in the _Gazette _for all child support periods starting in the following calendar year:
+
+     * (a) the annualised MTAWE figure for the relevant June quarter; and
+
+     * (b) the Costs of the Children Table, incorporating:
+
+      * (i) the annualised MTAWE figure for the relevant June quarter; and
+
+      * (ii) any other amounts in items in the table that can be worked out using the annualised MTAWE figure.
+
+    * (2A) Before the end of each financial year, the Secretary must publish in the _Gazette_ the AWE amount (within the meaning of subsection 58AA(1)) for the quarter ending on 31 December of that year.
+
+    * (3) The instruments published under subsections (1), (2) and (2A) are not legislative instruments.
+
+##### 156  Rounding of amounts
+
+    * (1) If an amount that is calculated or worked out under or for the purposes of this Act is not, apart from this section, a number of whole dollars, the amount is to be rounded to the nearest whole dollar.
+
+    * (2) If the amount that is calculated or worked out is an amount consisting of a number of whole dollars and 50c, the amount is to be rounded up to the nearest whole dollar.
+
+    * (3) This section does not apply in relation to the conversion of an annual rate of child support into a daily rate of child support.
+
+##### 157  Appearance by Registrar in proceedings etc.
+
+    * (1) In any action, prosecution or other proceeding under, or arising out of, this Act, the Registrar may appear personally or may be represented by:
+
+     * (a) a person enrolled as a barrister, solicitor, barrister and solicitor or legal practitioner of a federal court or of the Supreme Court of a State or Territory; or
+
+     * (b) a person authorised by the Registrar, in writing, to appear.
+
+    * (2) The appearance of a person, and the statement of the person that the person appears with the authority of the Registrar, is _prima facie _evidence of that authority.
+
+##### 158  Judicial notice of signature of Registrar etc.
+
+    * All courts and tribunals, and all judges and persons acting judicially or authorised by law or consent of parties to hear, receive and examine evidence, must take judicial notice of the signature of a person who holds or has held the office of Registrar.
+
+##### 159  False or misleading statements
+
+    * (1) A person who:
+
+     * (a) makes a statement to an officer that the person knows is false or misleading in a material particular; or
+
+     * (b) omits from a statement made to an officer any matter or thing without which the statement is, to the knowledge of the person, misleading in a material particular;
+
+    * is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 6 months.
+
+    * (2) In a prosecution of a person for an offence against subsection (1), if, having regard to:
+
+     * (a) the person's abilities, experience, qualifications and other attributes; and
+
+     * (b) all the circumstances surrounding the alleged offence;
+
+    * the person ought reasonably to have known that the statement to which the prosecution relates was false or misleading in a material particular, the person is to be taken to have known that the statement was false or misleading in a material particular.
+
+    * (3) A reference in subsection (1) to a statement made to an officer is a reference to a statement made to a person exercising powers under or in relation to this Act, whether the statement is made orally, in a document or in any other form, and includes, for example, a statement:
+
+     * (a) made in an application, form, notification, appeal or other document made, given or lodged, or purporting to be made, given or lodged, under this Act; or
+
+     * (b) made in answer to a question asked of the person under this Act; or
+
+     * (c) made in any information given, or purporting to be given, under this Act.
+
+##### 159A  Statements made recklessly etc.
+
+    * (1) A person is guilty of an offence if:
+
+     * (a) the person makes a statement to an officer; and
+
+     * (b) the statement:
+
+      * (i) is false or misleading in a material particular; or
+
+      * (ii) omits any matter or thing without which the statement is false or misleading in a material particular; and
+
+     * (c) the person is reckless as to whether the statement is a statement of that kind.
+
+      * Penalty: 5 penalty units.
+
+    * (2) In a prosecution of a person for an offence against subsection (1), if, having regard to:
+
+     * (a) the person's abilities, experience, qualifications and other attributes; and
+
+     * (b) all the circumstances surrounding the alleged offence;
+
+    * the person has acted without taking reasonable care as to the accuracy and completeness of the statement, or with intentional disregard to the requirements to obtain and provide relevant information, the person is to be taken to have been reckless as to whether the statement is false or misleading in a material particular.
+
+    * (3) A reference in subsection (1) to a statement made to an officer is a reference to a statement made to a person exercising powers under or in relation to this Act, whether the statement is made orally, in a document or in any other form, and includes, for example, a statement:
+
+     * (a) made in an application, form, notification, appeal or other document made, given or lodged, or purporting to be made, given or lodged, under this Act; or
+
+     * (b) made in answer to a question asked of the person under this Act; or
+
+     * (c) made in any information given, or purporting to have been given, under this Act.
+
+##### 159B  Failure to notify required information
+
+    * (1) A person is guilty of an offence if:
+
+     * (a) the person is required to notify information to the Registrar; and
+
+     * (b) the requirement is a requirement under section 63A; and
+
+     * (c) the person fails to notify the Registrar; and
+
+     * (d) the person is reckless as to the requirement.
+
+      * Penalty: 5 penalty units.
+
+    * (2) Strict liability applies to paragraph (1)(b).
+
+    * (3) In a prosecution of a person for an offence against subsection (1), if, having regard to:
+
+     * (a) the person's abilities, experience, qualifications and other attributes; and
+
+     * (b) all the circumstances surrounding the alleged offence;
+
+    * the person has acted without reasonable care or with intentional disregard to the requirement to notify the Registrar as required by section 63A, the person is to be taken to have been reckless as to that requirement.
+
+##### 160  Notification requirements
+
+    * (1) The Registrar may, by written notice given to a person to or by whom child support is payable, require the person to notify the Registrar, within 14 days and in the manner specified in the notice, if:
+
+     * (a) an event or change of circumstances specified in the notice happens; or
+
+     * (b) the person becomes aware that an event or change of circumstances specified in the notice is likely to happen.
+
+    * (2) An event or change of circumstances must not be specified in a notice under subsection (1) unless the happening of the event or change of circumstances might affect the payment of child support or the rate at which it is payable.
+
+    * (3) A person who refuses or fails to comply with a notice under subsection (1) is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 6 months.
+
+    * (3A) Subsection (3) applies only to the extent to which the person is capable of complying with the notice.
+
+    * (3B) Subsection (3) does not apply if the person has a reasonable excuse.
+
+    * (3C) Subsection (3) is an offence of strict liability.
+
+    * (4) It is a reasonable excuse for a person to refuse or fail to comply with a requirement under subsection (1) if complying with the requirement may tend to incriminate the person.
+
+    * (5) This section does not apply to a person:
+
+     * (a) in respect of whom an international maintenance arrangement applies; and
+
+     * (b) who is a resident of a reciprocating jurisdiction.
+
+##### 161  Obtaining of information and evidence
+
+    * (1) The Registrar may, where it is reasonably necessary for the purposes of this Act, by written notice, require a person:
+
+     * (a) to give to the Registrar, within a reasonable period (being a period of not less than 7 days), and in a reasonable manner, specified in the notice, such information as the Registrar requires; and
+
+     * (b) to attend before the Registrar, or before an officer authorised by the Registrar for the purpose, at a reasonable time and place specified in the notice, and then and there answer questions; and
+
+     * (c) to produce to the Registrar, at a reasonable time and place specified in the notice, any documents in the custody or under the control of the person.
+
+    * (2) The regulations must prescribe scales of expenses to be allowed to persons required to attend under this section.
+
+    * (3) A person who refuses or fails to comply with a requirement made under subsection (1) is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 6 months.
+
+    * (3A) Subsection (3) applies only to the extent to which the person is capable of complying with the requirement.
+
+    * (3B) Subsection (3) does not apply if the person has a reasonable excuse.
+
+    * (3C) Subsection (3) is an offence of strict liability.
+
+    * (4) It is a reasonable excuse for a person to refuse or fail to comply with a requirement under subsection (1) if complying with the requirement may tend to incriminate the person.
+
+    * (6) This section does not apply in relation to a person:
+
+     * (a) in respect of whom an international maintenance arrangement applies; and
+
+     * (b) who is a resident of a reciprocating jurisdiction.
+
+##### 162  Order to comply with requirement
+
+    * (1) Where:
+
+     * (a) a person is convicted before a court of an offence against subsection 161(3); or
+
+     * (b) a court makes an order under section 19B of the _Crimes Act 1914 _in relation to a person in relation to an offence against subsection 161(3);
+
+    * in relation to the refusal or failure of the person to comply (whether in whole or part) with a requirement made by or under this Act, the court may, in addition to imposing a penalty on the person or making such an order in relation to the person, as the case may be, and even though the time for complying with the requirement or any other such requirement has passed, order the person to comply with:
+
+     * (c) the requirement; and
+
+     * (d) such other requirements made, or that could be made, in relation to the person by or under this Act as the court considers necessary to ensure the effectiveness of the firstmentioned requirement;
+
+    * within a specified time or at a specified place and time.
+
+    * (2) If an order under subsection (1) is not given orally by the court to the person to whom the order is addressed, the proper officer of the court must cause a copy of the order to be served on the person in the prescribed manner.
+
+    * (3) A person who contravenes an order under subsection (1) is guilty of an offence punishable on conviction by imprisonment for a period not exceeding 12 months.
+
+    * (4) Strict liability applies to the element of an offence against subsection (3) that an order is an order under subsection (1).
+
+##### 162A  Obtaining information in relation to residents of reciprocating jurisdictions
+
+    * (1) If the Registrar does not possess sufficient information and documents to determine the overseas income of a person who is or was a resident of a reciprocating jurisdiction, the Registrar may, by written notice, request the person or an overseas authority of the reciprocating jurisdiction to give to the Registrar such information, or to produce to the Registrar such documents, as are necessary to enable the Registrar to determine the person's overseas income.
+
+    * (2) The Registrar may, by written notice given:
+
+     * (a) to a person:
+
+      * (i) to or by whom child support is payable; and
+
+      * (ii) who is or was a resident of a reciprocating jurisdiction; or
+
+     * (b) to an overseas authority of the reciprocating jurisdiction;
+
+    * request the person or authority to notify the Registrar, within 60 days and in the manner specified in the notice, if:
+
+     * (c) an event or change of circumstances specified in the notice happens; or
+
+     * (d) the person or authority becomes aware that an event or change of circumstances specified in the notice is likely to happen.
+
+    * (3) An event or change of circumstances must not be specified in a notice under subsection (2) unless the happening of the event or change of circumstances might affect the payment of child support or the rate at which it is payable.
+
+    * (4) The Registrar may, where it is reasonably necessary for the purposes of this Act, by written notice, request a person who is or was a resident of a reciprocating jurisdiction, or an overseas authority of the reciprocating jurisdiction:
+
+     * (a) to give to the Registrar, within a reasonable period, and in a reasonable manner, specified in the notice, such information as the Registrar requests; and
+
+     * (b) to attend before the Registrar, or before an officer authorised by the Registrar for the purpose, at a reasonable time and place specified in the notice, and then and there to answer questions; and
+
+     * (c) to produce to the Registrar, at a reasonable time and place specified in the notice, any documents in the custody or under the control of the person.
+
+    * (5) For the purposes of paragraph (4)(a), the reasonable period that is specified in the notice cannot be less than 28 days.
+
+##### 162B  Regulations may prescribe manner of giving notices or other communications
+
+    * The regulations may provide for how a notice or other communication may be given to a person who is a resident of a reciprocating jurisdiction.
+
+##### 162C  Requesting information for the purposes of a care percentage determination under the family assistance law
+
+    * The Registrar may request a person: 
+
+     * (a) to give information; or
+
+     * (b) to produce a document that is in the person's custody or under the person's control;
+
+    * to the Registrar if the Registrar considers that the information or document may be relevant to the making or revoking of a determination under Subdivision D or E of Division 1 of Part 3 of the Family Assistance Act.
+
+##### 163  Act not a taxation law
+
+    * This Act is not a taxation law within the meaning of the _Taxation Administration Act 1953_.
+
+##### 163A  Certain instruments not liable to duty
+
+    * (1) The following agreements, deeds and other instruments are not subject to any duty or charge under any law of a State or Territory or any law of the Commonwealth that applies only in relation to a Territory:
+
+     * (a) a deed or other instrument executed by a person under, or for the purposes of, an order made by a court under this Act;
+
+     * (b) an eligible child support agreement that confers a benefit in relation to a child eligible for administrative assessment, to the extent to which the agreement confers the benefit;
+
+     * (c) a deed or other instrument:
+
+      * (i) that is executed by a person under, or for the purposes of, an eligible child support agreement; and
+
+      * (ii) that confers a benefit in relation to a child eligible for administrative assessment;
+
+     * to the extent to which it confers the benefit.
+
+    * (2) A child support agreement is an eligible child support agreement for the purposes of this section if:
+
+     * (a) it has been accepted by the Registrar; and
+
+     * (b) it is a child support agreement of one of the following kinds:
+
+      * (i) a child support agreement made in connection with the dissolution or annulment of the marriage to which the agreement relates;
+
+      * (ii) a child support agreement (other than an agreement falling within subparagraph (i)) made in contemplation of the dissolution or annulment of the marriage to which the agreement relates;
+
+      * (iii) a child support agreement (other than an agreement falling within subparagraph (i) or (ii)) made in connection with the breakdown of the marriage to which the agreement relates;
+
+      * (iv) a child support agreement made in connection with the breakdown of the de facto relationship to which the agreement relates;
+
+      * (v) a child support agreement (other than a child support agreement falling within subparagraph (i), (ii), (iii) or (iv)) that relates to a child whose parents were not: 
+
+         * (A) married to each other; or 
+
+         * (B) in a de facto relationship with each other;
+
+      * at the time the child was conceived.
+
+    * (3) For the purposes of this section, a child support agreement, deed or other instrument that confers an entitlement to property in relation to a child may be taken to confer a benefit in relation to the child even though the agreement, deed or other instrument also deprives the child or another person of an entitlement to other property (being property of an equal or greater value) in relation to the child.
+
+    * (4) In this section:
+
+     * (a) a reference to the marriage to which a child support agreement relates is a reference to the marriage the parties to which are parties to the agreement; and
+
+     * (b) a reference to the de facto relationship to which a child support agreement relates is a reference to the de facto relationship the parties to which are parties to the agreement.
+
+    * (5) In this section:
+
+    * **_de facto relationship_** means:
+
+     * (a) a relationship between 2 persons (whether of the same sex or different sexes) who, although not legally married to each other, live with each other on a genuine domestic basis in a relationship as a couple; or
+
+     * (b) a relationship between 2 persons (whether of the same sex or different sexes) that is registered under a law of a State or Territory prescribed for the purposes of section 2E of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section.
+
+##### 163B  Regulations in relation to overseasrelated maintenance obligations etc.
+
+    * (1) The regulations may make provision for, and in relation to, giving effect to international maintenance arrangements.
+
+    * (2) Regulations made for the purposes of this section may:
+
+     * (a) confer jurisdiction on a federal court (other than the High Court) or a court of a Territory; or
+
+     * (b) invest a court of a State with federal jurisdiction.
+
+##### 164  Regulations
+
+    * The GovernorGeneral may make regulations, not inconsistent with this Act, prescribing all matters:
+
+     * (a) required or permitted by this Act to be prescribed; or
+
+     * (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act;
+
+    * and, in particular, may make regulations prescribing penalties not exceeding a fine of $1,000 for offences against the regulations.
+
+## Schedule 1--The Costs of the Children Table
+
+  * Note: See sections 55G and 55HA.
+
+##### 1  The Costs of the Children Table
+
+    * The Costs of the Children Table has effect.
+
+##### 2  Child support income ranges--fraction of MTAWE row
+
+    * (1) In each column of the Fraction of MTAWE row are specified 2 amounts. These amounts refer to:
+
+     * (a) the parents' combined child support income; or
+
+     * (b) if only one parent's income is to be used--the parent's child support income.
+
+    * (2) To work out the first dollar amount in each column (other than the first column), take the second amount in the previous column (worked under subclause (3)) and add one dollar.
+
+        * Note: The first dollar amount in each column is the lowest combined child support income, or child support income, covered by that column.
+
+    * (3) To work out the second dollar amount in each column (other than the last column), multiply the second fraction specified in that column by the annualised MTAWE figure for the relevant June quarter.
+
+        * Note: The second dollar amount in each column is the highest combined child support income, or child support income, covered by that column.
+
+##### 3  Costs of the children
+
+    * (1) Each item in the Costs of the Children Table sets out a method of working out the costs of the children.
+
+    * (2) If, under section 55G or 55HA, an item is identified in the first column of the table, the **_costs of the children _**is the amount that is the percentage specified in that item of the parents' combined child support income, or the parent's child support income, (as the case requires).
+
+    * (3) If, under section 55G or 55HA, an item (the **_relevant item_**) is identified in a row in the second, third, fourth or fifth column (the **_relevant column_**), the **_costs of the children _**is the total of the following amounts:
+
+     * (aa) the amount worked out for the item in that row in the first column by multiplying the percentage specified in that item by the highest combined child support income, or child support income, covered by that column;
+
+     * (a) if the relevant column is the third, fourth or fifth column--the amounts worked out for each item in that row in each of the previous columns (other than the first column) by multiplying the percentage specified in that item by the difference between:
+
+      * (i) the highest combined child support income, or child support income, covered by that column; and
+
+      * (ii) the highest combined child support income or child support income in the previous column;
+
+     * (b) in any case--the amount worked out by multiplying the percentage specified in the relevant item by the difference between:
+
+      * (i) the parents' combined child support income, or the parent's child support income, (as the case requires); and
+
+      * (ii) the highest combined child support income or child support income in the previous column.
+
+    * (4) If, under section 55G or 55HA, an item is identified in a row in the last column, the **_costs of the children _**is the total of the amounts worked out for the items in that row in each of the previous columns in accordance with paragraphs (3)(aa) and (a).
+
+#### Endnotes
+
+##### Endnote 1--About the endnotes
+
+The endnotes provide information about this compilation and the compiled law.
+
+The following endnotes are included in every compilation: 
+
+Endnote 1--About the endnotes
+
+Endnote 2--Abbreviation key
+
+Endnote 3--Legislation history
+
+Endnote 4--Amendment history
+
+Endnotes about misdescribed amendments and other matters are included in a compilation only as necessary.
+
+**Abbreviation key--Endnote 2**
+
+**The abbreviation key sets out abbreviations that may be used in the endnotes.
+
+**Legislation history and amendment history--Endnotes 3 and 4**
+
+**Amending laws are annotated in the legislation history and amendment history.
+
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+
+**Misdescribed amendments**
+
+**A misdescribed amendment is an amendment that does not accurately describe the amendment to be made. If, despite the misdescription, the amendment can be given effect as intended, the amendment is incorporated into the compiled law and the abbreviation "(md)" added to the details of the amendment included in the amendment history. 
+
+If a misdescribed amendment cannot be given effect as intended, the amendment is set out in the endnotes.
+
+##### Endnote 2--Abbreviation key
+
+##### Endnote 3--Legislation history
+
+   * _(a)_	The _Child Support (Assessment) Act 1989 _was amended by Part 2 (sections 5 and 6) only of the _Social Security and Veterans' Affairs Legislation Amendment Act (No 3) 1989,_ section 2 of which provides as follows:
+
+    * 2	Each provision of this Act commences, or is to be taken to have commenced, as the case requires, on the day, or at the time, shown by the note in italics at the foot of that provision
+
+   * _(b)_	The _Child Support (Assessment) Act 1989 _was amended by sections 3-10 and 12 only of the _Child Support Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows: 
+
+    * (1) This Act (other than section 22) commences on the day on which it receives the Royal Assent
+
+   * _(c)_	The _Child Support (Assessment) Act 1989 _was amended by subsection 3(5) only of the _Social Security Legislation Amendment (Family Measures) Act 1995_, subsection 2(3) of which provides as follows: 
+
+    * (3) Sch 2, 3, 4, 7, 8 and 9 commence on 1 January 1996
+
+   * _(d)_	The _Child Support (Assessment) Act 1989 _was amended by Sch 1 (Part 2) only of the _Family Law Reform (Consequential Amendments) Act 1995_, subsection 2(2) of which provides as follows: 
+
+    * (2) The amendments made by Parts 1, 2, 3, 4, 6, 8, 9 and 10 of Sch 1 commence on the commencement of section 31 of the _Family Law Reform Act 1995_
+
+   * (e) _	The _Child Support (Assessment) Act 1989 _was amended by Sch 2 (items 23-27) only of the _Statute Law Revision Act 1996_, subsection 2(2) of which provides as follows: 
+
+    * (2) Each item in Sch 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item
+
+   * Items 23, 25 and 26 are taken to have commenced immediately after the commencement of the _Child Support (Assessment) Act 1989_
+
+   * _	The _Child Support (Assessment) Act 1989 _came into operation on 1 October 1989 (gaz 1989, No S314) 
+
+   * Item 24 is taken to have commenced immediately after the commencement of section 27 of the _Child Support Legislation Amendment Act (No 2) 1992 _
+
+   * _	Item 27 is taken to have commenced immediately after the commencement of section 29 of the_ Child Support Legislation Amendment Act (No 2) 1992 _
+
+   * _	Sections 27 and 29 commenced on 11 December 1992
+
+   * _(f)_	The _Child Support (Assessment) Act 1989 _was amended by Sch 1 (items 287-297) only of the _Social Security Legislation Amendment (Parenting and Other Measures) Act 1997_, subsection 2(2) of which provides as follows:
+
+    * (2) Part 3 of Sch 1 commences on 1 July 1998 The remaining items of Sch 1 commence on 20 March 1998
+
+   * _(g)_	The _Child Support (Assessment) Act 1989 _was amended by Sch 7 (items 2-10) only of the _Social Security and Veterans' Affairs Legislation Amendment (Budget and Other Measures) Act 1998_, subsection 2(9) of which provides as follows:
+
+    * (9) Sch 7 commences, or is taken to have commenced, on 1 April 1998
+
+   * _(h)_	The _Child Support (Assessment) Act 1989 _was amended by the _Child Support Legislation Amendment Act 1998_, subsections 2(1) and (5)-(14) of which provide as follows:
+
+    * (1) Subject to this section, this Act commences on the day on which it receives the Royal Assent
+
+    * (5) Sch 14 and 18 commence immediately after the commencement of Sch 1
+
+    * (6) Sch 13 commences immediately after the commencement of Sch 14
+
+    * (7) Sch 15 commences immediately after the commencement of Sch 13
+
+    * (8) Sch 16 commences immediately after the commencement of Sch 15
+
+    * (9) Subject to subsection (10), the amendments made by Sch 7 commence on a day or days to be fixed by Proclamation
+
+    * (10) If an amendment referred to in subsection (2), (4) or (9) does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period 
+
+    * (11) Sch 23 (except Part 2) commences immediately after the commencement of Sch 16
+
+    * (12) Part 2 of Sch 23 commences on the day after the day on which the _A New Tax System (Fringe Benefits Reporting) Act 1999_ receives the Royal Assent However, if this Act receives the Royal Assent after the day on which that Act receives the Royal Assent, that Part commences on the day after the day on which this Act receives the Royal Assent 
+
+    * (13) Sch 24 (except Part 2) commences immediately after the commencement of Part 1 of Sch 23
+
+    * (14) Part 2 of Sch 24 commences when Part 2 of Sch 23 commences
+
+   * _(i)_	The _Child Support (Assessment) Act 1989 _was amended by Sch 4 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No 2) 1999_, subsection 2(2) of which provides as follows:
+
+    * (2) Sch 1 (Parts 1 to 5), Sch 3 to 6, Sch 7 (other than item 14), Sch 8 and 9, Sch 10 (other than item 63) and Sch 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Sch 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No 1) 1999_
+
+   * (j) _	The _Child Support (Assessment) Act 1989 _was amended by Sch 1 (items 285 and 286) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+
+    * (1) In this Act, **_commencing time _**means the time when the _Public Service Act 1999_ commences
+
+    * (2) Subject to this section, this Act commences at the commencing time
+
+   * _(k)_	The _Child Support (Assessment) Act 1989 _was amended by Sch 8 only of the _Federal Magistrates (Consequential Amendments) Act 1999_, subsection 2(1) of which provides as follows:
+
+    * (1) Subject to this section, this Act commences on the commencement of the _Federal Magistrates Act 1999_
+
+   * (l) _	The _Child Support (Assessment) Act 1989_ was amended by Sch 4 (items 2-9) only of the _A New Tax System (Family Assistance and Related Measures) Act 2000_, subsections 2(4) and (8) of which provide as follows:
+
+    * (4) Sch 2, items 3 to 5 and 15 to 57 of Sch 3 and Sch 5 and 6 commence immediately after the commencement of the provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999 _
+
+    * _	(8)	Items 2 to 9 of Sch 4 commence immediately after the commencement of Sch 4 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No 2) 1999_
+
+   * _	The provisions referred to in subsection 2(2) of the _A New Tax System (Family Assistance) (Administration) Act 1999_ and Sch 4 of the _A New Tax System (Family Assistance) (Consequential and Related Matters) Act (No 2) 1999_ commenced on 1 July 2000
+
+   * _(m)_	The _Child Support (Assessment) Act 1989_ was amended by Sch 3 (items 1-4, 4A and 4B) only of the _Family Law Amendment Act 2000_, subsection 2(1) of which provides as follows:
+
+    * (1) Subject to subsections (1A) and (2), this Act commences 28 days after the day on which it receives the Royal Assent
+
+   * _(n)_	The _Child Support (Assessment) Act 1989_ was amended by the _Child Support Legislation Amendment Act 2001_, subsections 2(1) and (5)-(9) of which provide as follows:
+
+    * (1) Subject to this section, this Act commences on the day on which it receives the Royal Assent
+
+    * (5) Item 1 of Sch 10 is taken to have commenced immediately after the commencement of section 124 of the _Family Court Act 1997_ of Western Australia
+
+    * (6) Item 2 of Sch 10 is taken to have commenced immediately after the commencement of Sch 16 to the _Child Support Legislation Amendment Act 1998_
+
+    * _	(7)	Items 3, 4 and 5 of Sch 10 are taken to have commenced immediately after the commencement of item 5 of Sch 4 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No 2) 1999_
+
+    * _	(8)	Items 6, 15, 16, 17 and 18 of Sch 10 are taken to have commenced immediately after the commencement of Sch 16 to the _Child Support Legislation Amendment Act 1998_
+
+    * _	(9)	Item 23 of Sch 10 is taken to have commenced immediately after the commencement of Sch 21 to the _Child Support Legislation Amendment Act 1998_
+
+   * _	Section 124 of the _Family Court Act 1997_ of  commenced on 26 September 1998 (_see_ Government Gazette, WA 25 September 1998, p 5295)
+
+   * Sch 16 to the _Child Support Legislation Amendment Act 1998_ commenced on 15 December 1998
+
+   * Sch 4 (item 5) to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No 2) 1999_ commenced on 1 July 2000
+
+   * Sch 21 to the _Child Support Legislation Amendment Act 1998 _commenced on 15 December 1998
+
+   * _(na)_	Subsection 2(1) (items 33 and 34) of the _Statute Law Revision Act 2007_ provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(nb)_	Subsection 2(1) (item 61) of the _Statute Law Revision Act 2008 _provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(o)_	Subsection 2(1) (items 5 and 6) of the _Child Support Legislation Amendment (Reform of the Child Support Scheme--Initial Measures) Act 2006 _provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * The _Child Support Legislation Amendment Act 2006 _was not enacted Therefore these amendments did not commence
+
+   * _(oa)_	Subsection 2(1) (item 30) of the _Statute Law Revision Act 2007_ provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(p)_	Subsection 2(1) (item 14) of the _Families, Community Services and Indigenous Affairs and Other Legislation (2006 Budget and Other Measures) Act 2006 _provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(q)_	Subsection 2(1) (items 6, 8 and 9) of the _Child Support Legislation Amendment (Reform of the Child Support Scheme--New Formula and Other Measures) Act 2006 _provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(r)_	Subsection 2(1) (item 21) of the _Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008_ provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(s)_	Subsection 2(1) (items 2, 5, 7, 9, 11, 13 and 16) of the _Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007_ provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(sa)_	Subsection 2(1) (items 52-54) of the _Statute Law Revision Act 2008 _provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(sb)_	Subsection 2(1) (items 10 and 11) of the _Statute Law Revision Act 2010 _provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+   * _(sc)_	Subsection 2(1) (items 2 and 3) of the _Federal Circuit Court of Australia (Consequential Amendments) Act 2013 _provides as follows:
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table Any other statement in column 2 has effect according to its terms
+
+##### Endnote 4--Amendment history
+

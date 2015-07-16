@@ -1,0 +1,466 @@
+Note: This is not the [authoritative source](https://www.comlaw.gov.au/Details/C2015C00188) for this act, and likely contains errors
+
+# Parliamentary Superannuation Act 2004
+
+##### No. 72, 2004
+
+### Compilation No. 5
+
+##### Compilation date: 14 April 2015
+
+##### Includes amendments up to: Act No. 36, 2015
+
+##### Registered: 17 April 2015
+
+### About this compilation
+
+**This compilation**
+
+**This is a compilation of the _Parliamentary Superannuation Act 2004_ that shows the text of the law as amended and in force on 14 April 2015 (the **_compilation date_**).
+
+This compilation was prepared on 17 April 2015.
+
+The notes at the end of this compilation (the **_endnotes_**) include information about amending laws and the amendment history of provisions of the compiled law.
+
+**Uncommenced amendments**
+
+**The effect of uncommenced amendments is not shown in the text of the compiled law. Any uncommenced amendments affecting the law are accessible on ComLaw (www.comlaw.gov.au). The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. For more information on any uncommenced amendments, see the series page on ComLaw for the compiled law.
+
+**Application, saving and transitional provisions for provisions and amendments**
+
+**If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+
+**Modifications**
+
+**If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. For more information on any modifications, see the series page on ComLaw for the compiled law.
+
+**Selfrepealing provisions**
+
+**If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+
+## Contents
+
+  * Part 1 Preliminary 
+
+       * 1 Short title 
+
+       * 2 Commencement 
+
+       * 3 Definitions 
+
+       * 4	Meaning of _complying superannuation fund	_3
+
+       * 5	Meaning of _new scheme entry time	_4
+
+       * 6	Meaning of _new scheme contribution period	_5
+
+  * Part 2 The new parliamentary superannuation scheme 
+
+     * Division 1--Commonwealth's obligations to make contributions	7
+
+       * 7 Persons to whom this Division applies 
+
+       * 8 The Commonwealth's obligations to make contributions 
+
+     * Division 2--Choice of funds	9
+
+       * 9 Meaning of _fund_--includes schemes and accounts 
+
+       * 10 When may a person choose a fund? 
+
+       * 11 The nature of the choice 
+
+       * 12 How to make a choice 
+
+       * 13 Duration of a choice notice 
+
+       * 14 Variation of a choice notice 
+
+       * 15 Revocation of a choice notice 
+
+       * 16 Obligation to notify person of right to choose a fund 
+
+     * Division 3--The default fund	14
+
+       * 17 Declaration of the default fund 
+
+  * Part 3 Miscellaneous 
+
+       * 18 Appropriation 
+
+       * 19 Regulations 
+
+  * Endnotes	16
+
+     * Endnote 1--About the endnotes	16
+
+     * Endnote 2--Abbreviation key	17
+
+     * Endnote 3--Legislation history	18
+
+     * Endnote 4--Amendment history	19
+
+### An Act to provide for the making of superannuation contributions in respect of members of Parliament, and for related purposes
+
+### Part 1--Preliminary
+
+##### 1  Short title
+
+    * This Act may be cited as the _Parliamentary Superannuation Act 2004_.
+
+##### 2  Commencement
+
+    * (1) Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+       * Note: This table relates only to the provisions of this Act as originally passed by the Parliament and assented to. It will not be expanded to deal with provisions inserted in this Act after assent.
+
+    * (2) Column 3 of the table contains additional information that is not part of this Act. Information in this column may be added to or edited in any published version of this Act.
+
+##### 3  Definitions
+
+    * In this Act: 
+
+    * **_administering authority_** means:
+
+     * (a) in relation to a person who is or will be a senator--the Clerk of the Senate; and
+
+     * (b) in relation to a person who is a member of the House of Representatives--the Clerk of the House of Representatives.
+
+    * **_allowance by way of salary _**does not include:
+
+     * (a) special allowance of office; or
+
+     * (b) electorate allowance; or
+
+     * (c) travelling allowance; or
+
+     * (d) any allowance, or allowance included in a class of allowances, specified in regulations for the purposes of this definition.
+
+    * **_basic contributions fund_**, in relation to a person at a particular time, means:
+
+     * (a) if a choice notice given by the member is in force under Division 2 of Part 2 at that time--the fund that is, at that time, specified in the notice as the chosen fund; or
+
+     * (b) otherwise--the fund or scheme that is, at that time, the default fund under Division 3 of Part 2.
+
+    * **_complying superannuation fund _**has the meaning given by section 4.
+
+    * **_month _**means one of the 12 months of the year.
+
+    * **_new scheme contribution period_**, in relation to a person, has the meaning given by section 6.
+
+    * **_new scheme entry time_**, in relation to a person, has the meaning given by section 5.
+
+    * **_office holder _**means a person who:
+
+     * (a) is entitled to a parliamentary allowance; and
+
+     * (b) holds an office in, or in relation to, the Parliament or either House of the Parliament, being an office in respect of which he or she is entitled to an allowance by way of salary;
+
+    * but does not include a Minister of State.
+
+    * **_parliamentary allowance_** means:
+
+     * (a) an allowance by way of salary under clause 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_:
+
+      * (i) as in force before the commencement of Schedule 2 (the **_amending Schedule_**) to the _Remuneration and Other Legislation Amendment Act 2011_; or
+
+      * (ii) as continued in force by item 21 of the amending Schedule; or
+
+     * (b) parliamentary base salary (within the meaning of the _Remuneration Tribunal Act 1973_).
+
+    * **_RSA _**has the same meaning as in the _Retirement Savings Accounts Act 1997_.
+
+    * **_salary_**, in relation to a Minister of State, does not include any allowance.
+
+    * **_self managed superannuation fund _**has the same meaning as in the _Superannuation Industry (Supervision) Act 1993_.
+
+##### 4  Meaning of complying superannuation fund
+
+    * (1) For the purposes of this Act, a fund or scheme is a **_complying superannuation fund _**at a particular time if, and only if:
+
+     * (a) the fund or scheme is a complying superannuation fund for the purposes of the _Income Tax Assessment Act 1997 _in relation to the year of income in which the time occurs; and
+
+     * (b) the fund or scheme is a superannuation fund as defined by subsection 6(1) of the _Income Tax Assessment Act 1936_.
+
+    * (2) In applying paragraph (1)(a) in relation to a fund or scheme and a particular time, the following are to be disregarded:
+
+     * (a) any notice that is given after that time under section 40 of the _Superannuation Industry (Supervision) Act 1993_ and that relates to the fund or scheme and the year of income in which the time occurs;
+
+     * (b) any revocation or setting aside, after that time, of a notice given before that time under section 40 of the _Superannuation Industry (Supervision) Act 1993_ and that relates to the fund or scheme and the year of income in which the time occurs or an earlier year of income.
+
+##### 5  Meaning of new scheme entry time
+
+    * (1) For the purposes of this Act, the **_new scheme entry time_** for a person is the first time after the commencement of this Act in relation to which the following conditions are satisfied:
+
+     * (a) the time is on or after the polling day for the first general election following the commencement of this Act;
+
+     * (b) the person becomes entitled to a parliamentary allowance at that time;
+
+     * (c) the person was not entitled to a parliamentary allowance immediately before that time.
+
+    * (2) For the purposes of subsection (1), if a person:
+
+     * (a) ceased to be a member of the House of Representatives upon the dissolution or expiration of that House; and
+
+     * (b) was elected as a member of the Senate within 3 months after so ceasing to be a member of the House of Representatives;
+
+    * then the person is taken to have been entitled to a parliamentary allowance from the time of so ceasing to be a member of the House of Representatives until the time the person first becomes entitled to parliamentary allowance after being so elected as a member of the Senate.
+
+    * (3) For the purposes of subsection (1), if a person:
+
+     * (a) resigned as a member of the Senate; and
+
+     * (b) was elected as a member of the House of Representatives within 3 months after the resignation;
+
+    * then the person is taken to have been entitled to a parliamentary allowance from the time the person resigned as a member of the Senate until the time the person was elected as a member of the House of Representatives.
+
+    * (4) For the purposes of subsections (2) and (3), a person who is elected as a result of a polling is taken to be elected on the polling day.
+
+    * (5) In this section:
+
+    * **_general election _**means a general election of the members of the House of Representatives.
+
+##### 6  Meaning of new scheme contribution period
+
+    * (1) For the purposes of this Act, a **_new scheme contribution period_** of a person is a period described in subsection (2) or (3).
+
+    * (2) The period that starts at the new scheme entry time for the person and that ends when the person next ceases to be entitled to a parliamentary allowance is a **_new scheme contribution period_** of the person.
+
+    * (3) The period that starts at any later time in relation to which the following conditions are satisfied:
+
+     * (a) the person becomes entitled to a parliamentary allowance at that time;
+
+     * (b) the person was not entitled to a parliamentary allowance immediately before that time;
+
+    * and that ends when the person next ceases to be entitled to a parliamentary allowance is a **_new scheme contribution period _**of the person.
+
+### Part 2--The new parliamentary superannuation scheme
+
+#### Division 1--Commonwealth's obligations to make contributions
+
+##### 7  Persons to whom this Division applies
+
+    * This Division applies to a person (the **_member_**) in respect of a month if all or part of the month is in a new scheme contribution period of the person.
+
+##### 8  The Commonwealth's obligations to make contributions
+
+    * (1) If this Division applies to the member in respect of a month, the Commonwealth must make a contribution, in respect of the member, to the basic contributions fund of the member.
+
+       * Note: The **_basic contributions fund_** of the member is defined in section 3. It will be either a fund, scheme or account chosen by the member under Division 2 or the default fund under Division 3.
+
+    * (2) Subject to subsections (3) and (4), the amount of the contribution is an amount equal to 15.4% of the sum of:
+
+     * (a) the amount of parliamentary allowance to which the person is entitled in respect of the month; and
+
+     * (b) the amount (if any) of salary to which the member is entitled because he or she was a Minister of State for some or all of the month; and
+
+     * (c) the amount (if any) of allowance by way of salary to which the member is entitled because he or she was an office holder for some or all of the month.
+
+    * (3) For the purpose of paragraph (2)(a), any reduction under Part 1 of Schedule 3 to the _Remuneration and Allowances Act 1990_ (about salary sacrifice) of the member's entitlement to parliamentary allowance is to be disregarded.
+
+    * (4) An amount of parliamentary allowance, salary, or allowance by way of salary, is not to be taken into account under subsection (2) to the extent (if any) that it does not count as salary or wages for the purposes of section 19 of the _Superannuation Guarantee (Administration) Act 1992_.
+
+    * (5) If:
+
+     * (a) this Division applies to the member in respect of one or more of the months in a quarter (as defined in the _Superannuation Guarantee (Administration) Act 1992_); and
+
+     * (b) the Commonwealth makes contributions as required by this section in respect of the member and the month or months in the quarter in respect of which this Division applies; and
+
+     * (c) the Commonwealth would otherwise have an individual superannuation guarantee shortfall, in respect of the member and the quarter, for the purposes of the _Superannuation Guarantee (Administration) Act 1992_;
+
+    * then, for the purposes of the _Superannuation Guarantee (Administration) Act 1992_, the Commonwealth is, by making those contributions, taken to have reduced its charge percentage for the quarter to nil under whichever of section 22 or 23 of that Act is applicable.
+
+    * (6) Despite anything else in this section, the Commonwealth is not required by this section to pay contributions to the person's basic contributions fund if, under the _Superannuation Industry (Supervision) Act 1993 _(including the regulations under that Act), the basic contributions fund is not permitted to receive those contributions.
+
+#### Division 2--Choice of funds
+
+##### 9  Meaning of fund--includes schemes and accounts
+
+    * In this Division: 
+
+    * **_fund _**includes a scheme or account.
+
+##### 10  When may a person choose a fund?
+
+    * A person (the **_member_**) may choose a fund as described in section 11 if, and only if:
+
+     * (a) the choice is made during a new scheme contribution period of the person; or
+
+     * (b) the choice is made before the start of a new scheme contribution period of the person and at a time when:
+
+      * (i) the person has been elected to the Senate, but his or her entitlement to parliamentary allowance as a senator has not yet commenced; or
+
+      * (ii) the person has been chosen or appointed to hold the place of a senator in accordance with section 15 of the Constitution, but his or her entitlement to parliamentary allowance as a senator has not yet commenced.
+
+##### 11  The nature of the choice
+
+    * (1) The member may choose a fund (the **_chosen fund_**) to be the fund to which contributions are made under this Act in respect of the member.
+
+       * Note: The choice can be varied or revoked (see sections 14 and 15).
+
+    * (2) The chosen fund must, at the time the choice is made, be either:
+
+     * (a) a complying superannuation fund; or
+
+     * (b) an RSA.
+
+    * (3) There can only be one chosen fund at any particular time in relation to the member.
+
+##### 12  How to make a choice
+
+    * (1) A choice of a fund must be made by notice in writing (a **_choice notice_**) signed by the member.
+
+    * (2) The notice must:
+
+     * (a) specify the name of, and contact details for, the chosen fund; and
+
+     * (b) specify the date (the **_start date_**) from which the notice is to have effect, being the date the notice is given or a later date; and
+
+     * (c) contain such other information (if any) as is required by the regulations.
+
+    * (3) The notice must be accompanied by evidence that the chosen fund will accept contributions under this Act.
+
+    * (4) The notice must be given to the administering authority.
+
+##### 13  Duration of a choice notice
+
+    * If sections 10, 11 and 12 are complied with, a choice notice comes into force on the start date for the notice and remains in force until whichever of the following occurs first:
+
+     * (a) the contribution payable under this Act in respect of the month in which the member next ceases to be entitled to parliamentary allowance has been paid; or
+
+     * (b) a revocation of the notice takes effect (see section 15); or
+
+     * (c) the chosen fund ceases to exist; or
+
+     * (d) the chosen fund ceases to accept contributions under this Act; or
+
+     * (e) the chosen fund ceases to be a complying superannuation fund or an RSA.
+
+##### 14  Variation of a choice notice
+
+    * (1) The member may vary a choice notice he or she has given by notice in writing signed by the member and given to the administering authority.
+
+    * (2) The only variations that are permitted are:
+
+     * (a) to change the chosen fund to another fund that is, at the time the notice is given:
+
+      * (i) a complying superannuation fund; or
+
+      * (ii) an RSA; or
+
+     * (b) to change the start date to a later date (but only if the start date has not already occurred).
+
+    * (3) The notice of variation must specify a date (the **_variation date_**) from which the variation is to take effect, being the date on which the notice is given or a later date.
+
+    * (4) A notice of variation to change the chosen fund to another complying superannuation fund or RSA (the **_new fund_**) must:
+
+     * (a) specify the name of, and contact details for, the new fund; and
+
+     * (b) be accompanied by evidence that the new fund will accept contributions under this Act.
+
+    * (5) If the notice of variation complies with this section, it varies the choice notice accordingly (subject to any later variations) with effect from the variation date.
+
+##### 15  Revocation of a choice notice
+
+    * (1) The member may revoke a choice notice he or she has given by notice in writing signed by the member and given to the administering authority.
+
+    * (2) The notice of revocation must specify a date from which the revocation is to take effect, being the date on which the notice of revocation is given or a later date.
+
+    * (3) If the notice of revocation complies with this section, the revocation takes effect on the specified date.
+
+##### 16  Obligation to notify person of right to choose a fund
+
+    * (1) Within 28 days after a person (the **_member_**) becomes a person who, under section 10, can choose a fund as described in section 11, the administering authority must cause the member to be given written notice containing the following information:
+
+     * (a) a statement that the member may choose a complying superannuation fund or an RSA as the fund to which contributions in respect of the member will be paid under this Act;
+
+     * (b) a statement to the effect that if the member does not choose a fund, the contributions will be paid to the fund that is, from time to time, the default fund;
+
+     * (c) such other information (if any) as is required by the regulations.
+
+    * (2) For the purposes of subsection (1), a person becomes a person who, under section 10, can choose a fund as described in section 11, on whichever of the following days applies:
+
+     * (a) in the case of a person to whom paragraph 10(a) applies:
+
+      * (i) unless subparagraph (ii) applies--the first day of the relevant new scheme contribution period of the person; or
+
+      * (ii) if the day on which the person is declared, under section 283 or 284 of the _Commonwealth Electoral Act 1918_, to have been elected is later than the day applicable under subparagraph (i)--that later day;
+
+     * (b) in the case of a person to whom subparagraph 10(b)(i) applies--the day on which the person is declared, under section 283 of the _Commonwealth Electoral Act 1918_, to have been elected to the Senate;
+
+     * (c) in the case of a person to whom subparagraph 10(b)(ii) applies--the day on which the person is chosen or appointed as mentioned in that subparagraph.
+
+#### Division 3--The default fund
+
+##### 17  Declaration of the default fund
+
+    * (1) The Minister may, by notice in writing signed by the Minister, declare that a fund or scheme is the default fund for the purposes of this Act. At the time the declaration is made, the fund or scheme must be a complying superannuation fund (other than a self managed superannuation fund).
+
+    * (2) A declaration under subsection (1) must specify the date of effect of the declaration. The specified date may be the day on which the declaration is signed, or an earlier or later day.
+
+    * (3) The Minister must make a declaration under subsection (1) as soon as practicable after the commencement of this section.
+
+    * (4) The Minister must ensure that there is only one default fund at any one time.
+
+    * (5) The Minister may, by notice in writing signed by the Minister, revoke a declaration made under subsection (1) at any time.
+
+    * (6) A revocation under subsection (5) must specify the date of effect of the revocation. The specified date may be the day on which the notice is signed, or an earlier or later day.
+
+    * (7) If the Minister, under subsection (5), revokes a declaration under subsection (1), the Minister must make another declaration under subsection (1) which takes effect immediately after the revocation takes effect.
+
+### Part 3--Miscellaneous
+
+##### 18  Appropriation
+
+    * The Consolidated Revenue Fund is appropriated for the purposes of paying contributions under this Act.
+
+##### 19  Regulations
+
+    * The GovernorGeneral may make regulations prescribing matters: 
+
+     * (a) required or permitted by this Act to be prescribed; or
+
+     * (b) necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+#### Endnotes
+
+##### Endnote 1--About the endnotes
+
+The endnotes provide information about this compilation and the compiled law.
+
+The following endnotes are included in every compilation: 
+
+Endnote 1--About the endnotes
+
+Endnote 2--Abbreviation key
+
+Endnote 3--Legislation history
+
+Endnote 4--Amendment history
+
+Endnotes about misdescribed amendments and other matters are included in a compilation only as necessary.
+
+**Abbreviation key--Endnote 2**
+
+**The abbreviation key sets out abbreviations that may be used in the endnotes.
+
+**Legislation history and amendment history--Endnotes 3 and 4**
+
+**Amending laws are annotated in the legislation history and amendment history.
+
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+
+**Misdescribed amendments**
+
+**A misdescribed amendment is an amendment that does not accurately describe the amendment to be made. If, despite the misdescription, the amendment can be given effect as intended, the amendment is incorporated into the compiled law and the abbreviation "(md)" added to the details of the amendment included in the amendment history. 
+
+If a misdescribed amendment cannot be given effect as intended, the amendment is set out in the endnotes.
+
+##### Endnote 2--Abbreviation key
+
+##### Endnote 3--Legislation history
+
+##### Endnote 4--Amendment history
+
