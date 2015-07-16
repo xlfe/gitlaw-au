@@ -17,19 +17,56 @@ import re
 code_map = [
     ('\r', ''),     #Character return
     (u'\xa0', ' '),     #Non breaking space
+    (u'\u00b0', ' (?degree?) '),     #degree sign
     (u'\u2018', "'"),   #Left single quotation mark
     (u'\u2019', "'"),   #Right single quotation mark
-    (u'\u2022', ' + '),   #Bullet
+    (u'\u2022', ' '),   #Bullet
     (u'\u201c', '"'),   #Left double quotation mark
     (u'\u201d', '"'),   #Right double quotation mark
-    (u'\u2013', ' '),   #
-    (u'\u2014', '--'),   #Em dash
-    (u'\u2026', ' '),   #horizontal elipsis
+    (u'\u2013', '-'),   #En dash
+    (u'\u2014', '--'),  #Em dash
+    (u'\u2026', '...'), #horizontal elipsis
     (u'\u2011', '-')    #Non-breaking hyphen
 ]
 STYLE = collections.namedtuple('STYLE', 'BOLD ITALIC')
 
-TEXT = collections.namedtuple('TEXT', 'bold italic indent heading new_para text')
+class NEWPARA(object):
+    pass
+
+class TEXT(object):
+    ARGS = ['bold', 'italic', 'indent', 'heading', 'text']
+
+    def __init__(self, *args, **kwargs):
+
+        if len(args) == len(self.ARGS):
+            for i, arg in enumerate(self.ARGS):
+                setattr(self, arg, args[i])
+        else:
+            for arg in self.ARGS:
+                try:
+                    setattr(self, arg, kwargs[arg])
+                except KeyError:
+                    setattr(self, arg, None)
+
+        assert self.text is not None
+
+    def _asdict(self):
+        return {k:getattr(self, k) for k in self.ARGS}
+
+    def __add__(self, other):
+        """try to add two text objects together"""
+
+
+        #Only check styles if there is non-whitespace characters
+        if other.text.strip() != '':
+            for arg in self.ARGS[:-1]:
+                if getattr(self, arg) != getattr(other, arg):
+                    raise ValueError('{} is not equal'.format(arg))
+
+        added = TEXT(**self._asdict())
+        added.text += other.text
+        return added
+
 
 def whitespace_handler(match):
     o = ''
@@ -42,43 +79,6 @@ def whitespace_handler(match):
     if o != '':
         return o + ' * '
     return o
-
-
-class StyleManager(object):
-
-    def __init__(self):
-        self.s = STYLE(False, False)
-
-    def this_style(self, rs, text):
-
-        out = ''
-
-        ts = STYLE(rs.bold, rs.italic)
-
-        if self.s != ts:
-            #change in style
-
-            out += self.close()
-
-            if ts.BOLD:
-                out += '**'
-
-            if ts.ITALIC:
-                out += '_'
-
-        self.s = ts
-        out += text
-
-        return out
-
-
-    def close(self):
-        out = ''
-        if self.s.ITALIC:
-            out += '_'
-        if self.s.BOLD:
-            out += '**'
-        return out
 
 
 
@@ -181,95 +181,161 @@ class TextUtil(object):
                 for frm, to in code_map:
                     text = text.replace(frm, to)
 
-
-                # while had_nl and text.startswith(' ') or text.startswith('\t'):
-                #     if text.startswith(' '):
-                #         run_indent += 1
-                #     elif text.startswith('\t'):
-                #         run_indent += 4
-                #     text = text[1:]
+                #Remove EMBED WORD PICTURE
+                if text.strip().startswith('EMBED'):
+                    continue
 
                 remove = r'(DOCPROPERTY ([a-zA-Z]+)|TOC \\o|PAGEREF _[a-zA-Z0-9]+ \\h [\d]+|STYLEREF [a-zA-Z0-9]+)'
+                text = re.sub(remove, '', text)
 
-
-                text = re.sub(remove,'',text)
-
-                if text.replace(' ','') != '':
-                    out.append(TEXT(
-                        1 if r.bold == True else 0,
-                        1 if r.italic == True else 0,
-                        indent + run_indent,
-                        size_index,
-                        0,
-                        text
-                    ))
-
-                # if not text.endswith('\n'):
-                #     had_nl = False
-
-
-
+                out.append(TEXT(
+                    1 if r.bold == True and size_index == 0 else 0,
+                    1 if r.italic == True and size_index == 0 else 0,
+                    indent + run_indent,
+                    size_index,
+                    text
+                ))
 
             #Paragraph
-            out.append(TEXT(0, 0, 0, 0, 1, None))
-
-            # run += style.close()
-            #
-            # for line in run.split('\n'):
-            #
-            #
-            #line = re.sub(r'^([\s]+)',whitespace_handler, line, count=1)
-            #     out.append(heading + line)
-            #     try:
-            #         test = u'{}'.format(line.encode('ascii'))
-            #     except:
-            #         print line
-            #         raise
+            out.append(NEWPARA())
 
 
-        joined = []
-        prev= {}
-        buffer = ''
-
-        for o in out:
-            style = o._asdict().copy()
-            text = style.pop('text')
-
-            if style == prev:
-                if text:
-                    buffer += text
-            else:
-                if buffer != '':
-                    prev['text'] = buffer
-                    joined.append(TEXT(**prev))
-                buffer = text
-                prev = style
+        return out
 
 
+class StyleManager(object):
 
-        return joined
+    def __init__(self):
+        self.s = STYLE(False, False)
+
+    def this_style(self, bold, italic, text):
+
+        out = ''
+
+        ts = STYLE(bold, italic)
+
+        if self.s != ts:
+            #change in style
+
+            out += self.close()
+
+            if ts.BOLD:
+                out += '**'
+
+            if ts.ITALIC:
+                out += '_'
+
+        self.s = ts
+        out += text
+
+        return out
 
 
-def joined_to_md(joined):
+    def close(self):
+        out = ''
+        if self.s.ITALIC:
+            out += '_'
+        if self.s.BOLD:
+            out += '**'
+        return out
+
+
+def join_styles(input):
+    """merge text from styles which are next to each other and identical"""
+
+    joined = []
+    prev = None
+
+    for i in input:
+
+        if isinstance(i, NEWPARA):
+
+            if prev:
+                joined.append(prev)
+
+            joined.append(i)
+            prev = None
+            continue
+
+        if prev:
+            try:
+                prev = prev + i
+            except ValueError:
+                joined.append(prev)
+                prev = i
+        else:
+            prev = i
+
+    return joined
+
+# prev['text'] = re.sub(r'^([\s]*)([a-z0-9\sA-Z]+:|\([0-9a-zA-Z\.]+\))([\s]*)', r'\1\3\2 ', buffer, count=1)
+
+no_style = STYLE(False, False)
+def apply_bold_italic(joined):
     """
-        Rules
-                Bold and Italic are ignored in headings
-                Headings are
-
+        Apply bold and italic rules to text
     """
 
+    style = StyleManager()
+
+    for j in join_styles(joined):
+
+        if isinstance(j, NEWPARA):
+            continue
+
+        if j.heading:
+            continue
+
+        j.text = style.this_style(j.bold, j.italic, j.text)
+        j.bold = False
+        j.italic = False
+
+    return joined
+
+def apply_indentation(joined):
+
+    joined = join_styles(joined)
+    output = []
+    had_nl = True
 
     for j in joined:
-        if j.text:
-            text = re.sub(r'^([\s]*)([a-z0-9\sA-Z]+:|\([0-9a-zA-Z\.]+\))([\s]*)', r'\1\3\2 ', j.text)
-            #j.text = ''
-            print j
-            print '{}'.format(text)
+
+        if isinstance(j,NEWPARA):
+            output.append('\n')
+            output.append('\n')
+            had_nl = True
+            continue
+
+        heading = ''
+        indent = ''
+
+        # text = j.text
+        #Contents often has    1    Name   2
+        text = re.sub(r'^[\s]*([\d]+)\t([^\t]+)\t([\d]+)', r'\1 \2 ', j.text)
+
+        #only apply headings or indents after a newline...
+        if had_nl:
+
+            if j.heading > 0:
+                heading = '#' * j.heading
+
+                # Remove spaces from the front of a heading...
+                text = re.sub(r'^[\s]*',' ',text, count=1)
+
+            elif j.indent > 0:
+                indent = ' ' * j.indent + ' * '
 
 
-    return ''
-    return '\n'.join(str(s) for s in joined)
-#
+        output.append(heading + indent + text)
+
+        if not '\n' in text:
+            had_nl = False
+
+
+
+    return ''.join(output)
+
+
 
 
 
@@ -298,13 +364,16 @@ converter = TextUtil()
 
 import re
 keepcharacters = (' ','.','-','(',')','/')
-WRITE = False
+WRITE = True
 
 print 'Loaded {} documents'.format(len(details))
 
 for doc in details:
 
-    if int(doc['pages'].split(' ')[0]) > 20:
+    try:
+        if int(doc['pages'].split(' ')[0]) > 20:
+            continue
+    except:
         continue
 
     directory = os.path.join('acts',doc['status'].lower(), doc['title'][0].lower())
@@ -325,7 +394,8 @@ for doc in details:
         continue
 
     joined = converter.convert(input=os.path.join('comlaw',doc['uuid']), output=fullpath, type=doc['type'])
-    result = joined_to_md(joined)
+    joined = apply_bold_italic(joined)
+    result = apply_indentation(joined)
     if WRITE:
         print 'Converted {}'.format(fullpath)
         try:
