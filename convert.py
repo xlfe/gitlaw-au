@@ -79,17 +79,20 @@ def para_indent(p):
     return indent
 
 def pts_to_header(pt):
-    if pt > 18:
+    if pt > 19:
         return 1
 
-    elif pt > 16:
+    elif pt > 17:
         return 2
 
-    elif pt > 14:
+    elif pt > 15:
         return 3
 
-    elif pt > 12:
+    elif pt > 13:
         return 4
+
+    elif pt > 11:
+        return 5
 
     return 0
 
@@ -115,41 +118,7 @@ class TextUtil(object):
             docx = Document('./tmp')
             # os.remove('./tmp')
 
-        normal = docx.styles['Normal']
 
-        if docx.styles['Normal'] and docx.styles['Normal'].font and docx.styles['Normal'].font.size:
-            normal_size = docx.styles['Normal'].font.size.pt
-        else:
-            normal_size = Pt(11).pt
-
-
-        indents = collections.defaultdict(int)
-        font_sizes = collections.defaultdict(int)
-        prev_indent = 0
-
-        for p in docx.paragraphs:
-            if not p.text.strip():
-                continue
-
-            indent = para_indent(p)
-            indents[indent] += 1
-
-            if p.style.font and p.style.font.size:
-                p_size = p.style.font.size.pt
-            elif p.style.base_style and p.style.base_style.font and p.style.base_style.font.size:
-                p_size = p.style.base_style.font.size.pt
-            else:
-                p_size = normal_size
-
-            for r in p.runs:
-
-                r_size = r.font.size.pt if r.font.size is not None else p_size
-                font_sizes[r_size] += 1
-
-        font_sizes_ordered = sorted(font_sizes.iterkeys(), key=lambda k:int(k), reverse=True)
-        font_sizes_usage = sorted(font_sizes.iteritems(), key=lambda k:k[1], reverse=True)
-        most_common_size = font_sizes_usage[0][0]
-        idx_most_common = font_sizes_ordered.index(most_common_size)
         out = []
 
         for p in docx.paragraphs:
@@ -157,13 +126,12 @@ class TextUtil(object):
             if not p.text.strip():
                 continue
 
-
             if p.style.font and p.style.font.size:
                 p_size = p.style.font.size.pt
             elif p.style.base_style and p.style.base_style.font and p.style.base_style.font.size:
                 p_size = p.style.base_style.font.size.pt
             else:
-                p_size = normal_size
+                p_size = 11
 
             _indent = para_indent(p)
 
@@ -174,16 +142,10 @@ class TextUtil(object):
 
             sizes = collections.defaultdict(int)
             for r in p.runs:
+                sizes[r.font.size.pt if r.font.size is not None else p_size] += 1
 
-                r_size = r.font.size.pt if r.font.size is not None else p_size
-
-                size_index = font_sizes_ordered.index(r_size) + 1
-
-                if size_index > 6 or size_index >= idx_most_common:
-                    size_index = 0
-                sizes[size_index] += 1
-
-            size_index = sorted(sizes.iteritems(), key=lambda k:k[1], reverse=True)[0][0]
+            #Font size is the most common of the header
+            font_size= pts_to_header(sorted(sizes.iteritems(), key=lambda k:k[1], reverse=True)[0][0])
 
             for r in p.runs:
 
@@ -201,10 +163,10 @@ class TextUtil(object):
                 text = re.sub(remove, '', text)
 
                 out.append(TEXT(
-                    1 if r.bold == True and size_index == 0 else 0,
-                    1 if r.italic == True and size_index == 0 else 0,
+                    1 if r.bold == True and font_size == 0 else 0,
+                    1 if r.italic == True and font_size == 0 else 0,
                     indent + run_indent,
-                    size_index,
+                    font_size,
                     text
                 ))
 
@@ -395,7 +357,7 @@ converter = TextUtil()
 
 import re
 keepcharacters = (' ','.','-','(',')','/')
-WRITE = True
+WRITE = False
 
 print 'Loaded {} documents'.format(len(details))
 
