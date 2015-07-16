@@ -384,6 +384,10 @@ def convert(doc):
 
     directory = os.path.join('acts',doc['status'].lower(), doc['title'][0].lower())
     filename = doc['title'].lower() + '.md'
+
+    if doc['volname']:
+        filename = '{} - {}.md'.format(doc['title'].lower(),doc['volname'].lower())
+
     fullpath = os.path.join(directory, filename)
     fullpath = "".join(c for c in fullpath if c.isalnum() or c in keepcharacters).rstrip()
     converter.check_dir(directory)
