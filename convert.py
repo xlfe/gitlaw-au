@@ -17,7 +17,10 @@ import re
 code_map = [
     ('\r', ''),     #Character return
     (u'\xa0', ' '),     #Non breaking space
+    (u'\u00e9', 'e'),     #acute e
+    (u'\u00f4', 'o'),     #o with circumflex
     (u'\u00b0', ' (?degree?) '),     #degree sign
+    (u'\u00b7', '-'),     #middle dot
     (u'\u00b4', "'"),     #acute accent
     (u'\u2018', "'"),   #Left single quotation mark
     (u'\u2019', "'"),   #Right single quotation mark
@@ -27,7 +30,8 @@ code_map = [
     (u'\u2013', '-'),   #En dash
     (u'\u2014', '--'),  #Em dash
     (u'\u2026', '...'), #horizontal elipsis
-    (u'\u2011', '-')    #Non-breaking hyphen
+    (u'\u2011', '-'),    #Non-breaking hyphen
+    (u'\u23af', '-')    #Horizontal line
 ]
 STYLE = collections.namedtuple('STYLE', 'BOLD ITALIC')
 
@@ -112,11 +116,12 @@ class TextUtil(object):
             print 'Opening {}'.format(input)
             docx = Document(input)
         else:
+            tmp = './tmp-{}'.format(input.replace('comlaw/',''))
             print 'converting from {} {}'.format(type, input)
-            command = 'textutil -convert docx -stdout ./{} >| ./tmp'.format(input)
+            command = 'textutil -convert docx -stdout ./{} >| {}'.format(input,tmp)
             subprocess.check_call(command, shell=True)
-            docx = Document('./tmp')
-            # os.remove('./tmp')
+            docx = Document(tmp)
+            os.remove(tmp)
 
 
         out = []
@@ -149,11 +154,10 @@ class TextUtil(object):
 
             for r in p.runs:
 
-                run_indent = 0
-
                 text = r.text
                 for frm, to in code_map:
                     text = text.replace(frm, to)
+                text = text.encode('ascii','replace')
 
                 #Remove EMBED WORD PICTURE
                 if text.strip().startswith('EMBED'):
@@ -165,7 +169,7 @@ class TextUtil(object):
                 out.append(TEXT(
                     1 if r.bold == True and font_size == 0 else 0,
                     1 if r.italic == True and font_size == 0 else 0,
-                    indent + run_indent,
+                    indent,
                     font_size,
                     text
                 ))
@@ -271,10 +275,33 @@ def apply_bold_italic(joined):
 
 
 def convert_indentation(joined):
+    """
+        Headings are not indented... so we reset the indentation level at each heading
+    """
+
+    i_max = 0
+    i_min = 999
+    indents = []
 
     for j in joined:
+
         if isinstance(j, NEWPARA):
             continue
+
+        if j.indent not in indents:
+            indents.append(j.indent)
+
+
+    indents = sorted(indents)
+
+    for j in joined:
+
+        if isinstance(j, NEWPARA):
+            continue
+
+        j.indent = indents.index(j.indent)
+
+
 
         #Move spaces to before (i) etc
         j.text = re.sub(r'^([\s]*)([a-z0-9\sA-Z]+:|\([0-9a-zA-Z\.]+\))([\s]*)', r'\1\3\2 ', j.text, count=1)
@@ -283,7 +310,7 @@ def convert_indentation(joined):
             # if j.text.startswith(' '):
             #     j.indent += 1
             # elif j.text.startswith('\t'):
-            j.indent += 4
+            # j.indent += 2
             j.text = j.text[1:]
 
     return joined
@@ -305,18 +332,22 @@ def apply_indentation(joined):
         for text in j.text.split('\n'):
 
             #Contents often has    1    Name   2
-            text = re.sub(r'^[\s]*([\d]+)\t([^\t]+)\t([\d]+)', r'\1 \2 ', text)
+            #Contents often has    Part 1--Name   2
+
+            text = re.sub(r'^[\s]*(Part [\d]+|[\d]+)[-\t]+([^\t]+)\t([\d]+)', r'\1 \2 ', text)
 
 
             #only apply headings or indents after a newline...
 
             if j.heading > 0:
+                # output.append('H{}\n'.format(j.heading))
                 output.append('#' * j.heading)
 
                 # Remove spaces from the front of a heading...
                 text = re.sub(r'^[\s]*',' ',text, count=1)
 
             elif j.indent > 0:
+                # output.append('I{}\n'.format(j.indent))
                 output.append(' ' * j.indent + ' * ')
 
             output.append(text)
@@ -333,12 +364,6 @@ def apply_indentation(joined):
 
 
 
-with open(INPUT, 'r') as inp:
-
-    details = json.load(inp)
-
-
-
 # {
 #     u'status': u'Current',
 #     u'uuid': u'2f8dc4ff-7d4d-4769-9886-e9d93845ba03',
@@ -351,23 +376,11 @@ with open(INPUT, 'r') as inp:
 # }
 
 
-
 converter = TextUtil()
-
-
-import re
 keepcharacters = (' ','.','-','(',')','/')
-WRITE = False
+WRITE = True
 
-print 'Loaded {} documents'.format(len(details))
-
-for doc in details:
-
-    try:
-        if int(doc['pages'].split(' ')[0]) > 20:
-            continue
-    except:
-        continue
+def convert(doc):
 
     directory = os.path.join('acts',doc['status'].lower(), doc['title'][0].lower())
     filename = doc['title'].lower() + '.md'
@@ -377,25 +390,37 @@ for doc in details:
 
     if WRITE and os.path.exists(fullpath):
         print 'already converted {}'.format(fullpath)
-        continue
+        return
 
     if doc['type'] not in ['iconDOC', 'iconDOCX', 'iconRTF']:
         message = 'Unable to convert {} of type {}'.format(doc['title'], doc['type'])
         with open(fullpath, 'wb') as out:
             out.write(message)
         print message
-        continue
+        return
 
+    #Extract styles into simple format
     joined = converter.convert(input=os.path.join('comlaw',doc['uuid']), output=fullpath, type=doc['type'])
+
+    #Join styles together
     joined = join_styles(joined)
+
+    #Apply bold and italic
     joined = apply_bold_italic(joined)
+
+    #Join again
     joined = join_styles(joined)
+
+    #
     joined = convert_indentation(joined)
     result = apply_indentation(joined)
+
+    url = 'https://www.comlaw.gov.au/Details/{}'.format(doc['ComLawID'])
     if WRITE:
         print 'Converted {}'.format(fullpath)
         try:
             with open(fullpath, 'wb') as out:
+                out.write('Note: This is not the [authoritative source]({}) for this act, and likely contains errors\n\n'.format(url))
                 out.write(result)
         except:
             os.remove(fullpath)
@@ -404,6 +429,16 @@ for doc in details:
         if result != '':
             print result
 
+import multiprocessing
 
+if __name__ == '__main__':
 
+    with open(INPUT, 'r') as inp:
+        details = json.load(inp)
+
+    pool = multiprocessing.Pool(processes=8)
+
+    print 'Loaded {} documents'.format(len(details))
+    pool.map(convert, details)
+    print 'Converted {} documents'.format(len(details))
 
